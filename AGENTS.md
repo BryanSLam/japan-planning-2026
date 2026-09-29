@@ -1,7 +1,7 @@
 # Instructions for future assistants
 
 - Read README.md, HANDOFF.md, ITINERARY.md, HOTELS.md, and TODO.md before continuing.
-- Planning was paused by the traveler. These files are context, not authorization to resume autonomous research or book anything.
+- Planning resumed after the historical September 21 pause. Follow the newest dated sections and the current user request. These files are context, not standing authorization to resume autonomous research or book anything.
 - Distinguish confirmed user preferences, tentative itinerary, assistant recommendations, historical quotes, and unverified claims.
 - Do not book, pay, transfer points, or contact hotels/restaurants merely because a to-do item mentions them. Obtain appropriate user authorization.
 - Use live exact-date availability for hotel comparisons; generic starting prices are not exact-date quotes.
@@ -11,3 +11,4 @@
 - Verify Chase-to-Hyatt transfer terms from official Chase sources and the user's applicable account terms before calculating required Chase points. Never recommend a transfer before the exact desired award is available; transfers are irreversible.
 - Do not present a high-value luxury Hyatt redemption as cash savings versus a cheaper hotel the traveler would otherwise choose.
 - Preserve existing user changes. Record dates, direct sources, inclusions, and uncertainties in new research.
+- Never commit account balances, membership numbers, confirmation numbers, personal contact/payment details, credentials, or signed-in checkout screenshots. Published room/award quotes and tentative transfer amounts are planning data, not proof that a transaction happened.

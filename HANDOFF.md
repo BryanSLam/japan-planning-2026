@@ -1,8 +1,52 @@
 # LLM handoff
 
-Saved: September 21, 2026. Destination repository: https://github.com/BryanSLam/japan-planning-2026
+Original snapshot September 21; latest handoff updated September 28, 2026. Destination repository: https://github.com/BryanSLam/japan-planning-2026
 
-## Where the conversation stopped
+## Resume here — latest booking and points discussion, September 28
+
+- **Working route:** Tokyo Dec 8–10, Karaku/Hakone Dec 10–12, Osaka Dec 12–15, Tokyo Dec 15–16. The older Hiroshima/Miyajima route below is historical, not an extra stay to insert into these eight nights. Do not restore it without the traveler changing the route.
+- **Tokyo direction:** user is actively considering Regency Tokyo **2 Twin Beds, Club Access** on points for both stays. Last verified awards: Dec 8–10 **54,000** (27,000/night), Dec 15–16 **27,000**; combined **81,000 Hyatt points**, not per-person. Initial-stay screenshot was subsequently reconfirmed; final-night inventory needs a fresh check. No rooms held.
+- **Critical UI pitfall:** user said they hit Book. Read-only inspection found a payment-details page with **LP CLUB PTS UPGR**, **6,000 points + JPY 112,120 cash including fees** for Dec 8–10, and a remaining **Book My Stay** button. This is a cash stay plus a club upgrade, NOT the free-night award and NOT proof of a reservation. A later screenshot showed the desired **World of Hyatt Club Point Free Night Award** greyed out because of insufficient points. The displayed cancellation terms were for the selected upgrade rate; do not apply them to the disabled award without checking.
+- **Transfer discussion:** user is considering transferring **100,000 Chase points** to cover both Tokyo stays and leave some Hyatt points for future travel. This was discussed as reasonable intentional future-Hyatt funding, not needed to protect inventory. It has NOT been reported completed. Use current private Hyatt balance once to calculate the shortfall, round Chase transfers up to 1,000-point increments, and keep private balances/account details out of this repository.
+- **Communication preference:** the user explicitly said to stop showing the later 4:3 scenario because they intend to transfer while their applicable ratio is 1:1. Use **1:1** for this intended timing. The official grandfathered deadline is recorded below for future-agent accuracy; if resuming after it, verify current account terms rather than silently retaining an expired assumption.
+- **Taxes:** research suggests a fully points-funded Hyatt stay ordinarily has no separate room tax/service-charge bill. Discussed **USD 0–10 across all three Tokyo nights** as a planning allowance, not a hotel-confirmed total. Maximum December 2026 Tokyo city tax, if separately applicable, would be JPY 200/person/night × 2 × 3 = **JPY 1,200**. Do not carry the cash-upgrade's JPY 24,120 fees over to the free-night award. See HOTELS.md for sources and caveats.
+- **Expiration:** Hyatt points are forfeited after **24 consecutive months without qualifying activity**. Qualifying earning/redemption/points transfers reset the activity clock; remaining points need not all be spent within two years. An open Hyatt-branded card has an exemption, but Sapphire Preferred is not that card. This is not a reason to create a new card or transfer automatically. [Official Hyatt FAQ](https://www.hyattinclusivecollection.com/pt/faq-eu/), [Chase-transfer example](https://www.nerdwallet.com/travel/learn/do-hyatt-points-expire).
+- **Next actions:** first determine whether the user has since transferred or booked, without asking for credentials. Recheck both exact-date Club Twin awards, award-specific cancellation/cash charges, and Regency luggage policies. If proceeding, the traveler controls the final transfer and booking; this handoff does not authorize either.
+- **Other priorities unchanged:** Karaku West upper-floor Western twin soft-lock; two nights with dinner/breakfast; spa likely a must. Choose Osaka lodging with Namba access and forwarding support. Keep Nara/Kikuichi, Imabari Aoyama, both Hakone lunch alternatives, and relaxed mom-friendly food/shopping. None of the restaurants, spa appointments or hotels is confirmed reserved.
+- **Repository action:** the user requested commit and push of the accumulated travel research and updated handoff. No pause was requested in this latest message; do not interpret saving context as permission for ongoing autonomous work.
+
+## Latest decision and active request — September 28, 2026
+
+**User soft-locked Karaku's West Wing upper-floor Western-style twin**, not the Japanese-style room. Working stay Dec 10–12, two nights, two adults, dinner/breakfast required. This is a tentative preference only: no reservation, inventory hold, payment, hotel contact or points transfer. See HOTELS.md for the Sep 28 quote and unresolved bed separation/cancellation/payment/meal-plan details.
+
+The user corrected the requested shortlist to **five Tokyo hotels and five Osaka hotels**, not five combined. Current exact-date search basis: Tokyo Dec 8–10 and Dec 15–16, Osaka Dec 12–15. Expansion is now researched and saved in HOTELS.md: added Richmond Premier Tokyo Schole and Metropolitan Edmont in Tokyo, Gracery Namba, Royal Classic and Monterey Grasmere in Osaka. Luggage-forwarding requirements and mother's dislike of crowded surroundings still apply. Mitsui Garden Kyobashi remains conditional on prior luggage acceptance. Older routes and Madoka room decisions below are historical.
+
+Hyatt access later resolved after the user opened the provided link, supplied a room screenshot, and signed in personally. Actual twin award results plus calendar totals now verified: Regency Tokyo Category 5 Club Twin **54,000 points Dec 8–10 / 27,000 Dec 15–16**; Caption Namba Category 3 Twin **39,000 Dec 12–15**. Tokyo's 20,000-point standard option is KING, not suitable. Signed-in account has an existing Hyatt balance; use current balance to calculate net transfer, but don't persist private account details or double-count the balance across stays. Cash equivalents before tax/service are JPY 153,100 / 88,200 / 55,800 respectively on comparable refundable member plans.
+
+User expressly authorized price review only, no booking. Initial Tokyo Express Checkout could not display nightly breakdown/tax/total until Confirmation; detailed review was then blocked by Chrome. No confirmation, payment, transfer, bypass or reservation occurred. Full all-in/net CPP remains unresolved; don't present pre-fee comparisons as final values. Official Chase terms verified: 2025-opened Sapphire Preferred 1:1 through Sep 30, 2026, then 4:3 Oct 1; confirm actual account transfer screen before action. No speculative transfer. Source: https://www.chase.com/sapphire-cards/personal/preferred .
+
+**Latest expanded search, Codex in-app browser:** actual Dec 8–10 twins were found at Caption Kabutocho (Cat 5, 40,000 points; matching refundable member **JPY 87,315 all-in**, roughly USD 556 / 1.39 cents gross per point), Centric Ginza (Cat 7, 60,000; JPY 150,000 BEFORE tax/service), and Hotel Toranomon Hills (Cat 7, 60,000; JPY 125,500 BEFORE tax/service). Ginza/Toranomon checkout withheld taxes/total until confirmation; did not book. Ginza has a nearby-construction warning, December impact unknown. Shibuya had no initial-stay award; Grand no matching initial award; Andaz only twin Points + Cash 45,000 + JPY 95,000 before fees; Park loaded blank. New final-night searches became blank/unverified; do not substitute initial-stay availability. All details/sources and luggage gaps are in HOTELS.md's Expanded Hyatt section. **Caption Osaka outgoing Yamato is now property-confirmed**, incoming prefers Dec 12 arrival with prior arrangement. New Tokyo options remain conditional on unresolved outgoing forwarding and/or storage details.
+
+The accumulated notes are included in the user-requested September 28 repository save. Git history is the source of truth for commit/push state. Preserve existing user changes and exclude private account details.
+
+## Latest Hakone decision — September 26, 2026
+
+At the traveler's request, ITINERARY.md now retains **two alternatives** for the provisional full Hakone day, **Fri Dec 11**: **Open-Air Museum + Gyoza Center lunch**, or **Gora Park/light Gora outing + Tamura Ginkatsutei tofu-katsu lunch**. Both protect the afternoon for **Gora Spa AIOI inside Karaku** and the proposed early dinner. Neither outing, restaurant or spa appointment is booked; no option has been chosen. Gyoza Center replaces Nobu because the traveler prefers something local. Soba Kihinkan remains a secondary alternative. See the itinerary for walking times, current lunch costs, Tabelog scores, walk-in rules, foreigner-access evidence/uncertainties and sources. The Dec 10–12 Karaku dates remain provisional, and the older overall route still needs reconciliation.
+
+## Standing restaurant criteria — September 26, 2026
+
+The traveler explicitly requires **foreigner-friendly restaurants** going forward and wants every recommendation to state **whether reservations are accepted**. Continue using Tabelog (target score at least 3.0/5), three options, a generous but not extravagant budget, review sentiment, and pros/cons.
+
+- Explain the evidence for foreigner-friendly access: actual English menu/staff information, a booking channel usable by overseas visitors, or recent visitor accounts. An automatically translated Tabelog listing alone does not establish English service or visitor accessibility. Mark uncertain details rather than presenting them as verified.
+- Label each option **reservations accepted / walk-in only / policy unverified**. If accepted, note how to book (English online link, phone, or possible hotel assistance), the booking window when known, and material deposit/cancellation conditions when relevant. Do not assume hotel assistance has been arranged.
+- Keep **accepts reservations** distinct from **availability verified for our date/time**. For walk-ins, note queue risk and a practical arrival strategy.
+- These criteria do not authorize reservations, payments, or outbound contact.
+
+## Latest update — September 25, 2026
+
+Planning resumed after the historical pause below. The traveler is now provisionally considering **two nights at Hakone Gora Karaku** (assistant searched Dec 10–12; no room chosen/booked). Tokyo and Osaka remain the main city bases. **Nara is now a user-requested day trip from Osaka, specifically to visit Kikuichi Cutlery's main shop.** See ITINERARY.md for verified shop details and TODO.md for follow-up. The old one-night Hakone route has not yet been reconciled with the additional night; do not assume Hiroshima was removed or assign Nara to a transfer day. Older Madoka research below is historical, not the current hotel preference.
+
+## Historical September 21 stopping point — superseded
 
 The traveler asked to pause and commit the planning context plus a to-do list so another LLM can continue.
 
@@ -15,7 +59,7 @@ Immediately before pausing:
 5. Traveler asked: "whats the benefits of asebi outside of the meal".
 6. Assistant explained that Asebi mainly adds indoor space (59 vs 36.5 m²), an extra dining room, and distinctive interior design. Its bath deck is only 13 vs 12 m²; no superior view or extra resort privileges were established. If in-room dining does not matter, Noazami is the better value.
 
-**No room selection has been confirmed. Do not treat the last recommendation as a booking decision.**
+**Historical status only:** the current Karaku soft-lock and Regency direction above supersede this earlier no-room-selected statement; neither is proof of a booking.
 
 ## Traveler and priorities
 
@@ -41,9 +85,11 @@ Immediately before pausing:
 
 ## Current working route
 
-Tokyo Dec 8–10 → Hakone Dec 10–11 → Osaka Dec 11–13 → Hiroshima Dec 13–15 → Tokyo Dec 15–16.
+Tokyo Dec 8–10 → Hakone/Karaku Dec 10–12 → Osaka Dec 12–15 → Tokyo Dec 15–16.
 
 See ITINERARY.md. This is the working schedule recovered from the conversation, not booked travel. Confirm it before purchasing anything.
+
+Historical intermediate route: Tokyo Dec 8–10 → Hakone Dec 10–11 → Osaka Dec 11–13 → Hiroshima Dec 13–15 → Tokyo Dec 15–16. Retained for context only; do not use these older dates for current searches.
 
 ### Superseded route — do not accidentally restore
 
@@ -51,9 +97,9 @@ The initial plan was Tokyo Dec 8–11, Osaka Dec 11–14, Kinosaki Dec 14–15, 
 
 The traveler considered Hiroshima/Miyajima as Osaka day trips, then preferred the separate Hiroshima stay for lower stress despite additional cost.
 
-## Points/reward research: unresolved
+## Historical September 21 points/reward checklist — superseded by verified findings above
 
-An earlier conversation raised possible changes to Chase→Hyatt transfer rules in 2026. **This snapshot does not contain a verified applicable transfer ratio.** Do not repeat an earlier claimed ratio as fact.
+At the original snapshot, transfer terms had not been verified. The September 28 official verification and user's intended 1:1 transfer timing above supersede that limitation. Current account terms still control any future transaction.
 
 Required next steps if the traveler wants to revisit points:
 
@@ -65,7 +111,7 @@ Required next steps if the traveler wants to revisit points:
 6. Separately compare against a reasonable non-Hyatt cash alternative, not just an expensive luxury hotel's own cash price.
 7. Do not recommend transferring until the desired award is actually available. Transfers are irreversible, and availability can disappear.
 
-Previously considered Hyatt properties: Hyatt Regency Tokyo, Hyatt House Tokyo Shibuya, Hyatt Centric Ginza Tokyo, Andaz Tokyo Toranomon Hills, Park Hyatt Tokyo, Caption by Hyatt Namba Osaka, and Caption by Hyatt Kabutocho Tokyo. No usable current award/cash comparison survives in this snapshot.
+Previously considered Hyatt properties: Hyatt Regency Tokyo, Hyatt House Tokyo Shibuya, Hyatt Centric Ginza Tokyo, Andaz Tokyo Toranomon Hills, Park Hyatt Tokyo, Caption by Hyatt Namba Osaka, and Caption by Hyatt Kabutocho Tokyo. Current dated award/cash observations are now saved in HOTELS.md; do not reuse this historical checklist as an instruction to repeat finished work.
 
 ## Source and confidence conventions
 
@@ -76,4 +122,4 @@ Previously considered Hyatt properties: Hyatt Regency Tokyo, Hyatt House Tokyo S
 
 ## Best way to resume
 
-Start with a short recap of the unresolved Noazami vs Asebi decision, ask what the traveler wants to tackle next, then work down TODO.md. Do not repeat the entire trip history unless requested.
+Start at the latest Regency booking/transfer checkpoint, not the superseded Noazami/Asebi comparison. Verify whether any user-executed transaction has occurred since this handoff, then address the user's current request and active TODO priorities. Do not repeat the entire trip history or the unwanted later-ratio comparison.
