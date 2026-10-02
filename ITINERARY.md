@@ -1,36 +1,30 @@
-# Working itinerary and luggage plan
+# Japan itinerary and luggage plan
 
-Status updated October 2: all eight hotel nights are covered. Both Hyatt Regency Tokyo Club Twin stays are confirmed (54,000 + 27,000 = 81,000 points); Hiyori Hotel Osaka Namba is confirmed Dec 12–15; Karaku’s [redacted payment receipt](receipts/hakone-gora-karaku-2026-12-10-redacted.pdf) confirms JPY 239,814 paid for Dec 10–12. All dates are Japan local time, 2026. Receipt does not confirm Karaku room category, occupancy, meals or cancellation terms.
+Updated October 2, 2026. **All eight hotel nights are booked.** Activities, trains, luggage forwarding, spa and restaurants remain plans unless explicitly marked confirmed. All dates and times are Japan local time, 2026.
 
-## Current accommodation status — October 2, 2026
+## Booked route
 
-- **Hakone Gora Karaku is booked and prepaid for Dec 10–12.** The supplied receipt confirms hotel, stay period and JPY 239,814 payment. It does not name the booked room. The traveler requested the West Wing Deluxe booking link; its quoted member price matches, but this does not prove the room/plan purchased. Prior upper-floor Western twin preference remains subject to actual reservation details; do not reopen hotel selection.
-- Confirmed hotel dates: **Tokyo Dec 8–10; Karaku Dec 10–12 (two nights); Osaka Dec 12–15; Tokyo Dec 15–16**. All four stays are covered with no date gaps or overlaps; the older Hiroshima route below is historical and should not be mixed into these hotel quotes.
-- Two adults (traveler and mother), one room, two beds. Confirm that Karaku's beds can be spaced apart; do not infer a gap from the word twin.
-- Dinner and breakfast remain required. The researched Early Booking 60 / Mutsuki 17:00–17:30 dinner plan is a candidate, not a finalized meal-plan selection. Protect the Dec 11 spa afternoon and retain both lunch/outing alternatives below.
-- Traveler corrected the city shortlist requirement to **five hotels per city (five Tokyo, five Osaka)**, not five combined. Both Tokyo date ranges must be priced separately. Regency Tokyo Club Twin on points is confirmed for both stays. Hiyori Hotel Osaka Namba is now confirmed for Dec 12–15; older shortlists do not reopen hotel selection.
-- Forwarding concept for these dates: first Tokyo hotel to Osaka, bypassing the two Hakone nights; Osaka to final Tokyo with carrier delivery timing confirmed before dispatch. Do not use the older Hiroshima-based dispatch dates below for this working route.
+**Hyatt Regency Tokyo Dec 8–10 → Hakone Gora Karaku Dec 10–12 → Hiyori Hotel Osaka Namba Dec 12–15 → Hyatt Regency Tokyo Dec 15–16.**
 
-### Current eight-night working schedule
+Two adults, one room, two beds requested. Tokyo's Club Twin bookings are verified. Karaku receipt confirms the hotel, dates and payment; Karaku/Hiyori room and meal details still need the actual reservation information. See [HOTELS.md](HOTELS.md) for costs, cancellation deadlines and evidence.
 
-| Date | Overnight | Current plan / decision status |
+| Date | Booked overnight | Day plan |
 |---|---|---|
-| Tue Dec 8 | Tokyo | NRT arrival 17:25; hotel transfer and easy dinner. Regency Club Twin confirmed for Dec 8–10, 54,000 points. |
-| Wed Dec 9 | Tokyo | Food/shopping day; requested Imabari Towel Minami-Aoyama stop, with manageable Aoyama/Omotesando walking. |
-| Thu Dec 10 | Hakone | Karaku Dec 10–12 stay/payment confirmed by receipt. Travel to hotel; room category and dinner/breakfast details still need the actual reservation confirmation. |
-| Fri Dec 11 | Hakone | Keep both lunch/outing options below; prioritize spa afternoon and included dinner. |
-| Sat Dec 12 | Osaka | Hiyori Hotel Osaka Namba confirmed for Dec 12–15 (three nights). Breakfast at Karaku; onward via Odawara/Shin-Osaka. Easy Namba dinner/shopping, no ambitious day trip. |
-| Sun Dec 13 | Osaka | One of Dec 13/14 for requested Nara/Kikuichi outing; exact assignment pending. |
-| Mon Dec 14 | Osaka | Other day for Osaka food/shopping or an optional Kyoto/Kobe outing, not all of them. Coordinate luggage dispatch if needed. |
-| Tue Dec 15 | Tokyo | Return to Tokyo; final food/shopping evening. Regency Club Twin confirmed for Dec 15–16, 27,000 points. |
-| Wed Dec 16 | — | Breakfast and limited morning/lunch time; NRT departure 18:15 with airport buffer. |
+| Tue Dec 8 | Hyatt Regency Tokyo | NRT arrival **17:25**; transfer to hotel and easy dinner. Keep the evening flexible for arrival formalities. |
+| Wed Dec 9 | Hyatt Regency Tokyo | Relaxed Aoyama/Omotesando food and shopping, including requested Imabari Towel Minami-Aoyama. Coordinate bag dispatch if Dec 9 is chosen. |
+| Thu Dec 10 | Hakone Gora Karaku | Check out of Regency; travel to Karaku. Keep afternoon for onsen/ryokan time and dinner, with timing set from the actual meal plan. |
+| Fri Dec 11 | Hakone Gora Karaku | Choose one of the two morning/lunch options below; protect afternoon spa/relaxation and dinner. Spa is not reserved. |
+| Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. Easy Namba food/shopping evening. |
+| Sun Dec 13 | Hiyori Hotel Osaka Namba | One of Dec 13/14 for requested Nara/Kikuichi; exact assignment pending. |
+| Mon Dec 14 | Hiyori Hotel Osaka Namba | Other day for Osaka food/shopping or one optional excursion. Potential bag dispatch to Tokyo after carrier timing is confirmed. |
+| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Final Tokyo food/shopping evening. |
+| Wed Dec 16 | — | Check out of Regency; limited morning/lunch time and NRT transfer for **18:15 departure**, with airport buffer. |
 
-Nights: Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = **8**. Hiroshima/Miyajima and Kinosaki are not scheduled in this working version; historical alternatives remain below for context, not as additional nights. Kyoto remains optional, and the two full Osaka-base days should not both become overloaded excursions.
+Nights: **Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = 8**, with no gaps or overlaps. Hiroshima/Miyajima and Kinosaki are outside this booked route. Kyoto/Kobe/Himeji remain optional interests; preserve some Osaka time rather than filling both full days with excursions.
 
+## Friday Dec 11 — Hakone alternatives
 
-## Hakone full-day alternatives — September 26, 2026
-
-**User requested keeping both options below on the itinerary; neither has been selected or booked.** Provisionally place this on **Friday Dec 11**, assuming the two-night Karaku stay is Dec 10–12. This overrides the older table's Dec 11 departure from Hakone, but does not finalize the rest of the route.
+**Keep both options for the full day within the booked Dec 10–12 Karaku stay.** Neither outing has been selected or reserved; research below was checked September 26.
 
 | Option | Relaxed morning + lunch | Access to Karaku / Gora Spa AIOI | Lunch arrangements |
 |---|---|---|---|
@@ -54,7 +48,11 @@ Research checked **Sep 26, 2026**. Scores, prices, hours and walking estimates c
 
 Activity and route references: [Open-Air Museum visitor information](https://www.hakone-oam.or.jp/en/info/), [Gora Park](https://www.hakonenavi.jp/gorapark/en/), [spa booking information](https://reservation.thedayspa.jp/en/aioi), [Karaku → Gyoza Center walking route](https://www.google.com/maps/dir/?api=1&origin=Hakone+Gora+Karaku&destination=Gyoza+Center+Hakone&travelmode=walking), [Karaku → Tamura walking route](https://www.google.com/maps/dir/?api=1&origin=Hakone+Gora+Karaku&destination=Tamura+Ginkatsutei+Hakone&travelmode=walking), [Gyoza Center → museum walking route](https://www.google.com/maps/dir/?api=1&origin=Gyoza+Center+Hakone&destination=The+Hakone+Open-Air+Museum&travelmode=walking).
 
-## Tokyo addition — September 26, 2026
+### Spa options retained from September 25 research
+
+The [AIOI booking page](https://reservation.thedayspa.jp/en/aioi) listed Couple's Relaxation: 60-minute treatment / 90-minute appointment, JPY 24,000 per person; Couple's Journey: 90-minute treatment / 120-minute appointment, JPY 35,500 per person; and Mindful Bathing: 120-minute program / 150-minute appointment, JPY 41,000 per person. Two-person base totals: JPY 48,000 / 71,000 / 82,000. Tax/service treatment and December availability are unverified. The page then requested cancellation by 20:00 the prior day, with 100% same-day charge; recheck the chosen appointment's actual terms. No treatment is booked.
+
+## Wednesday Dec 9 — Imabari Towel Minami-Aoyama
 
 - **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** Provisionally place on **Wednesday Dec 9**, during the first Tokyo stay; the stop is requested, while this particular date/time is an assistant placement rather than a fixed appointment.
 - Suggested timing: late morning, allowing **30–60 minutes** for browsing, then lunch and optional Aoyama/Omotesando shopping. Keep this a manageable neighborhood outing; the traveler is visiting with their mother, who dislikes Tokyo's crowds. Do not turn the day into a kitchenware-focused route.
@@ -63,14 +61,9 @@ Activity and route references: [Open-Air Museum visitor information](https://www
 - Source: https://www.imabaritowel.jp/store#aoyama . Phone: 03-6427-2941. This is the official Imabari Towel store, not the separate IKEUCHI ORGANIC shop.
 - If buying bulky towels before Tokyo-to-Osaka luggage dispatch, include them in the forwarded suitcase when practical; confirm the hotel's dispatch cutoff first.
 
-## Latest update — September 25, 2026 (takes precedence over the older dated table)
+## Dec 13 or 14 — Nara / Kikuichi
 
-- **User-requested addition: Nara day trip from Osaka, with Kikuichi Cutlery as a priority stop.** No Nara hotel change is needed.
-- The traveler is now provisionally considering **two nights at Hakone Gora Karaku**, researched for **Dec 10–12**. These dates were an assistant assumption, not a finalized itinerary or booking.
-- **Spa priority:** traveler says a Karaku spa treatment will likely be a must. Tentatively protect the second afternoon (Dec 11 if the assumed dates stand); actual treatment, pair-room availability and appointment time are unconfirmed. Allow the booking system's full appointment duration and finish before the 17:00–17:30 dinner seating.
-- The older table below assumes only one Hakone night. Osaka/Hiroshima dates must therefore be reconciled before assigning Nara a calendar date. Do not silently remove Hiroshima or schedule Nara on the Hakone-to-Osaka transfer day.
-
-### Nara day trip — required stop, date pending
+Use Hiyori as the Osaka base and return there the same evening. The exact day remains open; neither day is a hotel-transfer day.
 
 - Main destination: **Kikuichi Monju Shiro Kanenaga / Kikuichi Cutlery main shop**, 488 Zoshicho, Nara, 630-8211, near the foot of Mount Wakakusa in Nara Park.
 - Official shop hours checked Sep 25: **09:30–17:00, no regular closing day**. Reconfirm before visiting; this is not a guarantee against exceptional closures.
@@ -79,74 +72,28 @@ Activity and route references: [Open-Air Museum visitor information](https://www
 - Transit source: https://narashikanko.or.jp/en/access/ . Train duration excludes hotel access and the onward journey to the shop.
 - Shopping is the priority; keep outdoor sightseeing optional for December weather. Knife-sharpening experiences are advertised, but reservation requirements, price, language support and December slots have not been verified. Do not reserve anything without authorization.
 
-## Historical earlier route snapshot — not current booking dates
+## Luggage plan for the booked hotels
 
-| Date | Overnight | Broad plan |
-|---|---|---|
-| Tue Dec 8 | Tokyo | NRT arrival 17:25; immigration, hotel transfer, easy dinner. |
-| Wed Dec 9 | Tokyo | Main Tokyo day: food, shopping, indoor attractions. |
-| Thu Dec 10 | Hakone | Travel to Hakone, arrange local ryokan pickup, check in around 15:00; onsen, included dinner, possible bar. |
-| Fri Dec 11 | Osaka | Included ryokan breakfast; relaxed departure, onward to Osaka via Odawara/Shin-Osaka. Avoid overloading this travel day. |
-| Sat Dec 12 | Osaka | Osaka food/shopping or one optional Kansai day trip. |
-| Sun Dec 13 | Hiroshima | Travel to Hiroshima; city sightseeing and food as time allows. |
-| Mon Dec 14 | Hiroshima | Miyajima day trip, weather permitting; retain an indoor/city alternative. |
-| Tue Dec 15 | Tokyo | Return to Tokyo; final-night shopping and dinner. |
-| Wed Dec 16 | — | Breakfast/morning/lunch, then NRT for 18:15 departure with appropriate airport buffer. |
+| Shipment | Target arrival | Dispatch to investigate | Details to confirm |
+|---|---|---|---|
+| Hyatt Regency Tokyo → Hiyori Hotel Osaka Namba | Dec 12 | Dec 9 or Dec 10 | Regency outgoing service/cutoff; Hiyori receiving/storage window; carrier timing, price and labels |
+| Hiyori Hotel Osaka Namba → Hyatt Regency Tokyo | Dec 15 | Dec 14 | Hiyori dispatch cutoff and carrier timing; Regency acceptance for the return stay |
 
-Nights: Tokyo 2 + Hakone 1 + Osaka 2 + Hiroshima 2 + Tokyo 1 = **8 nights**.
+Large bags bypass the two Hakone nights. Carry a small bag with essentials and a delivery-delay buffer; if shipping on Dec 14, keep essentials for the final Osaka night. Include bulky Imabari purchases in the first shipment if timing allows. Do not assume same-day or guaranteed next-day delivery.
 
-## General activity interests (not reserved)
+Prior research supports Hiyori's receiving/storage/outgoing service, but the actual shipments and dates are not arranged. Regency requires prior acceptance for incoming bags; its outgoing service and Dec 16 daytime storage remain to be confirmed. Use the specific hotel sources in [HOTELS.md](HOTELS.md), not policies for unbooked alternatives. Confirm prepaid/collect rules, dimensions/weight, cost and reservation-name matching. Keep passports, medication, valuables and essential electronics with the travelers.
 
-- **Tokyo:** food, shopping, department stores, indoor activities. Pick neighborhoods around actual hotel locations; final night should balance useful shopping/food with easy Narita access.
-- **Hakone:** ryokan-first stay, private/shared onsen, kaiseki, breakfast, bar if open. Optional local art museums or a weather-dependent ropeway/Owakudani outing. Avoid a complicated sightseeing loop that compromises check-in/dinner.
-- **Osaka:** Namba, Shinsaibashi, Dotonbori food/shopping. Possible day trips discussed: Kyoto, Nara, Kobe, Himeji. The current plan has two full Osaka-base days; Nara is requested, so preserve some Osaka time rather than attempting every excursion.
-- **Hiroshima:** Peace Memorial Park/Museum and local food; museum is a serious historical visit, not simply a bad-weather entertainment substitute.
-- **Miyajima:** island/shrine scenery and food; outdoor exposure, weather, and daylight matter. Actual opening hours, tides, accessibility, and transport remain to be researched for the date.
+## Transport still to arrange
 
-## Luggage routing
+Build door-to-door routes and a sourced cost table for these actual endpoints:
 
-### Initial Tokyo → Osaka, bypass Hakone
+1. **Dec 8:** NRT → Hyatt Regency Tokyo, after 17:25 arrival.
+2. **Dec 10:** Hyatt Regency Tokyo → Hakone Gora Karaku, allowing time before the actual dinner seating.
+3. **Dec 11:** only the local Hakone transport required for the chosen outing/spa plan.
+4. **Dec 12:** Karaku → Odawara → Shin-Osaka → Hiyori Hotel Osaka Namba.
+5. **Dec 13 or 14:** Hiyori → Osaka-Namba → Nara/Kikuichi → Hiyori.
+6. **Dec 15:** Hiyori → Tokyo → Hyatt Regency Tokyo.
+7. **Dec 16:** Regency → NRT for the 18:15 departure.
+8. Two luggage-forwarding shipments priced for the actual bags and delivery dates.
 
-- Forward large suitcases from the first Tokyo hotel to the Osaka hotel.
-- Carry a small bag for Hakone and enough essentials to tolerate delivery delays.
-- Request a delivery date compatible with Osaka check-in on **Dec 12**. Carry enough essentials for the two Hakone nights and a delivery buffer.
-- Determine whether dispatch on Dec 9 is safer than Dec 10 after confirming exact hotel/carrier cutoffs and transit times. Do not assume same-day or guaranteed next-day service.
-
-### Osaka → final Tokyo under the current route
-
-- Forward large suitcases to the final Tokyo hotel for Dec 15 check-in, if the hotel/carrier can support that timing.
-- Investigate Dec 14 dispatch, carrying an overnight bag for the last Osaka night; exact carrier transit time, hotel cutoff and receiving window must be verified. Do not promise same-day delivery from a Dec 15 dispatch.
-- Regency's specific receiving/storage/outgoing arrangements remain to be cleared. Caption Osaka reception can ship via Yamato, and incoming delivery should preferably arrive on its Dec 12 check-in day by prior arrangement.
-
-### Historical Osaka → final Tokyo, bypassing Hiroshima — not current dispatch guidance
-
-- Forward large suitcases from Osaka to the final Tokyo hotel for Dec 15 check-in.
-- Carry a small bag for the **two Hiroshima nights**, not just one overnight.
-- Confirm whether dispatch Dec 12 or Dec 13 meets the actual carrier cutoff and hotel receiving policy.
-
-### Hotel policy checklist
-
-- Can the originating hotel arrange prepaid outgoing takkyubin? Which carrier and payment methods?
-- Will the destination hotel accept forwarded bags before arrival and store them until check-in?
-- What advance-arrival window, labeling, reservation-name matching, size, and fee rules apply?
-- Are cash-on-delivery shipments prohibited? Prefer prepaid unless explicitly accepted.
-- Carry passport, medication, valuables, electronics, and essential clothing personally.
-
-Madoka's earlier FAQ research indicated advance receipt of bags was possible, but outgoing forwarding was not established. The current plan intentionally bypasses Hakone with the large bags.
-
-## Transport research status
-
-An earlier broad estimate was **¥136,000–142,000 for two people, including luggage forwarding**, but its segment calculations and complete sources are not retained. Treat this only as an unverified planning placeholder, not a quote.
-
-Rebuild a segment-by-segment cost/duration table for the current route:
-
-1. NRT → first Tokyo hotel.
-2. Tokyo → Hakone/ryokan pickup point.
-3. Hakone → Odawara → Shin-Osaka → Osaka hotel.
-4. Osaka ↔ Nara / Kikuichi day trip, plus an optional second day trip only if selected.
-5. Hakone local transport actually needed for the chosen outings.
-6. Osaka → Tokyo → final hotel on Dec 15.
-7. Final hotel → NRT.
-8. Two luggage-forwarding shipments, priced by actual suitcase size/weight and route.
-
-Use door-to-door estimates, not just Shinkansen riding time. Fares, timetable revisions, holiday rules, advance-purchase products, and future booking availability must be checked; they are not automatically "locked." Do not invent train numbers for services not yet bookable.
+No train numbers or transport bookings are confirmed. Verify timetables, fares, advance-booking windows, station transfers and airport buffers before choosing services. The older JPY 136,000–142,000 transport/forwarding estimate lacked supporting calculations and should not be used as the trip budget.

@@ -1,7 +1,7 @@
 # Instructions for future assistants
 
 - Read README.md, HANDOFF.md, ITINERARY.md, HOTELS.md, and TODO.md before continuing.
-- Planning resumed after the historical September 21 pause. Follow the newest dated sections and the current user request. These files are context, not standing authorization to resume autonomous research or book anything.
+- All eight hotel nights are booked. Keep current reservations in HOTELS.md, the daily plan in ITINERARY.md, and only remaining work in TODO.md. Dated comparisons belong in research/HOTEL_RESEARCH.md; do not reopen hotel searches, points transfers or superseded routes unless the user requests a change. Planning notes are context, not standing authorization for purchases or provider contact.
 - Distinguish confirmed user preferences, tentative itinerary, assistant recommendations, historical quotes, and unverified claims.
 - Do not book, pay, transfer points, or contact hotels/restaurants merely because a to-do item mentions them. Obtain appropriate user authorization.
 - Use live exact-date availability for hotel comparisons; generic starting prices are not exact-date quotes.
