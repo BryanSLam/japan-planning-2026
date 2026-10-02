@@ -1,6 +1,21 @@
 # To-do list for resuming
 
-## Active priorities — September 28, 2026 (supersedes conflicting historical items)
+## Current booking checkpoint — October 2, 2026
+
+- [x] Traveler reports points transferred. Amount/current balance not supplied; no further transfer decision needed for confirmed Tokyo stays.
+- [x] Verify initial Tokyo **Dec 8–10 Club Twin free-night award confirmed at 54,000 points**, after traveler submission.
+- [x] Verify final Tokyo **Dec 15–16 Club Twin free-night award confirmed at 27,000 points**, after traveler submission. Total **81,000 points**. Cancellation deadlines Dec 7 / Dec 14, 23:59 hotel time, then one-night fee.
+- [x] Refresh Osaka Dec 12–15 Caption award/cash and Gracery/Hiyori cash comparisons, fees and terms. Recommendation: cash, with Gracery for a bathtub or Caption for lower price. HOTELS.md has historical comparison details; Hiyori has since been booked.
+- [x] Record Hiyori Hotel Osaka Namba confirmed Dec 12–15, 2026: traveler named the property and supplied reservation-confirmed text with those dates.
+- [ ] Verify Hiyori booked room/occupancy, price/payment, cancellation terms and luggage arrangements from the actual reservation; older quotes are not proof.
+- [x] Audit hotel dates against Dec 8 arrival / Dec 16 departure: Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = eight nights without planned gaps/overlaps. All eight nights covered after Karaku receipt supplied October 2.
+- [x] Diagnose Karaku single nights and broader channels: both nights separately unavailable; official no-date-filter English/Japanese catalogs empty; Booking.com not taking reservations; JTB no matching plans. September maintenance does not explain December.
+- [x] Recheck Karaku October 1: official Dec 10–12 room/meal inventory restored; new plan/category names and sales start October 1. Current quotes and cancellation terms in HOTELS.md.
+- [x] Save a redacted Karaku receipt: Dec 10–12, 2026, JPY 239,814 paid including tax; guest name/receipt ID/transaction ID removed and metadata cleared.
+- [ ] Verify actual Karaku reservation room category, two-adult/two-bed configuration, meals/dinner time, cancellation terms and any bathing tax still due. Receipt confirms payment and dates only; matching the Deluxe quote is not proof of room category. No replacement booking or hotel contact authorized by this checklist.
+- [ ] Obtain Regency outgoing forwarding, incoming acceptance and Dec 16 storage arrangements. No hotel contact authorized solely by this checklist.
+
+## Historical priorities — September 28, 2026 (current status above supersedes these items)
 
 - [ ] Resume at the Regency booking checkpoint: ask whether the user has since completed any transfer or booking. A Book-button click only reached review; no transaction is confirmed. Do not request or commit private account/payment details.
 - [ ] Recheck **Regency Club Twin Dec 8–10 (54,000) and Dec 15–16 (27,000)** immediately before any user-chosen transfer. Select **World of Hyatt Club Point Free Night Award**, not **LP CLUB PTS UPGR** (6,000 + JPY 112,120 initial stay). Capture award-specific cancellation and cash charges; do not reuse terms from the selected cash-upgrade plan.

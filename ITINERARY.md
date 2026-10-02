@@ -1,28 +1,28 @@
 # Working itinerary and luggage plan
 
-Status: tentative; nothing booked by the assistant. All dates are in Japan local time, 2026.
+Status updated October 2: all eight hotel nights are covered. Both Hyatt Regency Tokyo Club Twin stays are confirmed (54,000 + 27,000 = 81,000 points); Hiyori Hotel Osaka Namba is confirmed Dec 12–15; Karaku’s [redacted payment receipt](receipts/hakone-gora-karaku-2026-12-10-redacted.pdf) confirms JPY 239,814 paid for Dec 10–12. All dates are Japan local time, 2026. Receipt does not confirm Karaku room category, occupancy, meals or cancellation terms.
 
-## Current accommodation direction — September 28, 2026
+## Current accommodation status — October 2, 2026
 
-- **User soft-locked Hakone Gora Karaku, West Wing upper-floor Western-style twin room.** This is a tentative room preference, not a reservation or an inventory hold. It supersedes the earlier Madoka preference and the assistant's upper-floor Japanese-style recommendation.
-- Current hotel-search dates: **Tokyo Dec 8–10; Karaku Dec 10–12 (two nights); Osaka Dec 12–15; Tokyo Dec 15–16**. These are the working comparison dates, not booked travel; the older Hiroshima route below is historical and should not be mixed into these hotel quotes.
+- **Hakone Gora Karaku is booked and prepaid for Dec 10–12.** The supplied receipt confirms hotel, stay period and JPY 239,814 payment. It does not name the booked room. The traveler requested the West Wing Deluxe booking link; its quoted member price matches, but this does not prove the room/plan purchased. Prior upper-floor Western twin preference remains subject to actual reservation details; do not reopen hotel selection.
+- Confirmed hotel dates: **Tokyo Dec 8–10; Karaku Dec 10–12 (two nights); Osaka Dec 12–15; Tokyo Dec 15–16**. All four stays are covered with no date gaps or overlaps; the older Hiroshima route below is historical and should not be mixed into these hotel quotes.
 - Two adults (traveler and mother), one room, two beds. Confirm that Karaku's beds can be spaced apart; do not infer a gap from the word twin.
 - Dinner and breakfast remain required. The researched Early Booking 60 / Mutsuki 17:00–17:30 dinner plan is a candidate, not a finalized meal-plan selection. Protect the Dec 11 spa afternoon and retain both lunch/outing alternatives below.
-- Traveler corrected the city shortlist requirement to **five hotels per city (five Tokyo, five Osaka)**, not five combined. Both Tokyo date ranges must be priced separately. Regency Tokyo Club Twin on points is now the active Tokyo candidate for both stays; no completed booking reported. Osaka remains unselected.
+- Traveler corrected the city shortlist requirement to **five hotels per city (five Tokyo, five Osaka)**, not five combined. Both Tokyo date ranges must be priced separately. Regency Tokyo Club Twin on points is confirmed for both stays. Hiyori Hotel Osaka Namba is now confirmed for Dec 12–15; older shortlists do not reopen hotel selection.
 - Forwarding concept for these dates: first Tokyo hotel to Osaka, bypassing the two Hakone nights; Osaka to final Tokyo with carrier delivery timing confirmed before dispatch. Do not use the older Hiroshima-based dispatch dates below for this working route.
 
 ### Current eight-night working schedule
 
 | Date | Overnight | Current plan / decision status |
 |---|---|---|
-| Tue Dec 8 | Tokyo | NRT arrival 17:25; hotel transfer and easy dinner. Regency Club Twin award candidate; no confirmed booking. |
+| Tue Dec 8 | Tokyo | NRT arrival 17:25; hotel transfer and easy dinner. Regency Club Twin confirmed for Dec 8–10, 54,000 points. |
 | Wed Dec 9 | Tokyo | Food/shopping day; requested Imabari Towel Minami-Aoyama stop, with manageable Aoyama/Omotesando walking. |
-| Thu Dec 10 | Hakone | Travel to Karaku; West upper-floor Western twin soft-lock, private onsen and included dinner/breakfast plan to finalize. |
+| Thu Dec 10 | Hakone | Karaku Dec 10–12 stay/payment confirmed by receipt. Travel to hotel; room category and dinner/breakfast details still need the actual reservation confirmation. |
 | Fri Dec 11 | Hakone | Keep both lunch/outing options below; prioritize spa afternoon and included dinner. |
-| Sat Dec 12 | Osaka | Breakfast at Karaku; onward via Odawara/Shin-Osaka. Easy Namba dinner/shopping, no ambitious day trip. |
+| Sat Dec 12 | Osaka | Hiyori Hotel Osaka Namba confirmed for Dec 12–15 (three nights). Breakfast at Karaku; onward via Odawara/Shin-Osaka. Easy Namba dinner/shopping, no ambitious day trip. |
 | Sun Dec 13 | Osaka | One of Dec 13/14 for requested Nara/Kikuichi outing; exact assignment pending. |
 | Mon Dec 14 | Osaka | Other day for Osaka food/shopping or an optional Kyoto/Kobe outing, not all of them. Coordinate luggage dispatch if needed. |
-| Tue Dec 15 | Tokyo | Return to Tokyo; final food/shopping evening. Regency Club Twin award candidate; recheck the earlier 27,000-point result. |
+| Tue Dec 15 | Tokyo | Return to Tokyo; final food/shopping evening. Regency Club Twin confirmed for Dec 15–16, 27,000 points. |
 | Wed Dec 16 | — | Breakfast and limited morning/lunch time; NRT departure 18:15 with airport buffer. |
 
 Nights: Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = **8**. Hiroshima/Miyajima and Kinosaki are not scheduled in this working version; historical alternatives remain below for context, not as additional nights. Kyoto remains optional, and the two full Osaka-base days should not both become overloaded excursions.

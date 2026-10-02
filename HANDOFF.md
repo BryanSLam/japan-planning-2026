@@ -1,8 +1,24 @@
 # LLM handoff
 
-Original snapshot September 21; latest handoff updated September 28, 2026. Destination repository: https://github.com/BryanSLam/japan-planning-2026
+Original snapshot September 21; latest handoff updated October 2, 2026. Destination repository: https://github.com/BryanSLam/japan-planning-2026
 
-## Resume here — latest booking and points discussion, September 28
+## Resume here — October 2, 2026
+
+- **All eight hotel nights are covered:** Hyatt Regency Tokyo Dec 8–10; Karaku Dec 10–12; Hiyori Hotel Osaka Namba Dec 12–15; Hyatt Regency Tokyo Dec 15–16. Hiyori property/dates were user-confirmed; Tokyo confirmation pages were observed. Karaku’s supplied [redacted payment receipt](receipts/hakone-gora-karaku-2026-12-10-redacted.pdf) confirms JPY 239,814 paid, tax included, for Dec 10–12. This resolves the earlier Hakone booking gap. Karaku room/occupancy/meal/cancellation details and bathing-tax treatment are not specified by the receipt; Hiyori room/occupancy/price/payment/cancellation still require its actual details. Do not reuse quotes as booked terms.
+- **Both Tokyo reservations are confirmed**, after the traveler completed the final booking steps personally. Observed both confirmation pages: Hyatt Regency Tokyo, **2 Twin Beds, Club Access / World of Hyatt Club Point Free Night Award**, one room/two guests, **Dec 8–10: 54,000 points** and **Dec 15–16: 27,000 points**. Total **81,000 points**, with no cash amount shown in either summary. Do not persist confirmation numbers, account details or signed-in URLs/screenshots in this repository.
+- Cancel by **Dec 7 / Dec 14 at 23:59 Tokyo hotel time**, respectively, or one-night fee. Credit card required; penalty currency/amount not separately itemized.
+- Traveler reports points already transferred. Amount/current balance not supplied; do not infer them or reopen the transfer decision.
+- Original checkout was `68ae7e2` (September 28). The traveler requested adding the redacted Karaku receipt to the repository; accumulated booking/research notes are included with it. Use Git history and remote state to verify synchronization.
+- **Historical September 30 Osaka comparison, before Hiyori was booked:** two adults/one twin room. Caption standard twin: **39,000 points** (15k/12k/12k); current award terms now say cancellation three days before arrival at 23:59 hotel time, one-night fee, one-night deposit at booking. These differ from the September 28 terms. Cash refundable member checkout: **JPY 71,148**, plus calculated **JPY 1,200 Osaka tax = JPY 72,348**, cancellation Dec 11 23:59. Gracery Standard Twin: **JPY 84,168 public / 82,368 member including calculated local tax**; Hiyori Deluxe Twin: **JPY 90,964 public / 86,414 member plus unitemized local tax**, prepaid but refundable through Dec 10 23:59. Room-only rates. See HOTELS.md for sources and limitations.
+- **Traveler clarification:** prioritize convenient location and nearby food without assuming the mother is elderly or has mobility limitations. Hiyori received a slight location preference in the comparison and has since been booked for Dec 12–15.
+- **Historical Osaka recommendation before Hiyori booking:** cash, not the roughly 1.2-cent-per-point Caption redemption. Gracery offers 23 m² and a separate bathtub for roughly USD 75 more than Caption's 20 m² shower-only room over the whole stay. This is advice, not a user selection.
+- **Historical Karaku search before booking, October 1:** Official Dec 10–12 search now returns six room categories with both-meal plans. New Early Bird 60 / Mutsuki 17:00–17:30 plan starts sales October 1; a catalog transition may explain the prior outage, but cause is unconfirmed. Closest verified Western option is **West Wing Deluxe (10053419)**, 56.1 m², two Serta beds, private open-air onsen; upper-floor allocation and bed separation are not guaranteed by its new description. Two-night quote **JPY 239,814 member / 266,460 public + JPY 600 bathing tax = 240,414 / 267,060**. Pay at hotel or online; plan cancellation 20% from Dec 3, 50% from Dec 7, 80% Dec 9, 100% Dec 10/no-show; exact time cutoff absent. Membership eligibility/checkout unverified. No room held, new category selected, hotel contacted or booking made. See current HOTELS.md; September 30 no-inventory diagnosis is historical.
+- **Historical Karaku review follow-up before booking:** Reviews support the old upper-floor West Western room for views, but no reliable mapping to the new Standard/Deluxe names was found. Earlier assistant lean toward Standard is conditional: identical published amenities do not guarantee the same view. The extra USD 108 member / 120 public is worth considering if Deluxe confirms a better view/upper floor. See HOTELS.md for firsthand sources and uncertainties. No new user selection.
+- Regency advance luggage receipt requires prior hotel acceptance; outgoing forwarding and Dec 16 daytime storage remain unverified. Gracery receipt/storage/outgoing shipping were freshly confirmed in its official FAQ; Caption outgoing shipping was property-confirmed September 28 and advance receipt needs arrangement.
+- Hyatt works in signed-in Chrome after the user opened it personally. Initial blank browser pages are no longer the blocker.
+- No reservation, payment, hotel contact, account creation or new transfer was performed by the assistant.
+
+## Historical booking and points discussion — September 28 (superseded above)
 
 - **Working route:** Tokyo Dec 8–10, Karaku/Hakone Dec 10–12, Osaka Dec 12–15, Tokyo Dec 15–16. The older Hiroshima/Miyajima route below is historical, not an extra stay to insert into these eight nights. Do not restore it without the traveler changing the route.
 - **Tokyo direction:** user is actively considering Regency Tokyo **2 Twin Beds, Club Access** on points for both stays. Last verified awards: Dec 8–10 **54,000** (27,000/night), Dec 15–16 **27,000**; combined **81,000 Hyatt points**, not per-person. Initial-stay screenshot was subsequently reconfirmed; final-night inventory needs a fresh check. No rooms held.
@@ -87,7 +103,7 @@ Immediately before pausing:
 
 Tokyo Dec 8–10 → Hakone/Karaku Dec 10–12 → Osaka Dec 12–15 → Tokyo Dec 15–16.
 
-See ITINERARY.md. This is the working schedule recovered from the conversation, not booked travel. Confirm it before purchasing anything.
+See ITINERARY.md. Both Tokyo stays, Hiyori Osaka and Karaku Dec 10–12 are confirmed; transport and activities are not established reservations.
 
 Historical intermediate route: Tokyo Dec 8–10 → Hakone Dec 10–11 → Osaka Dec 11–13 → Hiroshima Dec 13–15 → Tokyo Dec 15–16. Retained for context only; do not use these older dates for current searches.
 
