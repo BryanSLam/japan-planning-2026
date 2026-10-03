@@ -52,6 +52,27 @@ Activity and route references: [Open-Air Museum visitor information](https://www
 
 The [AIOI booking page](https://reservation.thedayspa.jp/en/aioi) listed Couple's Relaxation: 60-minute treatment / 90-minute appointment, JPY 24,000 per person; Couple's Journey: 90-minute treatment / 120-minute appointment, JPY 35,500 per person; and Mindful Bathing: 120-minute program / 150-minute appointment, JPY 41,000 per person. Two-person base totals: JPY 48,000 / 71,000 / 82,000. Tax/service treatment and December availability are unverified. The page then requested cancellation by 20:00 the prior day, with 100% same-day charge; recheck the chosen appointment's actual terms. No treatment is booked.
 
+## Tokyo restaurant options — added October 2
+
+The traveler requested **Toriguchi in Gotanda** and **Yakiniku Jumbo in Tokyo** as options. Neither is reserved or assigned to a day. Dec 9 and Dec 15 are possible dinner evenings, subject to availability and the Dec 15 train timing; keep Dec 8 flexible after the flight. These are additions to the shortlist, not mandatory stops or changes to the booked route.
+
+### Toriguchi / とり口 — Gotanda
+
+- Yakitori courses and natural wine at **2-28-10 Nishi-Gotanda, Shinagawa-ku**, approximately five minutes from JR Gotanda's west exit. Official dinner hours: **17:00–23:00**, last entry 21:30. [Official restaurant information](https://www.toriguchi.jp/).
+- **Tabelog 3.51/5**, checked October 2. Published courses are **JPY 5,060 / 7,150 / 9,900 per person including tax**; these are menu prices, not an all-in bill or a December availability quote. Drinks/extras need a separate allowance. [Tabelog listing and courses](https://tabelog.com/tokyo/A1316/A131603/13219515/).
+- **Reservations accepted:** the restaurant links to [Toreta booking](https://yoyaku.toreta.in/toriguchi). Its instructions include English and an explicit language switch, supporting an accessible booking process; English-speaking staff/menu and acceptance of overseas contact details have not been independently confirmed. The venue specifies courses only, two-hour seating and cashless payment. Booking window, cancellation charges and two-person December availability still need checking; do not rely on walk-in seating.
+- Fit: a seated yakitori dinner with a lower published course price than the Hanare example below. Trade-offs: a separate trip to Gotanda from the Shinjuku hotel and a fixed-course format. Published courses include chicken tataki; check preferences and whether a fully cooked substitution is possible before committing.
+
+### Yakiniku Jumbo / 焼肉ジャンボ — branch to choose
+
+- Keep this as the requested **Tokyo yakiniku option without silently selecting a branch**. The [official restaurant network](https://yakiniku-jambo.com/) distinguishes Shinozaki Honten, Hongo and Hanare, plus the Shirokane partnership restaurant. Compare location and availability before choosing.
+- **Hanare is a researched example, not the selected branch:** Hongo-Sanchome area, **3-27-9 Hongo, Bunkyo-ku**. [Tabelog](https://tabelog.com/en/tokyo/A1310/A131004/13160962/) shows **4.33/5** and a 2026 Bronze award, checked October 2. Its [English TableCheck page](https://www.tablecheck.com/en/shops/yakiniku-jambo-hanare/reserve) offers seat-only reservations and a **JPY 20,000 tax-included course per person**, with drinks/extras additional. This is a menu quote, not confirmed December inventory.
+- **Reservations accepted at Hanare:** the official site links directly to that English booking channel; international telephone reservations are not accepted. A credit card is required, with holds and cancellation terms depending on the selection. Verify the selected December plan's exact terms before submission. English booking access is evidenced; fluent English service is not guaranteed. Walk-in availability is unverified.
+- The [Hanare official page](https://yakiniku-jambo.com/hanare.html) says reservations extend through the following month, with the subsequent month opening on the first. That implies **November 1 for December bookings** under the published policy; confirm the live booking window/release time rather than treating this as guaranteed availability.
+- Fit: a highly rated yakiniku splurge. Trade-offs: higher spend, advance-planning requirements and a trip to Hongo from the hotel. Do not apply Hanare's prices, score or policies to another Jumbo branch.
+
+Restaurant research checked **October 2, 2026**. Scores, menus and policies may change. No date/time inventory was checked, no restaurant was contacted and no reservation was made.
+
 ## Wednesday Dec 9 — Imabari Towel Minami-Aoyama
 
 - **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** Provisionally place on **Wednesday Dec 9**, during the first Tokyo stay; the stop is requested, while this particular date/time is an assistant placement rather than a fixed appointment.

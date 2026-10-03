@@ -29,6 +29,8 @@ Prioritize hotel-specific forwarding between **Hyatt Regency Tokyo and Hiyori**,
 
 ## Restaurant criteria
 
+**October 2 user additions:** keep **Toriguchi / とり口 in Gotanda** and **Yakiniku Jumbo in Tokyo** on the shortlist. Details and sources are in [Tokyo restaurant options](ITINERARY.md#tokyo-restaurant-options--added-october-2). Neither is scheduled or reserved. Jumbo's branch is undecided: Hanare was researched as an example, not chosen on the traveler's behalf. Confirm the branch, preferred evening, booking window and exact availability before proposing a reservation; retain arrival-day flexibility. Toriguchi's multilingual booking instructions and Hanare's English TableCheck are accessibility evidence, not a guarantee of English-speaking staff.
+
 The traveler requests three options with **foreigner-friendly access**, Tabelog scores (target at least 3.0/5), a generous but not extravagant budget, review sentiment and pros/cons. State **reservations accepted / walk-in only / policy unverified** for each.
 
 Support accessibility with English-menu/staff evidence, an overseas-usable booking channel or recent visitor accounts; an automatic translation is insufficient. For reservable places, give the method, window and material cancellation/deposit terms. Distinguish accepting reservations from availability for our exact date/time. For walk-ins, explain queue risk and practical timing. No provider contact or purchase is authorized merely by these notes.

@@ -39,6 +39,8 @@ Updated October 2, 2026. **Hotel booking is complete.** All dates below are Japa
 ## Food and remaining budget
 
 - [ ] Clarify dietary/allergy needs before making dining or meal-plan arrangements.
+- [ ] Follow up the requested [Tokyo options](ITINERARY.md#tokyo-restaurant-options--added-october-2): **Toriguchi (Gotanda)** and **Yakiniku Jumbo**. Choose Jumbo's branch with the traveler; Hanare is only a researched example. Neither restaurant is scheduled or reserved.
+- [ ] For those two options, choose an evening (Dec 9 or Dec 15 are candidates), verify two-person availability, booking windows, overseas booking access and selected-plan cancellation/card-hold terms. Hanare's published monthly policy implies December opens November 1; confirm the actual release time/window. For Toriguchi, check course preferences including chicken tataki/fully cooked alternatives.
 - [ ] Research restaurants near Hyatt Regency Tokyo, Karaku and Hiyori, applying the criteria in [HANDOFF.md](HANDOFF.md): three options, Tabelog, spend, review themes, foreigner accessibility and explicit reservation/walk-in status.
 - [ ] Distinguish reservation availability from booking policy, and protect travel-day flexibility. No restaurant is confirmed reserved.
 - [ ] Record Hiyori's actual cost, remaining hotel taxes/extras, transport, forwarding and chosen spa costs before totaling the cash budget. Tokyo awards total 81,000 points; Karaku receipt confirms JPY 239,814 paid.
