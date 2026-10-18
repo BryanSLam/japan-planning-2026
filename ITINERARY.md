@@ -13,11 +13,11 @@ Two adults, one room, two beds requested. Tokyo's Club Twin bookings are verifie
 | Date | Booked overnight | Day plan |
 |---|---|---|
 | Tue Dec 8 | Hyatt Regency Tokyo | NRT arrival **17:25**; transfer to hotel and easy dinner. Keep the evening flexible for arrival formalities. |
-| Wed Dec 9 | Hyatt Regency Tokyo | Proposed **Tsukiji sushi brunch → Ginza shopping/eating**. Dec 9 is a wholesale-market closure day; individual Outer Market shops may open. Sushidai Honkan normally opens 10:30 Monday–Saturday. Choose among Ginza SIX/Mitsukoshi/Itoya; possible Toriguchi dinner. |
+| Wed Dec 9 | Hyatt Regency Tokyo | Proposed **Tsukiji sushi brunch → Ginza shopping/cafés/food halls**. Dec 9 is a wholesale-market closure day; individual Outer Market shops may open. Sushidai Honkan normally opens 10:30 Monday–Saturday. Choose among Ginza SIX/Mitsukoshi/Itoya; possible Toriguchi dinner. |
 | Thu Dec 10 | Hakone Gora Karaku | Check out of Regency; travel to Karaku. Keep afternoon for onsen/ryokan time and dinner, with timing set from the actual meal plan. |
 | Fri Dec 11 | Hakone Gora Karaku | Choose one of the two morning/lunch options below; protect afternoon spa/relaxation and dinner. Spa is not reserved. |
 | Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. Easy Namba food/shopping evening. |
-| Sun Dec 13 | Hiyori Hotel Osaka Namba | Proposed Osaka food/shopping day: Namba Parks, Takashimaya or Shinsaibashi, with Ajinoya and snack options. These are choices, not all required stops. |
+| Sun Dec 13 | Hiyori Hotel Osaka Namba | Proposed Osaka food/shopping day: Namba Parks, Takashimaya or Shinsaibashi. Choose **Jinen sushi or Ajinoya okonomiyaki** for lunch/dinner, with optional snacks. |
 | Mon Dec 14 | Hiyori Hotel Osaka Namba | Proposed Nara/Kikuichi day trip, Shizuka lunch, optional Todai-ji/deer park, then possible Daruma dinner back in Osaka. Potential bag dispatch after carrier timing is confirmed. |
 | Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Proposed **Imabari/Aoyama/Omotesando** afternoon if train timing and shop hours allow. Food choices include Onodera or Maisen, or one of three Shinjuku beef-dinner options. |
 | Wed Dec 16 | — | Check out of Regency; limited morning/lunch time and NRT transfer for **18:15 departure**, with airport buffer. |
@@ -75,7 +75,7 @@ The traveler removed Jumbo from the active shortlist in favor of closer choices.
 | Option | Proposed use and budget | Booking and sources |
 |---|---|---|
 | **Tsukiji Sushidai Honkan — 3.53** | Proposed **Dec 9 sushi brunch**. Normal Monday–Saturday lunch opening **10:30**; exceptional Dec 9 service unverified. Plan **JPY 3,000–6,000** plus extras; confirm set prices. **6-21-2 Tsukiji**. This is separate from Sushi Dai at Toyosu. | **Lunch walk-in**; dinner reservations for table seats only, excluding Sundays, per venue listing. English menu/service unverified. [Tabelog](https://tabelog.com/tokyo/A1313/A131301/13002314/), [official Outer Market merchant listing](https://www.tsukiji.or.jp/shoplist/cat-d/cat-12/601/). |
-| **Sushi no Midori Ginza — 3.52** | A Ginza alternative to the Tsukiji sushi meal. Plan **JPY 3,000–5,000**, depending on set/extras. Multilingual/photo menus; substantial queues possible. Near the Ginza/Shimbashi side. | **Selected plans accept reservations** on the [official site](https://www.sushinomidori.co.jp/shops/ginza/); otherwise use an on-site queue ticket. Smartphone queue entry currently unavailable. [Tabelog](https://tabelog.com/tokyo/A1301/A130101/13004995/). |
+| **Sushi no Midori Ginza — 3.52** | Retained as an **unscheduled backup only; excluded from Dec 9**, when the sushi stop is Tsukiji. Plan **JPY 3,000–5,000**, depending on set/extras. Multilingual/photo menus; substantial queues possible. | **Selected plans accept reservations** on the [official site](https://www.sushinomidori.co.jp/shops/ginza/); otherwise use an on-site queue ticket. Smartphone queue entry currently unavailable. [Tabelog](https://tabelog.com/tokyo/A1301/A130101/13004995/). |
 | **Kaiten Sushi Ginza Onodera Honten, Omotesando — 3.49** | The conveyor-sushi option for the Aoyama outing. Despite its Ginza brand name, this branch is **5-1-6 Jingumae, Omotesando**. Tabelog JPY 4,000–4,999; reviews often **JPY 6,000–7,999**. Separate from the expensive Ginza omakase Souhonten. | **Walk-in only**, with on-site waiting list; busy periods may have a 60-minute seating limit and tickets may stop early. [Official branch](https://onodera-group.com/kaitensushi-ginza/), [Tabelog](https://tabelog.com/en/tokyo/A1306/A130602/13264172/). |
 | **Numazuko Shinjuku Main Store — 3.46** | Flexible conveyor-sushi fallback during a Tokyo stay. **3-34-16 Shinjuku**, near the east/southeast station side. Tabelog JPY 2,000–2,999; reviews often **JPY 3,000–3,999**. English menu listed. | **Walk-in only**; allow for a queue. [Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13004192/). |
 
@@ -88,11 +88,11 @@ New Tokyo shortlist research checked **October 17, 2026**; Toriguchi's detailed 
 
 ## Wednesday Dec 9 — Tsukiji and Ginza, proposed
 
-A requested Tokyo sushi morning followed by Ginza shopping/eating, provisionally on Dec 9. Keep hotel breakfast light if choosing sushi brunch. These are proposed placements, not appointments.
+A requested Tokyo sushi morning followed by Ginza shopping, cafés and food halls, provisionally on Dec 9. Keep hotel breakfast light if choosing sushi brunch. These are proposed placements, not appointments.
 
 - **[Tsukiji Outer Market](https://www.tsukiji.or.jp/english/):** the [official 2026 calendar](https://www.tsukiji.or.jp/assets/pdf/tsukiji_calendar2026.pdf) identifies **Dec 9 as a wholesale-market closure day**. Its footnote says Outer Market stores keep individual schedules and some may open. Expect a limited market visit and confirm specific shops rather than assuming all stalls operate. Sushidai Honkan's normal Monday–Saturday 10:30 opening supports the brunch idea, subject to exceptional closures. [Calendar information](https://www.tsukiji.or.jp/english/calendar/).
 - **[Ginza shopping and eating](https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html):** choose among **[GINZA SIX](https://ginza6.tokyo/)**, **[Ginza Mitsukoshi](https://www.mistore.jp/store/ginza.html)**, and **[Ginza Itoya Main Store](https://www.ito-ya.co.jp/ext/store/ginza/ginza/index.html)**. A food hall, stationery browse, café and a few streets can make a complete afternoon; visiting every store is not required.
-- **Food choices:** Tsukiji Sushidai Honkan for brunch, or Sushi no Midori Ginza as another sushi meal. Toriguchi in Gotanda remains a possible dinner, with a separate journey from Ginza. No need to have multiple sushi meals just because both are listed.
+- **Food choices:** Tsukiji Sushidai Honkan is the sushi-brunch option. Ginza afterward is for shopping, cafés and department-store food halls; Midori is excluded from this day's plan. Toriguchi in Gotanda remains a possible dinner, with a separate journey from Ginza.
 
 ## Tuesday Dec 15 — Imabari Towel Minami-Aoyama, proposed
 
@@ -107,13 +107,18 @@ A requested Tokyo sushi morning followed by Ginza shopping/eating, provisionally
 
 Choose a manageable Namba route: **[Namba Parks](https://nambaparks.com/)**, **[Takashimaya Osaka](https://www.takashimaya.co.jp/osaka/)**, Shinsaibashi, Hozenji or Dotonbori. Optional Kyoto/Kobe/Himeji excursions would replace this day rather than be added on top.
 
+**Jinen Unagidani Minami-dori is the Osaka sushi recommendation**, fitting the Shinsaibashi route on Sunday Dec 13. Choose it for lunch or dinner as an alternative to Ajinoya, without adding another excursion. Both normally close Mondays, so keep these choices on Sunday rather than the Nara return evening.
+
 | Food option | Budget per person and arrangements |
 |---|---|
+| **[Jinen Unagidani Minami-dori — 3.49](https://tabelog.com/en/osaka/A2701/A270201/27000915/)** | Casual nigiri/seafood near Nagahoribashi and Shinsaibashi, **1-8-26 Higashi-Shinsaibashi**. Dinner allowance **JPY 4,000–6,000**, depending on plates/drinks; [official eel-butter nigiri](https://jinen.org/archives/2559/) is **JPY 550 for two pieces, tax included**. **Reservations accepted**, phone **06-6244-4111**; direct overseas online booking, December availability and cancellation terms unverified. Otherwise allow for a weekend queue. The [official branch](https://jinen.org/content1/unagidani/) normally closes Mondays. An English menu is listed by a [visitor booking guide](https://www.japangourmetpass.com/en/restaurants/jinen-unagidaniminamidoriten); current on-site English support is unverified. |
 | **[Ajinoya Main Store — 3.59](https://tabelog.com/en/osaka/A2701/A270202/27001439/)** | Okonomiyaki/yakisoba; **JPY 2,000–4,000 allowance**. Sunday is a good candidate because the main store normally closes Mondays. **Walk-in queue or [English TableCheck FastPass](https://www.tablecheck.com/en/shops/ajinoya-okonomiyaki/reserve)**: JPY 660/person nonrefundable for priority queuing, not a guaranteed table. |
 | **[Daruma Namba Main Shop — 3.40](https://tabelog.com/en/osaka/A2701/A270202/27012813/)** | Kushikatsu; **JPY 2,000–3,000 allowance plus drinks**. A possible Monday dinner after Nara. **Weekday reservations accepted for 2+; weekends walk-in**. Reserved seats require a set menu and 90-minute limit. English/photo menus. [Official branch](https://www.kushikatu-daruma.com/location/nanba_honten). |
 | **[Daiki Suisan Namba CITY](https://tabelog.com/osaka/A2701/A270202/27004264/)** | Convenient conveyor sushi, including for Dec 12 arrival; **JPY 2,000–3,000 allowance**. **Walk-in only**, English menu listed. [LINE advance queuing](https://sushi.daiki-suisan.co.jp/sotomachi) joins a line rather than reserving a table. |
 
 Snack possibilities: **[551 Horai main shop](https://tabelog.com/osaka/A2701/A270202/27001312/)** pork buns and **[Rikuro Namba main shop](https://tabelog.com/osaka/A2701/A270202/27002336/)** cheesecake. Treat these as optional snacks. Rikuro's takeaway counter and upstairs café have different booking arrangements. Nothing is reserved.
+
+Jinen research checked **October 17, 2026**. Its published weekend hours normally support either lunch or dinner; check exceptional December closures before fixing a meal. The allowance is not a fixed-menu quote, and no table is reserved.
 
 ## Monday Dec 14 — Nara / Kikuichi, proposed
 
