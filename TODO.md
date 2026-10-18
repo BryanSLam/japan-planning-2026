@@ -30,6 +30,7 @@ Updated October 17, 2026. **Hotel booking is complete.** All dates below are Jap
 
 ## Spa and outings
 
+- [ ] Choose travel-day outings from actual arrival/transfer timing; recheck park/store hours and weather. Keep Dec 10 Karaku time and Dec 16 Narita buffer ahead of optional walks or shopping. Every day has named options in the companion, not a required checklist.
 - [ ] Select Gora Spa AIOI treatment, whether both travelers want it, pair-room availability and a Dec 11 slot. Verify full appointment duration, price, payment and cancellation before booking; preserve ryokan relaxation and dinner time.
 - [ ] Choose Dec 11 museum + Gyoza Center or Gora Park/light outing + Yamaji. Tamura is optional for its queue; Kihinkan is optional for extra travel. Recheck December hours/weather and protect the spa buffer. Thursday-arrival lunch can use Yamaji/Tamura/Kihinkan if early enough; Gyoza Center is closed Thursday. No lunch is reserved.
 - [ ] Check specific Tsukiji shops and Sushidai Honkan's exceptional Dec 9 service before fixing the proposed morning. The official calendar marks a wholesale closure that day; individual Outer Market shops may open. Normal Sushidai lunch starts 10:30 Monday–Saturday. Ginza afterward is for shopping, cafés and food halls, with no second sushi stop.
@@ -41,9 +42,10 @@ Updated October 17, 2026. **Hotel booking is complete.** All dates below are Jap
 
 - [ ] Clarify dietary/allergy needs before making dining or meal-plan arrangements.
 - [ ] Keep active food choices at **Tabelog 3.3 or higher, without an upper limit**, with verified English ordering support. Prefer convenient walk-ins and flag known long queues or booking requirements; do not restore lower-rated or language-unverified options as recommendations.
-- [ ] Choose meals from the [current 30-stop food shortlist](research/FOOD_RESEARCH.md), preserving multiple alternatives each day. High queues, extra travel and advance-course bookings stay optional; no restaurant is reserved.
+- [ ] Choose meals from the [current 35-stop food shortlist](research/FOOD_RESEARCH.md), preserving multiple alternatives each day. High queues, extra travel and advance-course bookings stay optional; no restaurant is reserved.
 - [ ] For Dec 8, set dinner from actual arrival: Takahashi ramen normally serves until 03:00 (last order 02:30); Komatsuan/Numazuko require earlier arrival. Recheck December hours and allow the roughly 15–20-minute walk from Hyatt. Old below-3.3 arrival chains are outside the shortlist.
 - [ ] For Dec 9, check Sushidai Honkan’s individual service and choose Ginza Tenkuni tempura or optional Hanayama/Kagari for another meal; Shinjuku alternatives remain available. Midori is unscheduled; Toriguchi is outside the English-verified shortlist.
+- [ ] If choosing the optional Dec 9 Jumbo Shirokane evening, shorten Ginza, choose Teien Art Museum or Nature Study, and check the official one-month reservation window from around Nov 9. Confirm the exact table, 90-minute seating and card/cancellation terms before committing. No table or museum ticket is booked.
 - [ ] For Dec 12–14 Osaka, choose among Imai udon, Hokkyokusei omurice and Daruma skewers, with optional Ajinoya/Fukutaro/Jinen/Nedoko if wait, stock and timing fit. No Ajinoya/Jinen on Monday. Keep Wanaka/551/Rikuro as snacks and check takeaway closing times.
 - [ ] For Dec 15, choose Komatsuan soba, Funabashiya tempura, Takahashi ramen, Numazuko sushi, or Onodera/Maisen around Aoyama. If choosing Fuunji, allow for its queue; if choosing Motoyama/Ushigoro, check the selected course, exact-date booking and cancellation terms before reserving. No upper score cutoff applies.
 - [ ] For Dec 16, keep early lunch flexible: Komatsuan from 11:00, Funabashiya/Numazuko from 11:30, or Takahashi. Airport timing takes priority; do not restore Watanabe or a Fuunji queue as the default.

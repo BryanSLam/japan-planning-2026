@@ -1,6 +1,6 @@
 # Current food shortlist and ordering evidence
 
-Checked October 17, 2026 against the current trip companion. **All 30 eligible food stops have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
+Checked October 17, 2026 against the current trip companion. **All 35 eligible food stops have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
 
 An English menu, English ordering tablet, actual English dish list usable to show staff, or specific visitor evidence supports ordering. It does not promise fluent staff on every shift. Queue labels are planning assessments, not wait guarantees. High-queue places, fixed bookings and farther detours are optional; convenient walk-ins lead the day. Published hours are normal patterns, not confirmed December availability.
 
@@ -9,6 +9,23 @@ An English menu, English ordering tablet, actual English dish list usable to sho
 Tabelog uses weighted reviewer scores, not a simple average. Its [official rating guide](https://tabelog.com/en/help/score) places 3.50–under 4.00 in roughly the top 3% of listed restaurants and 4.00+ in about the top 0.07%. Under 3.50 covers roughly 97%, including new or less-reviewed restaurants; a score near 3.0 is not an official guarantee of quality. The 3.3 floor is this trip’s preference, and scores can change.
 
 ## Tokyo
+
+### [Moyan Curry · Nishi-Shinjuku Dining — 3.39](https://tabelog.com/en/tokyo/A1304/A130401/13001046/)
+
+- **Food / budget:** Pork-belly curry and rice; Spinach curry with vegetable sides. Allow ¥1,300–2,500 per person for curry, depending on format and extras. The branch-managed menu updated October 5, 2026 lists dinner buffet options at ¥1,266 for one serving, ¥1,503 with one refill or ¥2,040 unlimited. Check current selection, price and serving format on arrival; later-evening items can run out.
+- **English ordering:** The official brand page explicitly says English menus are available at all locations, and the Dining branch’s dining-partner profile specifically lists its menu translated into English. The current official English dish page also provides names/photos usable to show staff. Spoken-English fluency is not promised. [Evidence](https://www.moyan.jp/english/).
+- **Access / hours:** TK Building 1F, 8-19-2 Nishi-Shinjuku, Shinjuku-ku, Tokyo. Monday–Saturday lunch 11:30–15:00 (last order 14:30); dinner 18:00–23:00 (last order 22:30). Sunday dinner 17:30–22:30 (last order 22:00). No regular closure listed; check exceptional dates. [Official venue](https://www.moyan.jp/dining/). Walk-in ordinary meals are possible; dinner reservations are also accepted, while weekday lunch buffet reservations are not accepted. No reservation made. The official branch page lists cashless payment. Do not attach a fixed booking to the uncertain flight-arrival time.
+- **Queue / fit:** Planning assessment: walk-in seating can be busy and a dependable current wait estimate was not established. Check the line and leave a buffer before 22:30 last order; no fixed arrival-night booking is suggested. [Source](https://tabelog.com/en/tokyo/A1304/A130401/13001046/). Proposed December 8, 15, 16. Meets the rating floor with sourced English-menu support, a short hotel-area walk and 22:30 dinner last order. Check the current meal format and any queue.
+- **Photos:** Two actual food images, with dish captions and source credits in the companion; current branch/brand examples rather than guaranteed December servings.
+
+### [Yakiniku Jumbo Shirokane — 3.73](https://tabelog.com/en/tokyo/A1316/A131602/13026377/)
+
+- **Food / budget:** Wagyu yakiniku; allow **¥15,000–20,000 per person**. Tabelog listed budget ¥10,000–14,999, with diner spending commonly ¥15,000–19,999. Current signature **Nohara-yaki ¥3,200/slice**, two-cut Wagyu assortment ¥5,500; tax included. Staff grill Nohara-yaki; guests normally grill other meat. Stone-bowl bibimbap is a rice-side option, not a claimed bestseller.
+- **English ordering:** The current September 2026 [official dinner PDF](https://valuet.co.jp/brands/wp-content/uploads/2026/09/HP%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC.pdf) has actual Japanese/English dish names, prices and grilling guidance throughout. Use it to show staff an order; fluent English service is not guaranteed. Older indexed 2024 menus have a superseded ¥3,000 Nohara-yaki price.
+- **Access / hours:** Exact address **Daiichi Azabu Building 1F, 3-1-1 Shirokane, Minato-ku**; about seven minutes from Shirokane-Takanawa A4. This is not Hongo or Hanare. [Official Japanese venue page](https://valuet.co.jp/brands/jumbo/) and Tabelog list weekday **17:00–23:00, last order 22:00**. English venue page says 22:30; use 22:00 conservatively. Normally closed Dec 31–Jan 2; exceptional Dec 9 service remains unverified.
+- **Booking / terms:** Use [official English TableCheck](https://www.tablecheck.com/en/shops/yakiniku-jumbo-shirokane/reserve), not AutoReserve. Reservations up to **one month ahead**, credit-card registration required, **90 minutes for two diners**. Check from around **Nov 9** for Dec 9; release time/availability not established. Dinner cancellation charges **¥10,000/person within 48 hours**, **¥15,000/person within 24 hours**; being over 15 minutes late without contact may cancel the table. Recheck actual terms before committing. Nothing reserved.
+- **Queue / fit:** Plan to reserve; no dependable walk-in wait established. Optional **Dec 9** dinner with Teien Art Museum or Nature Study, replacing part of Ginza shopping and the other dinner options. Keep it out of the flexible walk-in defaults. Dec 15 already has the return train and Imabari/Omotesando.
+- **Photos:** Two distinct actual dishes from the restaurant’s [official page](https://valuet.co.jp/brands/jumbo/): Nohara-yaki dipped in egg and hot stone-bowl bibimbap. Local companion images are captioned and credited; they do not guarantee a December presentation.
 
 ### [Fuunji Shinjuku Main Store — 3.76](https://tabelog.com/en/tokyo/A1304/A130401/13044091/)
 
@@ -110,6 +127,22 @@ Tabelog uses weighted reviewer scores, not a simple average. Its [official ratin
 
 ## Hakone
 
+### [Kanazawa Maimon Sushi · Hakone Gora — 3.36](https://tabelog.com/en/kanagawa/A1410/A141001/14097281/)
+
+- **Food / budget:** Nodoguro nigiri; Bluefin tuna trio. Allow ¥3,000–5,000 per person for a plate-by-plate lunch; premium fish and drinks can raise the total. Confirm current prices on the English menu.
+- **English ordering:** The exact branch’s restaurant-managed Tabelog information and Gurunavi explicitly list an English menu. A May 2026 visitor also reports one. English-speaking staff are listed, but staffing on the day is not promised. [Evidence](https://r.gnavi.co.jp/rkhesf010000/).
+- **Access / hours:** 621-2 Miyagino, Hakone, Kanagawa. Mon–Fri 11:00–15:00 (last order 14:30), 17:00–22:00 (last order 21:30); Sat/Sun/holidays 11:00–22:00 (last order 21:30). Weekday break introduced Sept 28, 2026; no regular weekly closing day shown. Recheck special December notices. [Official venue](https://www.maimon-susi.com/shop/hakone/). Walk-ins are possible, with online reservations also offered. Aim near lunch opening; actual queue and availability are unverified. No reservation made.
+- **Queue / fit:** 96 seats and optional reservations; no dependable wait-time estimate was established. Aim near opening and switch if a line would threaten the return to Karaku. [Source](https://tabelog.com/en/kanagawa/A1410/A141001/14097281/). Proposed December 10, 11. Tabelog 3.36 and verified English ordering; adds sushi variety. It is a regional chain that meets the stated criteria, with more travel than the central-Gora soba/gyoza choices.
+- **Photos:** Two actual food images, with dish captions and source credits in the companion; current branch/brand examples rather than guaranteed December servings.
+
+### [Daruma Ryori Ten · Odawara — 3.49](https://tabelog.com/en/kanagawa/A1409/A140901/14002352/)
+
+- **Food / budget:** Tendon set; Braised fish-collar set. Current official examples: basic tendon set ¥2,425; braised fish-collar set ¥2,640; sushi/tempura set ¥2,750. Allow roughly ¥2,400–3,800 per person before drinks.
+- **English ordering:** Rakuten Gurunavi explicitly lists an English menu for this exact restaurant. Its English dish page can also help with ordering. English-speaking staff are listed, but staffing on the day is not promised. [Evidence](https://gurunavi.com/en/gct9501/rst/).
+- **Access / hours:** 2-1-30 Honcho, Odawara, Kanagawa. Ground floor 11:00–21:00, last order 20:00. Closed Wednesdays and Jan 1–3 per current official menu page. Dec 10 Thu / Dec 12 Sat normally fit; exceptional December closures unverified. [Official venue](https://darumanet.com/). Ground-floor lunch is first come, first served; the restaurant does not take lunch reservations. Upstairs course dining is a different format. No reservation made.
+- **Queue / fit:** 100 ground-floor seats, but lunch is first come, first served and cannot be booked. No reliable wait-time estimate was verified; avoid a tight onward connection. [Source](https://darumanet.com/menu-dine). Proposed December 10, 12. Tabelog 3.49, verified English menu and a real walk-in dining room. Useful tempura/fish variety on an Odawara transfer, without adding a spa-day detour.
+- **Photos:** Two actual food images, with dish captions and source credits in the companion; current branch/brand examples rather than guaranteed December servings.
+
 ### [Soba Kihinkan — 3.42](https://tabelog.com/en/kanagawa/A1410/A141001/14033091/)
 
 - **Food / budget:** Cold soba lunch set; Duck hot-pot soba set. Current official examples: cold/hot soba ¥2,600; duck hot-pot soba or Hakoneyama set ¥3,500; tempura rice-bowl set ¥3,900. Prices and menus may change.
@@ -139,6 +172,14 @@ Tabelog uses weighted reviewer scores, not a simple average. Its [official ratin
 - **Queue / fit:** **moderate.** Recent Tabelog diners reported no wait in April 2026 and December 2025, but other reports mention lines. Walk-in access is straightforward; no wait-time guarantee. [Source](https://tabelog.com/en/kanagawa/A1410/A141001/14007738/dtlrvwlst/). Proposed use: Dec 10, Dec 11. Meets the 3.3 floor, has explicit English ordering support and fits the Gora Park/Karaku route without a detour.
 
 ## Osaka
+
+### [Hanamaruken · Namba Hozenji — 3.49](https://tabelog.com/en/osaka/A2701/A270202/27002618/)
+
+- **Food / budget:** Torokotsu ramen · トロコツ1本のせラーメン; House fried rice · 焼きめし; Shiawase ramen · しあわせラーメン. Allow ¥1,000–2,000 per person. The venue-managed menu lists Shiawase ramen ¥980, torokotsu ramen ¥1,330, seasoned egg +¥150 and a ramen/half-fried-rice set from ¥1,300; prices may change.
+- **English ordering:** Rakuten Gnavi explicitly lists an English menu at this exact 1-2-1 Namba branch. A first-person guide updated July 24, 2026 also describes an English menu at the entrance. English-speaking staff and an English ticket-machine interface are not confirmed. [Evidence](https://r.gnavi.co.jp/7916xkrx0000/).
+- **Access / hours:** 1-2-1 Namba, Chuo-ku, Osaka. Daily 24 hours; normal hours cover December 12–14. Temporary changes remain possible. [Official venue](https://arakawa-fs.jp/shop/%E8%8A%B1%E4%B8%B8%E8%BB%92-%E9%9B%A3%E6%B3%A2%E3%83%BB%E6%B3%95%E5%96%84%E5%AF%BA%E5%BA%97/). Walk-ins only; reservations unavailable. Buy a meal ticket and follow the staff’s queue instructions. The official branch lists 24-hour daily service and 17 seats, mostly at the counter. No booking made.
+- **Queue / fit:** A July 2026 updated first-person guide describes long queues. The official branch has only 17 seats; use this as an optional walk-in and move on if the line is long. [Source](https://www.bring-you.info/en/hanamaruken-namba-ramen). Proposed December 12, 13, 14. Meets the 3.3 rating floor with verified English-menu support; adds another ramen choice beside the Osaka walking route. The 24-hour schedule is flexible, but entry is not guaranteed without waiting.
+- **Photos:** Two actual food images, with dish captions and source credits in the companion; current branch/brand examples rather than guaranteed December servings.
 
 ### [Dotonbori Imai Honten — 3.58](https://tabelog.com/en/osaka/A2701/A270202/27001289/)
 
@@ -246,7 +287,7 @@ These are retained as research history only. They must not return to active dail
 | [Rokkasen Nishiguchi Main Branch](https://tabelog.com/en/tokyo/A1304/A130401/13297712/) | 3.23 | Below the user’s 3.3 minimum. Exclude from visible food choices, including arrival backups. |
 | [Tempura Daikichi · Namba](https://tabelog.com/en/osaka/A2701/A270202/27011807/) | 3.49 | Tabelog 3.49 and the nearby tempura format fit the brief, but the current English requirement is not verified strongly enough for an active recommendation. |
 
-**Branch corrections:** The original Tsunahachi Shinjuku Honten building closed May 31, 2026 for rebuilding; the relocated Honten Bekkan is separate. Funabashiya is the current researched tempura option. [Official relocation notice](https://www.tunahachi.co.jp/store/1.html), [annex](https://www.tunahachi.co.jp/store/53.html). Jumbo remains removed. Onodera’s casual conveyor-sushi Honten is in Omotesando despite the Ginza brand name; Tsukiji Sushidai Honkan is not Toyosu Sushi Dai. Use the exact branches above.
+**Branch corrections:** The original Tsunahachi Shinjuku Honten building closed May 31, 2026 for rebuilding; the relocated Honten Bekkan is separate. Funabashiya is the current researched tempura option. [Official relocation notice](https://www.tunahachi.co.jp/store/1.html), [annex](https://www.tunahachi.co.jp/store/53.html). Jumbo Shirokane is a current optional Dec 9 dinner; keep the exact Shirokane branch. Onodera’s casual conveyor-sushi Honten is in Omotesando despite the Ginza brand name; Tsukiji Sushidai Honkan is not Toyosu Sushi Dai. Use the exact branches above.
 
 ## English-language visitor notes
 
