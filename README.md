@@ -17,7 +17,7 @@ The Tokyo stays are Club Twin free-night awards totaling **81,000 Hyatt points**
 
 - [Little Japan Days trip companion](https://little-japan-days-2026.bryan-s-lam.chatgpt.site): public, mobile-friendly itinerary with casual daily overviews, an interactive map, English map labels, two-photo restaurant galleries, Tabelog links and booking labels. Hotel stays are booked; other placements remain ideas. Favorites are saved on each device and do not synchronize between travelers.
 - [Day-by-day itinerary and luggage plan](ITINERARY.md): proposed Dec 9 Tsukiji sushi followed by Ginza shopping/cafés, Dec 15 Imabari/Aoyama, two Hakone nights with spa time, and Nara/Kikuichi from Osaka.
-- [Everyday food research](research/FOOD_RESEARCH.md): ramen, soba, udon, tempura, fish sets and takoyaki, with exact branches, hours and ordering ideas.
+- [Everyday food research](research/FOOD_RESEARCH.md): ramen, soba, udon, tempura, sushi, omurice and local snacks, with 30 eligible stops, exact branches, Tabelog scores of at least 3.3, sourced English ordering, hours and queue trade-offs.
 - [Confirmed hotels](HOTELS.md): the four stays, verified costs and details still to capture.
 - [Remaining tasks](TODO.md): transport, forwarding, spa, meals and reservation details.
 - [Handoff](HANDOFF.md): traveler preferences and how to continue without reopening completed booking work.

@@ -12,6 +12,7 @@
 - Do not present a high-value luxury Hyatt redemption as cash savings versus a cheaper hotel the traveler would otherwise choose.
 - Preserve existing user changes. Record dates, direct sources, inclusions, and uncertainties in new research.
 - New everyday-food and noodle research belongs in `research/FOOD_RESEARCH.md`; keep proposed meal placements in `ITINERARY.md`.
+- Current restaurant recommendations require Tabelog 3.3+ (no upper limit) and sourced English ordering support. Prefer convenient walk-ins; label known queue or booking trade-offs, and keep lower-rated or language-unverified research out of active day choices.
 - Keep the public trip companion and current itinerary consistent when placements change. Public app content must exclude private guest/booking/payment details and receipts; device-local favorites do not synchronize between travelers.
 - Store only reviewed, redacted receipt copies under `receipts/`, with a note describing what they establish. Remove guest names, private receipt/transaction/confirmation identifiers and PDF metadata from the file content before committing; keep originals outside the repository. Never commit account balances, membership numbers, confirmation numbers, personal contact/payment details, credentials, or signed-in checkout screenshots. Published room/award quotes and tentative transfer amounts are planning data, not proof that a transaction happened.
 - Prioritize convenience and a relaxed pace without assuming the traveler's mother is elderly or has mobility limitations.

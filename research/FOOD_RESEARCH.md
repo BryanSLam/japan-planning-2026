@@ -1,37 +1,259 @@
-# Current everyday food additions
+# Current food shortlist and ordering evidence
 
-Checked October 17, 2026, alongside the public trip companion. **Every restaurant remains unbooked.** Ratings and hours can change; listed opening patterns are not exact-date availability. Budgets below distinguish current menu prices from planning allowances. The broader sushi, yakiniku and Hakone/Nara choices remain in [ITINERARY.md](../ITINERARY.md).
+Checked October 17, 2026 against the current trip companion. **All 30 eligible food stops have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
+
+An English menu, English ordering tablet, actual English dish list usable to show staff, or specific visitor evidence supports ordering. It does not promise fluent staff on every shift. Queue labels are planning assessments, not wait guarantees. High-queue places, fixed bookings and farther detours are optional; convenient walk-ins lead the day. Published hours are normal patterns, not confirmed December availability.
+
+## How to read Tabelog
+
+Tabelog uses weighted reviewer scores, not a simple average. Its [official rating guide](https://tabelog.com/en/help/score) places 3.50–under 4.00 in roughly the top 3% of listed restaurants and 4.00+ in about the top 0.07%. Under 3.50 covers roughly 97%, including new or less-reviewed restaurants; a score near 3.0 is not an official guarantee of quality. The 3.3 floor is this trip’s preference, and scores can change.
 
 ## Tokyo
 
-| Exact branch and Tabelog | Orders and budget per person | Current use, opening and access |
-|---|---|---|
-| **[Ippudo Shinjuku I-Land Tower — 3.11](https://tabelog.com/tokyo/A1304/A130401/13168295/)** | Shiromaru original pork-broth ramen or Akamaru with garlic oil/spicy miso. **JPY 1,000–2,000 allowance**; app photos show extra-topping Kiwami versions. | Dec 8 arrival choice, about **5–8 min from Hyatt** as an estimate. **Walk-in**, Tuesday 11:00–22:00, **last order 21:30**; aim for 21:00 or earlier. Foreign-language menus listed. [Official branch](https://stores.ippudo.com/1075), [mall hours](https://www.shinjuku-i-land.jp/shopguide/detail/?cd=000022). |
-| **[Yayoiken Nishi-Shinjuku — 3.08](https://tabelog.com/tokyo/A1304/A130401/13048967/)** | Salt-grilled mackerel set with rice/miso soup; ginger pork is another regular choice. **JPY 900–1,500 allowance**. | Dec 8 fish-and-rice option, about **8–10 min from Hyatt**, estimate. **Walk-in**, Tuesday 10:00–22:00, **last order 21:30**. [Official branch](https://store.yayoiken.com/b/yayoiken/info/1881/), [Tokyo menu](https://www.yayoiken.com/menu_list/index/13), [English menu access](https://www.yayoiken.com/en/). |
-| **[Matsuya Nishi-Shinjuku 8-chome — 3.05](https://tabelog.com/tokyo/A1304/A130401/13097625/)** | Gyumeshi beef/onion rice bowl or Japanese-style beef curry. **JPY 500–1,200 allowance**, plus about **7% from 22:00–05:00**. | Dec 8 late fallback, about **8–10 min from Hyatt**, estimate. **Walk-in, open 24 hours** per [official branch](https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000665). [English menu/ordering guides](https://www.matsuyafoods.co.jp/english/menu/). |
-| **[Menya Sho Honten, Nishi-Shinjuku — 3.77](https://tabelog.com/en/tokyo/A1304/A130401/13040181/)** | Special shamo chicken **shio or shoyu ramen**, each **JPY 1,500** on the current official menu; regular ramen **JPY 1,000–1,500**, rich chicken tsukemen **JPY 1,250–1,750**. | Dec 15 dinner option, **7-22-34 Nishi-Shinjuku**. **Walk-in/cash only**. Normally Tuesday 11:00–15:00 and 18:00–22:00, last order 21:45; soup can sell out. No regular closure; English service/menu unverified. [Official branch/hours](https://menya-sho.co.jp/shop/nishishinjyuku_shop/), [current menu](https://menya-sho.co.jp/menu/nishishinjyuku_menu/). |
-| **[Fuunji Shinjuku Main Store — 3.76](https://tabelog.com/en/tokyo/A1304/A130401/13044091/)** | **Tsukemen JPY 1,000** or **tokusei JPY 1,300**, current official menu. Dip separate noodles into rich chicken/dried-fish/kelp broth; usual toppings include pork. **JPY 1,000–1,500 allowance**. | Dec 15 dipping-ramen choice. **Walk-in**, daily 11:00–15:00 and **17:00–21:00**, no regular closing day; soup may sell out. A brisk counter meal with queueing, not a reserved leisurely dinner. [Official menu/hours](https://www.fu-unji.com/), [news](https://www.fu-unji.com/news). Dated English visitor evidence below. |
-| **[Teuchi Soba Watanabe — 3.49](https://tabelog.com/en/tokyo/A1304/A130401/13000813/)** | **Soba zanmai** three-style noodles **JPY 1,300**, or **ten-seiro** cold soba/tempura **JPY 1,650**. Allow **JPY 1,000–2,000**, depending on dishes. | Dec 16 early lunch, **1-12-10 Nishi-Shinjuku, Hachiyo Building 1F**, five minutes from JR West Exit. **Walk-in/cash only**, Monday–Saturday **11:00–21:30**, closed Sundays. English menu/service unverified; airport timing takes priority. [Official information](https://sites.google.com/view/teuchisobawatanabe), [photo menu](https://sites.google.com/view/teuchisobawatanabe/%E8%95%8E%E9%BA%A6). |
-| **[Tempura Funabashiya Shinjuku Honten — 3.49](https://tabelog.com/en/tokyo/A1304/A130401/13012090/)** | Current meal sets: basic/vegetable **JPY 3,000**, recommended **Matsu JPY 4,500**, sashimi/tempura **JPY 5,500**; extras/drinks add to the bill. | Dec 15 tempura option, **3-28-14 Shinjuku**. Normally **11:30–21:00, last order 20:30**, no regular closure with exceptions. **Walk in or reserve by phone**; reserved meals use a reservation menu. English menus listed; English phone service and online booking unverified. [Official site](https://www.tempura-funabashiya.com/), [reservation policy](https://www.tempura-funabashiya.com/%E3%81%94%E4%BA%88%E7%B4%84/), [current venue menu](https://tabelog.com/en/tokyo/A1304/A130401/13012090/dtlmenu/). |
+### [Fuunji Shinjuku Main Store — 3.76](https://tabelog.com/en/tokyo/A1304/A130401/13044091/)
 
-**Tempura branch correction:** the original Tsunahachi Honten closed May 31, 2026 for rebuilding, with completion expected around autumn 2028. The brand opened a relocated **Honten Bekkan** at 3-28-4 Shinjuku on June 23, 2026. Funabashiya is the selected additional tempura option; do not direct travelers to the closed original Tsunahachi building. [Official relocation notice](https://www.tunahachi.co.jp/store/1.html), [current annex](https://www.tunahachi.co.jp/store/53.html).
+- **Food / budget:** Tsukemen · original dipping noodles; Tokusei tsukemen · extra toppings. ¥1,000–1,500 per person · planning allowance. Official menu currently lists tsukemen ¥1,000 and tokusei tsukemen ¥1,300; extras and drinks cost more.
+- **English ordering:** A traveler visiting in July 2026 specifically reported an English-speaking staff member helping customers at this branch. This is recent visitor evidence, not a promise about every shift. [Evidence](https://www.tripadvisor.co.uk/Restaurant_Review-g14133713-d1679642-Reviews-Fuunji-Yoyogi_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html).
+- **Access / hours:** Walk-ins only; no reservation made. Buy a meal ticket and follow queue instructions. Daily 11:00–15:00 and 17:00–21:00; service ends when soup sells out. [Official venue](https://www.fu-unji.com/).
+- **Queue / fit:** **high.** August 2026 traveler report describes long lines from roughly 18:00–18:30; actual waits vary. The small counter also has an indoor queue. [Source](https://www.tripadvisor.co.uk/Restaurant_Review-g14133713-d1679642-Reviews-Fuunji-Yoyogi_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html). Proposed use: Dec 15. High-rated dipping ramen requested by the user. Keep as an optional queue destination on the return day, not the timed airport-day default.
+
+### [Tempura Funabashiya Shinjuku Honten — 3.49](https://tabelog.com/en/tokyo/A1304/A130401/13012090/)
+
+- **Food / budget:** Matsu tempura set; Vegetable tempura meal. Current venue menu: Hanako set ¥3,000, vegetable-tempura meal ¥3,000, Matsu set ¥4,500 and sashimi/tempura set ¥5,500. Drinks, extras and premium courses cost more.
+- **English ordering:** The exact restaurant’s Gurunavi service details explicitly confirm an English menu. [Evidence](https://gurunavi.com/en/g141907/mn/course1/rst/).
+- **Access / hours:** Walk-ins accepted; reservations also available. No booking made. Reservations use a different menu from ordinary walk-in meals. Daily 11:30–21:00; last order 20:30; occasional exceptions [Official venue](https://www.tempura-funabashiya.com/).
+- **Queue / fit:** **moderate.** Ordinary walk-in restaurant with 126 seats; allow a meal-time wait rather than assuming an immediate seat. [Source](https://tabelog.com/en/tokyo/A1304/A130401/13012090/). Proposed use: Dec 9, Dec 15, Dec 16. A local tempura choice above the floor with verified English ordering and flexible walk-in meals.
+
+### [Tsukiji Sushidai Honkan — 3.53](https://tabelog.com/tokyo/A1313/A131301/13002314/)
+
+- **Food / budget:** Chef's omakase sushi set; Anago nigiri. Plan ¥3,000–6,000 per person plus extras. Published menu/recent review prices differ; confirm current set prices.
+- **English ordering:** The exact restaurant’s dining/reservation listing explicitly records its menu as translated into English; a first-person Honkan visit also documents an English picture menu. This is the 6-21-2 Tsukiji branch, not Toyosu Sushi Dai. [Evidence](https://www.japangourmetpass.com/en/restaurants/tsukiji-sushidai-honten).
+- **Access / hours:** Lunch walk-in. Dinner reservations for table seats only, subject to venue restrictions; Sunday reservations unavailable. None made. Lunch from 10:30 until sold out; dinner until 22:00, last order 21:30, final entry 21:15 · Regular closure: New Year period only normally; individual exceptional closures unverified [Official venue](https://www.tsukiji.or.jp/shoplist/cat-d/cat-12/601/).
+- **Queue / fit:** **moderate.** Walk-in lunch can involve a queue. Arrive around 10:30 opening; fish or lunch service can run out. [Source](https://tabelog.com/tokyo/A1313/A131301/13002314/). Proposed use: Dec 9. Keeps the planned Tsukiji sushi meal. The added Ginza alternatives are noodles or tempura, not a second required sushi meal.
+
+### [Kaiten Sushi Ginza Onodera · Omotesando — 3.49](https://tabelog.com/en/tokyo/A1306/A130602/13264172/)
+
+- **Food / budget:** Yamayuki bluefin chutoro; Homemade simmered anago. Tabelog listing ¥4,000–4,999; reviews often ¥6,000–7,999 per person. Depends on plates ordered.
+- **English ordering:** A November 2025 first-person report for this Omotesando main store specifically describes an ordering tablet with an English option. [Evidence](https://www.hungryonion.org/t/tokyo-trip-report-october-and-november-2025/45821).
+- **Access / hours:** Walk-in only; on-site waiting list. Busy periods may use a 60-minute seating limit, and ticket sales can close early. No reservation made. Daily 10:30–22:30; final entry 21:30, last order 22:00; irregular closures [Official venue](https://onodera-group.com/kaitensushi-ginza/).
+- **Queue / fit:** **moderate.** The November 2025 report waited 30–45 minutes on a holiday-weekend Sunday. Take an on-site number; weekday waits may differ. [Source](https://www.hungryonion.org/t/tokyo-trip-report-october-and-november-2025/45821). Proposed use: Dec 15. English tablet ordering and sushi by the plate suit the Omotesando shopping route; no fixed tasting-course commitment.
+
+### [Maisen Aoyama Main Store — 3.43](https://tabelog.com/en/tokyo/A1306/A130602/13001850/)
+
+- **Food / budget:** Tonkatsu set; Hire-katsu sandwich. ¥2,000–4,000 per person · planning allowance
+- **English ordering:** The exact Aoyama restaurant’s English-menu amenity is explicitly listed by Japan Restaurant Guide. This confirms menu support, not fluent English staff. [Evidence](https://japanrestaurant.net/en/shop/maisen/).
+- **Access / hours:** Walk-in meals available. Reservations accepted; weekends/holidays reservations are for banquet courses only. None made. Daily 11:00–22:00; last order 21:00; January 1–2 closed normally [Official venue](https://mai-sen.com/restaurant/).
+- **Queue / fit:** **moderate.** A large restaurant, but its popularity can still create a lunch queue. Allow time and keep the meal flexible. [Source](https://tabelog.com/en/tokyo/A1306/A130602/13001850/). Proposed use: Dec 15. An English-menu tonkatsu option on the Aoyama/Omotesando route, with a large dining room and walk-in meals.
+
+### [Yakiniku Motoyama Shinjuku — 3.43](https://tabelog.com/en/tokyo/A1304/A130401/13107765/)
+
+- **Food / budget:** Three-cut Wagyu platter; Black Wagyu nigiri. Tabelog dinner range ¥6,000–7,999; reviews often ¥8,000–9,999 per person. ¥330 charge; courses/extras vary.
+- **English ordering:** The exact 7-10-12 Nishi-Shinjuku 2 F branch’s Gurunavi listing explicitly confirms an English menu. [Evidence](https://gurunavi.com/en/p597402/rst/).
+- **Access / hours:** Reservations accepted; no booking made. Walk-in seating is subject to space. Busy periods may have a 2-hour limit; the current listing records a¥330 charge. Daily 16:00–23:00; last order 22:30 [Official venue](https://www.yakiniku-motoyama.com/).
+- **Queue / fit:** **moderate.** 56 seats and reservations accepted; walk-in availability is not assured. This is an optional dinner, not a quick guaranteed seat. [Source](https://tabelog.com/en/tokyo/A1304/A130401/13107765/). Proposed use: Dec 15. A qualified optional yakiniku dinner near the hotel side of Shinjuku; useful if you decide you want beef, without adding more meat-heavy defaults.
+
+### [Numazuko Shinjuku Main Store — 3.46](https://tabelog.com/en/tokyo/A1304/A130401/13004192/)
+
+- **Food / budget:** Overflowing uni sushi; House-cured mackerel nigiri. Tabelog listing ¥2,000–2,999; reviews often ¥3,000–3,999 per person. Plate choices change the bill.
+- **English ordering:** The exact branch’s current service listing explicitly records an English menu, corroborated by a July 6,2026 first-person visit. [Evidence](https://tabelog.com/en/tokyo/A1304/A130401/13004192/).
+- **Access / hours:** Walk-in only; not reserved. Daily 11:30–22:30; last order 22:00; irregular closures
+- **Queue / fit:** **moderate.** 52 seats and no reservations, so a queue is possible. A recent visitor reported easy English-menu ordering, not guaranteed immediate seating. [Source](https://tabelog.com/en/tokyo/A1304/A130401/13004192/). Proposed use: Dec 8, Dec 15, Dec 16. Casual sushi by the plate with English ordering and walk-in entry, near the Shinjuku station shops.
+
+### [Sushi no Midori Ginza — 3.52](https://tabelog.com/tokyo/A1301/A130101/13004995/)
+
+- **Food / budget:** Super Premium Nigiri; Whole anago. Tabelog lunch ¥2,000–2,999 / dinner ¥3,000–3,999; plan ¥3,000–5,000 per person depending on set and extras.
+- **English ordering:** The owner-managed Ginza branch listing explicitly records English and other multilingual menus, photo menus and a digital menu. [Evidence](https://tabelog.com/tokyo/A1301/A130101/13004995/).
+- **Access / hours:** Selected prepaid set meals can be reserved online. Otherwise take an on-site queue ticket, available from 10:00; no smartphone queue. Reserved plans have 90-minute seating and cancellation fees. Check the selected plan; no reservation made. Weekdays 11:00–15:00, last order 14:00;17:00–21:00, last order 20:30. Weekends/holidays 11:00–21:00, last order 20:30 [Official venue](https://www.sushinomidori.co.jp/shops/ginza/).
+- **Queue / fit:** **high.** Popular ticket-queue restaurant; selected prepaid sets can be booked, otherwise take an on-site number. [Source](https://www.sushinomidori.co.jp/shops/ginza/). Proposed use: unscheduled alternative. A qualified unscheduled sushi alternative only. Do not add as a second sushi meal on the Tsukiji/Ginza day.
+
+### [Ushigoro Shinjuku 3-chome — 3.67](https://tabelog.com/en/tokyo/A1304/A130401/13258565/)
+
+- **Food / budget:** Beef tenderloin cutlet sandwich; Stone-grilled rice. Tabelog dinner range ¥10,000–14,999 per person; reviews often ¥15,000–19,999. Confirm chosen course/extras.
+- **English ordering:** The official Shinjuku 3-chome food PDF has English dish and course labels alongside Japanese, usable to show staff and order. [Evidence](https://ushigoro.com/menu/food_shinjuku3-chome.pdf).
+- **Access / hours:** Reservations accepted through the official reservation selector or English Tabelog. None made; exact-date availability and selected-plan terms unverified. Weekdays 17:00–23:30, last order 22:30; weekends/holidays 11:30–23:30 [Official venue](https://ushigoro.com/shop/shinjuku-3chome/).
+- **Queue / fit:** **moderate.** Advance booking is advisable for a specific course/time. Walk-in seating is not assured. [Source](https://tabelog.com/en/tokyo/A1304/A130401/13258565/). Proposed use: Dec 15. A qualified splurge dinner if you choose to book it; keep outside the flexible everyday defaults.
+
+### [Hanayama Udon Ginza — 3.64](https://tabelog.com/en/tokyo/A1301/A130101/13200630/)
+
+- **Food / budget:** Oni Kama · wide udon with pork and egg; Ginza Gozen · udon and tempura set. Allow ¥1,500–3,000 / person
+- **English ordering:** The restaurant-supervised FAQ confirms an English menu and a menu with pictures. [Evidence](https://www.gltjp.com/en/directory/item/14432/).
+- **Access / hours:** Walk-ins with an on-site numbered ticket; no reservation made. Do not use the separate reservation-only Ginza Bettei Hanayama downstairs. Weekdays 11:00–15:30 and 17:30–21:30; weekends/holidays 11:00–16:00 lunch only · Regular closure: New Year holidays; temporary closures possible [Official venue](https://hanayamaudon.co.jp/ginza/).
+- **Queue / fit:** **high.** Popular ticket-queue restaurant. Take a numbered ticket on site for lunch or dinner; keep this optional rather than a timed appointment. [Source](https://hanayamaudon.co.jp/ginza/). Proposed use: Dec 9. Meets the rating and English requirements; distinctive noodles near Kabukiza. A destination option when there is time to wait.
+
+### [Ginza Kagari Honten — 3.66](https://tabelog.com/en/tokyo/A1301/A130101/13230021/)
+
+- **Food / budget:** Chicken paitan soba; Chicken paitan soba with truffle. Allow ¥2,000–3,500 / person
+- **English ordering:** The exact main-store listing explicitly records a multilingual English menu under its service details. [Evidence](https://tabelog.com/en/tokyo/A1301/A130101/13230021/).
+- **Access / hours:** Walk-in only; reservations unavailable. No booking made. Daily 11:00–21:30; last order not independently confirmed · Regular closure: Temporary changes possible [Official venue](https://ginzakagari.thebase.in/).
+- **Queue / fit:** **high.** Small 18-seat counter; waiting time varies considerably. Treat as a destination option and switch meals if the queue is too long. [Source](https://tabelog.com/en/tokyo/A1301/A130101/13230021/). Proposed use: Dec 9. A highly rated non-sushi Ginza choice, with a different broth from clear shio ramen. Keep it optional if the line is long.
+
+### [Ginza Tenkuni Honten — 3.47](https://tabelog.com/tokyo/A1301/A130103/13245114/)
+
+- **Food / budget:** B tendon · shrimp, conger eel and vegetable tempura; Vegetable tendon. Allow ¥1,700–4,000 lunch; ¥3,000–5,000 dinner
+- **English ordering:** The exact venue’s Gurunavi listing explicitly confirms an English menu. The official website also explains its casual dining floor in English. [Evidence](https://gurunavi.com/en/a340401/mn/menu1/rst/).
+- **Access / hours:** Lunch is walk-in. Reservations can be made for after 15:00, but none have been made. This is the casual ground-floor Tenkuni, not the upstairs Shiori course restaurant. Monday–Saturday 11:30–22:00; last order 21:00; lunch menu until 15:00 · Regular closure: Sunday; New Year holidays [Official venue](https://www.tenkuni.com/).
+- **Queue / fit:** **moderate.** Planning assessment: the casual room has 28 seats, so a meal-time wait remains possible. Lunch is walk-in; reservations are accepted after 15:00. [Source](https://www.tenkuni.com/). Proposed use: Dec 9. A local non-sushi Ginza meal above the rating floor, with English ordering and ordinary walk-in lunch service.
+
+### [Komatsuan · Shinjuku Takashimaya — 3.32](https://tabelog.com/tokyo/A1304/A130401/13017380/)
+
+- **Food / budget:** Shrimp-tempura seiro soba; Duck seiro soba. Allow ¥1,500–3,800 / person
+- **English ordering:** The owner-managed exact-branch listing explicitly confirms a multilingual English menu under service details. [Evidence](https://tabelog.com/tokyo/A1304/A130401/13017380/).
+- **Access / hours:** Walk-ins welcome; reservations also available. No reservation made. Sunday–Thursday 11:00–22:00, last order 21:00; Friday/Saturday 11:00–23:00, last order 22:00 · Regular closure: Irregular, following Takashimaya [Official venue](https://shinjuku.komatuan.com/).
+- **Queue / fit:** **moderate.** Planning assessment:60 seats and ordinary department-store dining, but lunch crowds can still mean a wait. Leave the airport-day meal flexible. [Source](https://tabelog.com/tokyo/A1304/A130401/13017380/). Proposed use: Dec 8, Dec 9, Dec 15, Dec 16. Meets the 3.3 floor and adds a practical English-menu soba choice with 60 seats, opening at 11:00 for the departure-day lunch.
+
+### [Takahashi · Shinjuku Main Store — 3.56](https://tabelog.com/tokyo/A1304/A130401/13178753/)
+
+- **Food / budget:** Yakiago shio ramen; Extra-broth chazuke rice set. Allow ¥1,000–1,800 / person
+- **English ordering:** The restaurant-supervised branch FAQ confirms an English menu. The official menu also provides English dish names and an English allergen table. [Evidence](https://www.gltjp.com/en/directory/item/11158/).
+- **Access / hours:** Walk-ins only; no reservations. Carry cash; the restaurant-supervised FAQ lists cash only. No booking made. Tuesday/Wednesday 11:00–03:00 next day; last order 02:30. Weekend/holiday opening 10:00. · Regular closure: No regular closure except New Year period [Official venue](https://takahashi-ramen.com/).
+- **Queue / fit:** **moderate.** Small 13-seat counter. A July 2026 traveler reported a queue; late opening does not guarantee an immediate seat. [Source](https://www.gltjp.com/en/directory/item/11158/). Proposed use: Dec 8, Dec 9, Dec 15, Dec 16. Above the 3.3 floor, English ordering confirmed and late official hours leave room for the 20:00–21:00 hotel arrival. About 15–20 minutes on foot from Hyatt, estimated.
+
+## Hakone
+
+### [Soba Kihinkan — 3.42](https://tabelog.com/en/kanagawa/A1410/A141001/14033091/)
+
+- **Food / budget:** Cold soba lunch set; Duck hot-pot soba set. Current official examples: cold/hot soba ¥2,600; duck hot-pot soba or Hakoneyama set ¥3,500; tempura rice-bowl set ¥3,900. Prices and menus may change.
+- **English ordering:** Rakuten Gurunavi explicitly lists an English menu for Soba Kihinkan. English-speaking staff are not promised. [Evidence](https://gurunavi.com/en/b216200/mn/course1/rst/).
+- **Access / hours:** Ordinary walk-in lunch is listed by Tabelog; the same page shows a conflicting online-booking banner. Confirm any advance booking through the hotel. No reservation made. Lunch 11:30–15:00, last order 14:30. Private events and hotel closures may interrupt service. [Official venue](https://hakone.or.jp/829?gana=member).
+- **Queue / fit:** **moderate.** No dependable queue-time estimate was established. This is a seated villa lunch farther from Karaku; allow travel and meal time as well as any wait. [Source](https://tabelog.com/en/kanagawa/A1410/A141001/14033091/). Proposed use: Dec 10, Dec 11. Tabelog 3.42 with an English menu; a useful soba alternative, though a taxi and larger time allowance may be needed.
+
+### [Gyoza Center — 3.47](https://tabelog.com/en/kanagawa/A1410/A141001/14003374/)
+
+- **Food / budget:** Hakone gyoza; Chicken-wing gyoza. Basic seven-piece gyoza set ¥1,320; allow ¥1,000–2,000 per person
+- **English ordering:** NAVITIME-provided venue details explicitly list an English menu, corroborated by a diner who described the printed menu in English. Spoken-English service is not guaranteed. [Evidence](https://travel.yahoo.co.jp/kanko/spot-00003254/).
+- **Access / hours:** Walk-in only; English menu available per NAVITIME venue information. Cash only per Tabelog. No reservation made. Friday lunch 11:30–15:00, last order 14:30. Closed Thursdays and second/fourth Wednesdays; other Wednesdays lunch only. [Official venue](https://hakone-gyozacenter.com/).
+- **Queue / fit:** **moderate.** Walk-in only; allow for a lunch line. A reliable typical wait was not established, so skip a long queue rather than compromising the Friday spa buffer. [Source](https://tabelog.com/en/kanagawa/A1410/A141001/14003374/). Proposed use: Dec 11. Tabelog 3.47, verified English menu, and a convenient lunch near the Open-Air Museum. Closed on arrival Thursday.
+
+### [Tamura Ginkatsutei Main Store — 3.49](https://tabelog.com/en/kanagawa/A1410/A141001/14001492/)
+
+- **Food / budget:** Tofu katsuni; Pork loin tonkatsu set. ¥2,000–3,500 per person · planning allowance
+- **English ordering:** The venue-vetted GOOD LUCK TRIP FAQ explicitly confirms English and Chinese menus. [Evidence](https://www.gltjp.com/en/directory/item/13279/).
+- **Access / hours:** Walk-in only; restaurant explicitly does not accept reservations. English and Chinese menus confirmed in the venue FAQ. None reserved. Thursday/Friday lunch 11:00–14:30 last registration. Closed Wednesdays and Tuesday evenings. [Official venue](https://www.hakonenavi.jp/international/en/spot/214).
+- **Queue / fit:** **high.** This is a popular walk-in-only restaurant with a numbered-ticket system. A family’s February 2025 trip report gave up at 26 waiting groups; this is an example, not an expected wait. Keep it optional when protecting the spa time. [Source](https://note.com/fair_coot6917/n/nc37d78df6a75). Proposed use: Dec 10, Dec 11. Tabelog 3.49 with venue-confirmed English menus, but the queue can make it a poor fit for a tightly timed Friday lunch.
+
+### [Yamaji · Gora Park — 3.32](https://tabelog.com/en/kanagawa/A1410/A141001/14007738/)
+
+- **Food / budget:** Tororo yam rice; Soba with dipping broth. Allow ¥1,000–2,000 per person; planning range based on the current venue listing, not a guaranteed December menu.
+- **English ordering:** The restaurant’s own Gurunavi-hosted site explicitly lists an English menu and staff who speak English; this is ordering support, not just translated website navigation. [Evidence](https://yamajigoura.gorp.jp/).
+- **Access / hours:** Walk-in only per Tabelog. No reservation made. English menu and English-speaking staff are explicitly listed by the restaurant. Own site: daily lunch 11:00–15:00, last order 14:50; Tabelog says 11:30 start. Plan after 11:30; irregular closures. [Official venue](https://yamajigoura.gorp.jp/).
+- **Queue / fit:** **moderate.** Recent Tabelog diners reported no wait in April 2026 and December 2025, but other reports mention lines. Walk-in access is straightforward; no wait-time guarantee. [Source](https://tabelog.com/en/kanagawa/A1410/A141001/14007738/dtlrvwlst/). Proposed use: Dec 10, Dec 11. Meets the 3.3 floor, has explicit English ordering support and fits the Gora Park/Karaku route without a detour.
 
 ## Osaka
 
-| Exact branch and Tabelog | Orders and budget per person | Current use, opening and access |
-|---|---|---|
-| **[Dotonbori Imai Honten — 3.58](https://tabelog.com/en/osaka/A2701/A270202/27001289/)** | Signature **kitsune udon JPY 930**, or fuller **nabeyaki udon JPY 1,850**, tax included. **JPY 1,000–2,000 allowance** for an ordinary noodle meal. | Dec 12 arrival dinner. **Walk in for ordinary udon**; phone reservations concern hotpot/course meals. Normally 11:30–21:30, closed Wednesdays; fourth-Tuesday closure excludes December. Official last order 21:00 differs from venue Tabelog's food **20:45**: use the earlier cutoff. English menu listed by [Gurunavi](https://gurunavi.com/en/k001100/rst/). [Official branch/menu](https://www.d-imai.com/shops/honten/). |
-| **[Zagin Niboshi, Shinsaibashi — 3.55](https://tabelog.com/en/osaka/A2701/A270201/27086371/)** | Venue-recommended **chicken soba JPY 1,000**, or **chicken tsukemen JPY 1,150**; egg +JPY 200, large noodles +JPY 150. Allow **JPY 1,000–2,000**. The foamy ramen uses chicken/niboshi, while the venue says the separate tsukemen dip has no seafood broth. Toppings still include meat. | Dec 13 meal alternative around Shinsaibashi shopping, about 300 m north of the station. **Walk-in/cash only**, buy a meal ticket; queues possible. Normally **10:00–22:00**, closed Dec 30–Jan 3. Exact December service and current English menu/service unverified. [Official group](https://silver-grape.com/shop/), [venue menu](https://tabelog.com/en/osaka/A2701/A270201/27086371/dtlmenu/). |
-| **[Wanaka Sennichimae Honten — 3.49](https://tabelog.com/en/osaka/A2701/A270202/27002320/)** | Classic sauce takoyaki or the **Ooiri four-flavor plate** to share. Plan **about JPY 1,000** for a snack; confirm portion prices. | Dec 13 snack near Namba Grand Kagetsu. **Walk-in counter**, weekend queues; seating not guaranteed. Current official weekends **09:30–21:00**, weekdays 10:30–21:00; older 23:00 listings are outdated. Cash/PayPay listed. [Official branch](https://www.takoyaki-wanaka.com/tenpo-sennichimae.html), [English guide](https://www.takoyaki-wanaka.com/en/). |
-| **[Kamukura Dotonbori Honten — 3.20](https://tabelog.com/osaka/A2701/A270202/27001562/)** | Signature **Oishii cabbage-and-pork ramen**, or extra-vegetable ramen; the latter still contains meat. **JPY 1,000–2,000 allowance**. | Flexible Dec 14 dinner after Nara, about **12–15 min from Hiyori**, estimate. **Walk-in**, regular **11:00–07:30 next morning**, last order 07:00. Temporary changes/queues unconfirmed. [Official branch](https://kamukura.co.jp/shop/18/), [menu](https://kamukura.co.jp/menu/). |
+### [Dotonbori Imai Honten — 3.58](https://tabelog.com/en/osaka/A2701/A270202/27001289/)
+
+- **Food / budget:** Kitsune udon; Nabeyaki udon. Official Honten menu: kitsune udon ¥930; nabeyaki udon ¥1,850, tax included. Allow ¥1,000–2,000 per person for an ordinary noodle meal, plus extras.
+- **English ordering:** Exact-branch Gurunavi explicitly lists English, simplified-Chinese and Korean menus. Staff English is unconfirmed. Use the official Japanese branch page for current hours. [Evidence](https://gurunavi.com/en/k001100/rst/).
+- **Access / hours:** Walk in for ordinary noodles. Phone reservations are for advance hotpot/course meals; no reservation made. Normally 11:30–21:30. Official last order 21:00; venue listing gives food last order 20:45, so arrive before 20:45. Closed Wednesdays and fourth Tuesdays except December. [Official venue](https://www.d-imai.com/shops/honten/).
+- **Queue / fit:** **moderate.** Ordinary noodle meals use a walk-in queue; weekends/lunch may be busy. An off-peak visit is more practical than a fixed prime-time dinner. [Source](https://wherebest.com/en/restaurant-imai-honten-osaka). Proposed use: Dec 12, Dec 13, Dec 14. Tabelog 3.58, English menu and ordinary walk-in udon/soba make it one of the practical main choices.
+
+### [Wanaka Sennichimae Honten — 3.49](https://tabelog.com/en/osaka/A2701/A270202/27002320/)
+
+- **Food / budget:** Classic sauce takoyaki; Ooiri four-flavor plate. Plan about ¥1,000 per person for a takoyaki snack, depending on portion and toppings. Tabelog lists typical spend below ¥1,000; confirm counter prices.
+- **English ordering:** The exact main-store FAQ is venue-vetted and says English, Korean and Chinese menus are available. Staff fluency is not promised. [Evidence](https://www.gltjp.com/en/directory/item/13393/).
+- **Access / hours:** Walk-in counter; reservations unavailable. Expect weekend queues. Takeaway and eat-in seating are listed; seating is not guaranteed. Official branch information lists cash or PayPay. Normal Saturday/Sunday hours 09:30–21:00; recheck exceptional December changes. Official current popup: weekends 09:30–21:00; weekdays 10:30–21:00. No regular closing day listed; exceptional changes possible. [Official venue](https://www.takoyaki-wanaka.com/tenpo-sennichimae.html).
+- **Queue / fit:** **moderate.** The brand itself describes regular lines. Takeaway is the practical format; skip the snack if the queue is long. [Source](https://www.takoyaki-wanaka.com/en/). Proposed use: Dec 12, Dec 13. Tabelog 3.49, confirmed English menu and a shared snack format add Osaka takoyaki without adding another full meal.
+
+### [Jinen Unagidani Minami-dori — 3.49](https://tabelog.com/en/osaka/A2701/A270201/27000915/)
+
+- **Food / budget:** Unagi butter nigiri; Benitoro nigiri. Allow ¥4,000–6,000 per person for dinner, depending on plates and drinks. Official eel-butter sushi: ¥550 for two pieces, tax included.
+- **English ordering:** The exact-branch Japan Gourmet Pass dining-partner profile explicitly lists a menu translated into English. This does not verify English-speaking staff. [Evidence](https://www.japangourmetpass.com/en/restaurants/jinen-unagidaniminamidoriten).
+- **Access / hours:** Walk-ins are possible, with queues. Reservations accepted by phone; no reservation made. Skip rather than rely on a long Sunday wait. Normally weekends/holidays 11:00–24:00; weekdays 11:00–15:00 and 17:00–24:00. Closed Mondays (Tuesday if Monday is a holiday); special closures may occur. [Official venue](https://jinen.org/content1/unagidani/).
+- **Queue / fit:** **high.** An August 2026 diner reports about a 30-minute walk-in wait, and the dining partner recommends reservations at peak times. Treat Sunday as optional if the queue is long. [Source](https://tabelog.com/en/osaka/A2701/A270201/27000915/). Proposed use: Dec 13. Tabelog 3.49 and English menu fit the sushi brief, but weekend waits and Monday closure make it an optional Sunday meal.
+
+### [Ajinoya Main Store — 3.59](https://tabelog.com/en/osaka/A2701/A270202/27001439/)
+
+- **Food / budget:** Mixed okonomiyaki; Mixed yakisoba. ¥2,000–4,000 per person · allowance; FastPass ¥660 per person if chosen
+- **English ordering:** The restaurant publishes an actual English main-shop menu and an English popular-dishes page, updated April 15, 2026. Save it for ordering; staff fluency is not promised. [Evidence](https://ajinoya-okonomiyaki.com/en/menu/).
+- **Access / hours:** Walk-in queue or official FastPass; none arranged. Normally Tuesday–Sunday 11:00–22:00; Mondays closed. Recheck official notices for exceptions. [Official venue](https://ajinoya-okonomiyaki.com/en/).
+- **Queue / fit:** **high.** The official main-shop FastPass is queue priority because walk-in waits can be significant. It is not a guaranteed restaurant reservation. [Source](https://www.tablecheck.com/en/shops/ajinoya-okonomiyaki/reserve). Proposed use: Dec 13. Tabelog 3.59 and English menu make a good okonomiyaki option when the queue is acceptable; avoid treating entry as guaranteed.
+
+### [Daruma Namba Main Shop — 3.40](https://tabelog.com/en/osaka/A2701/A270202/27012813/)
+
+- **Food / budget:** Assorted kushikatsu. ¥2,000–3,000 per person plus drinks · planning allowance
+- **English ordering:** The exact Namba main-shop venue-managed listing explicitly lists English, Chinese and Korean menus, plus photo and digital menus. [Evidence](https://tabelog.com/en/osaka/A2701/A270202/27012813/).
+- **Access / hours:** Walk-ins welcome. Weekday reservations accepted for two or more; weekends/holidays and busy periods are walk-in. One drink per person required except elementary-age children and younger. No booking made. Official hours: weekdays 11:30–22:30; weekends/holidays 10:30–22:30; last order 30 minutes before closing. Open year-round, subject to exceptions. [Official venue](https://www.kushikatu-daruma.com/location/nanba_honten).
+- **Queue / fit:** **moderate.** Walk-ins are normal, especially weekends when reservations are not accepted. The venue says nearby Hozenji can be used if this shop is busy; no short wait is guaranteed. [Source](https://tabelog.com/en/osaka/A2701/A270202/27012813/). Proposed use: Dec 12, Dec 13, Dec 14. Tabelog 3.40 meets the floor and provides a convenient kushikatsu choice with documented English ordering.
+
+### [551 Horai Main Store — 3.47](https://tabelog.com/osaka/A2701/A270202/27001312/)
+
+- **Food / budget:** Pork buns (butaman); Shumai dumplings. Snack · order by quantity
+- **English ordering:** A branch-specific guide lists an English/photo menu; a September 2024 exact-branch Tripadvisor report mentions English help at the takeaway cashier. This is takeaway evidence, not a guarantee of current English-speaking restaurant staff. [Evidence](https://www.tripadvisor.com/Restaurant_Review-g14134988-d1703399-Reviews-551_Horai-Namba_Chuo_Osaka_Osaka_Prefecture_Kinki.html).
+- **Access / hours:** Walk-in takeaway snack. The upstairs restaurant has separate reservations; none made. Official main-shop takeaway 10:00–21:30; restaurant from 11:00 with last order 21:30. First/third Tuesdays normally close, but official December note says only December 31 is closed. [Official venue](https://www.551horai.co.jp/shop/list/13/).
+- **Queue / fit:** **moderate.** The main-shop takeaway line can be busy but moves through simple bun/dumpling orders. Check the line and skip if it eats into the day. [Source](https://takemetherejapan.com/posts/551-horai-main-store-osaka-legendary-pork-buns/). Proposed use: Dec 12, Dec 13, Dec 14. Exact Honten Tabelog 3.47 meets the floor; use as a small takeaway snack, not another full Chinese dinner.
+
+### [Rikuro Namba Main Store — 3.52](https://tabelog.com/osaka/A2701/A270202/27002336/)
+
+- **Food / budget:** Freshly baked cheesecake. Snack · order by quantity
+- **English ordering:** The official English page names the cheesecake and Namba main store. A branch-specific travel report describes limited English/photo menus for pointing; no staff-English guarantee. [Evidence](https://www.rikuro.co.jp/en/).
+- **Access / hours:** Main-shop takeaway does not accept reservations. Upstairs café has separate booking; none made. Official takeaway 09:00–20:00. Upstairs café 11:00–17:30, last order 16:30, with separate arrangements. Ordinary takeaway main-shop reservations are not accepted. [Official venue](https://www.rikuro.co.jp/shoplist/).
+- **Queue / fit:** **moderate.** Fresh-out-of-the-oven cake can draw a long line; the same-day already-baked option can have a shorter queue. Use takeaway and skip the café booking. [Source](https://livejapan.com/en/in-kansai/in-pref-osaka/in-umeda_osaka-station_kitashinchi/article-a2000573/). Proposed use: Dec 12, Dec 13, Dec 14. Exact Namba main Tabelog 3.52 meets the floor; one takeaway cheesecake to share is the practical dessert option.
+
+### [Fukutaro Honten · Namba — 3.72](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
+
+- **Food / budget:** Beef-tendon negiyaki; Pork okonomiyaki. Official English menu: pork negiyaki ¥1,280; beef-tendon negiyaki ¥1,580; pork okonomiyaki ¥1,080. Allow ¥1,500–3,000 per person with extras.
+- **English ordering:** The restaurant publishes a complete English dish menu with prices and pictures. Save it to show an order; this does not establish English-speaking staff. [Evidence](https://2951.jp/en/menu.html).
+- **Access / hours:** Walk-in only; advance reservations are not accepted. Join the shop’s waiting list when directed. Go near opening and move to another nearby option if the quoted wait is too long. No reservation made. Weekdays 17:00–23:30; weekends 12:00–23:30; food last order 22:45. [Official venue](https://2951.jp/en/).
+- **Queue / fit:** **high.** Popular destination; waits vary. A 2026 visitor entered at weekday opening without waiting, but describes a waiting-list system. Choose an alternative if the line is long. [Source](https://tripmate.news/posts/osaka-fukutaro-okonomiyaki-namba/). Proposed use: Dec 12, Dec 13, Dec 14. Higher rating and Monday dinner service add a useful option, but its queue risk makes it an optional destination rather than the default.
+
+### [Hokkyokusei · Shinsaibashi Honten — 3.43](https://tabelog.com/en/osaka/A2701/A270202/27001274/)
+
+- **Food / budget:** Chicken omurice; Beef-stew omurice. Allow ¥1,200–3,000 per person depending on sauce, filling and side dishes. This is a planning allowance; check the current branch menu.
+- **English ordering:** The venue-vetted FAQ confirms an English menu. A branch-specific firsthand guide photographs the English menu and point-and-talk cards; staff fluency is not promised. [Evidence](https://www.gltjp.com/en/directory/item/15289/).
+- **Access / hours:** Walk-in only. The venue-vetted FAQ says no seat reservations. At busy times a numbered electronic queue lets diners check progress by phone; ask how to join. No reservation made. Daily 11:30–21:30, last order 21:00. Shoes off; seating includes tatami/hori-kotatsu. [Official venue](https://www.hokkyokusei.online/).
+- **Queue / fit:** **moderate.** Off-peak is the practical approach. A branch-specific guide warns that Sunday lunch/holiday queues can be long and describes an electronic number/QR waiting system. [Source](https://insideosaka.com/hokkyokusei-shinsaibashi-main-shop-shinsaibashi/). Proposed use: Dec 12, Dec 13, Dec 14. Tabelog 3.43 meets the 3.3 floor and adds omurice, verified English ordering and convenient access. Prefer off-peak; Sunday lunch is the trade-off.
+
+### [Unagi no Nedoko · Shinsaibashi — 3.56](https://tabelog.com/en/osaka/A2701/A270202/27015767/)
+
+- **Food / budget:** Unaju · grilled eel over rice; Harami eel skewer. Current official menu: unaju ¥5,258 or ¥6,358; hitsumabushi ¥5,588 or ¥6,688. Eel skewers from ¥880; listed appetizer charge ¥550. Allow ¥6,000–8,000 per person.
+- **English ordering:** The exact Shinsaibashi branch’s Japanese Gurunavi listing explicitly lists an English menu, plus Chinese menus. No English-speaking-staff claim. [Evidence](https://r.gnavi.co.jp/6d59yk8n0000/).
+- **Access / hours:** Reservations accepted, but an ordinary à-la-carte meal is not listed as reservation-only. A walk-in depends on seats and eel stock; courses need advance booking. If choosing this as a fixed dinner, check availability first rather than relying on a walk-up. No reservation made. Normally 11:30–14:00 and 17:00–22:00; irregular closures and early closure when eel sells out. [Official venue](https://unagi-nedoko-shinsaibashi.com/).
+- **Queue / fit:** **high.** Only about 20 seats; official information says it closes when eel sells out. This is an availability risk even if there is no long line. [Source](https://tabelog.com/en/osaka/A2701/A270202/27015767/). Proposed use: Dec 12, Dec 13, Dec 14. Tabelog 3.56 and verified English menu add a non-ramen fish option, but limited seats/stock and higher cost make this optional.
+
+## Nara
+
+### [Shizuka Park Branch — 3.42](https://tabelog.com/en/nara/A2901/A290101/29000714/)
+
+- **Food / budget:** Kamameshi rice pot; Kamameshi and tempura set. ¥2,000–3,000 per person · planning allowance
+- **English ordering:** Nara Prefecture’s official guide explicitly lists a menu in English and says some staff speak a little English; pictures also aid ordering. [Evidence](https://www.visitnara.jp/venues/D00206/).
+- **Access / hours:** Park Branch is walk-in only; none reserved. Monday 11:00–15:00 last order. Closed Tuesdays plus an irregular monthly day; December calendar unconfirmed. [Official venue](https://kamameshi-shizuka.jp/free/kouen).
+- **Queue / fit:** **high.** The official Nara guide warns of waits up to an hour at peak times, followed by about 20 minutes for the rice to cook. Keep as an optional early lunch, not a necessary stop. [Source](https://www.visitnara.jp/venues/D00206/). Proposed use: Dec 14. Tabelog 3.42 and verified English picture menu, but the known queue makes Tengyokudo the more flexible alternative.
+
+### [Tengyokudo · Nara Main Store — 3.49](https://tabelog.com/en/nara/A2901/A290101/29000438/)
+
+- **Food / budget:** Yoshino udon set; Fresh kuzumochi. Owner-published menu: Yoshino udon ¥1,045; udon set with sesame tofu and kuzumochi ¥2,145; fresh kuzumochi ¥770 or ¥1,320 with matcha. Recheck current prices.
+- **English ordering:** NAVITIME-supplied venue details explicitly state that an English menu is available; this is corroborated by a firsthand diner report. English-speaking staff are not promised. [Evidence](https://travel.yahoo.co.jp/kanko/spot-00019303/).
+- **Access / hours:** Ordinary lunch and sweets can be walk-in. Seat reservations are optional, with a published minimum spend of ¥1,800 per person and seasonal restrictions; none made. Normally Monday 10:00–19:30, last order 19:00; closed Tuesdays (next day if Tuesday is a holiday). [Official venue](https://kudzu.co.jp/shop.htm).
+- **Queue / fit:** **moderate.** No dependable typical queue length was established. The 54-seat venue and longer opening window offer flexibility, but walk-in seating is subject to demand. [Source](https://tabelog.com/en/nara/A2901/A290101/29000438/). Proposed use: Dec 14. Meets the 3.3 floor, offers an English menu and keeps lunch or a sweet break close to Todaiji instead of relying on Shizuka’s queue.
+
+## Research excluded from current recommendations
+
+These are retained as research history only. They must not return to active daily food lists unless the score/language evidence meets the requirements again. They are not suggested emergency backups.
+
+| Venue | Score | Why excluded |
+|---|---:|---|
+| [Menya Sho Honten · Nishi-Shinjuku](https://tabelog.com/en/tokyo/A1304/A130401/13040181/) | 3.77 | Excellent rating, but current English ordering has not been verified. Keep outside the active shortlist. |
+| [Teuchi Soba Watanabe · Nishi-Shinjuku](https://tabelog.com/en/tokyo/A1304/A130401/13000813/) | 3.49 | Good local soba, but English ordering is not confidently verified. Replace its active departure-day slot with Komatsuan. |
+| [Zagin Niboshi · Shinsaibashi](https://tabelog.com/en/osaka/A2701/A270201/27086371/) | 3.55 | Rating 3.55 is sufficient, but the user’s English-ordering requirement is unverified; remove from active meal choices. |
+| [Yayoiken Nishi-Shinjuku](https://tabelog.com/tokyo/A1304/A130401/13048967/) | 3.08 | Below the user’s 3.3 minimum. Exclude from visible food choices, including arrival backups. |
+| [Ippudo Shinjuku I-Land Tower](https://tabelog.com/tokyo/A1304/A130401/13168295/) | 3.11 | Below the user’s 3.3 minimum. Exclude from visible food choices, including arrival backups. |
+| [Kamukura Dotonbori Honten](https://tabelog.com/osaka/A2701/A270202/27001562/) | 3.20 | Below the 3.3 minimum; current English ordering also unverified. |
+| [Matsuya Nishi-Shinjuku 8-chome](https://tabelog.com/tokyo/A1304/A130401/13097625/) | 3.05 | Below the user’s 3.3 minimum. Exclude from visible food choices, including arrival backups. |
+| [Toriguchi, Gotanda](https://tabelog.com/tokyo/A1316/A131603/13219515/) | 3.51 | An advance-course detour to Gotanda with unverified English ordering; not a practical default on the Ginza day. |
+| [Daiki Suisan Namba CITY](https://tabelog.com/osaka/A2701/A270202/27004264/) | 3.09 | Below the 3.3 minimum. |
+| [Hiraso Nara Store](https://tabelog.com/nara/A2901/A290101/29000753/) | 3.19 | Exclude from the active shortlist: Tabelog 3.19 and dining closed Monday, December 14. |
+| [Kasuga Ninai Jyaya](https://tabelog.com/nara/A2901/A290101/29000715/) | 3.54 | The 3.54 score qualifies, but English ordering and Monday opening are not verified; keep outside the active shortlist. |
+| [Rokkasen Nishiguchi Main Branch](https://tabelog.com/en/tokyo/A1304/A130401/13297712/) | 3.23 | Below the user’s 3.3 minimum. Exclude from visible food choices, including arrival backups. |
+| [Tempura Daikichi · Namba](https://tabelog.com/en/osaka/A2701/A270202/27011807/) | 3.49 | Tabelog 3.49 and the nearby tempura format fit the brief, but the current English requirement is not verified strongly enough for an active recommendation. |
+
+**Branch corrections:** The original Tsunahachi Shinjuku Honten building closed May 31, 2026 for rebuilding; the relocated Honten Bekkan is separate. Funabashiya is the current researched tempura option. [Official relocation notice](https://www.tunahachi.co.jp/store/1.html), [annex](https://www.tunahachi.co.jp/store/53.html). Jumbo remains removed. Onodera’s casual conveyor-sushi Honten is in Omotesando despite the Ginza brand name; Tsukiji Sushidai Honkan is not Toyosu Sushi Dai. Use the exact branches above.
 
 ## English-language visitor notes
 
-These are individual dated reports, not a guarantee of service or waiting time:
+These dated individual reports support context, not guarantees:
 
-- **Fuunji:** an English review of a September 2025 visit praised dipping noodles, the egg and quick service after machine ordering. That visitor found no queue before 18:00; this is not a reliable queue prediction. [Review](https://www.tripadvisor.co.uk/ShowUserReviews-g14133713-d1679642-r1035138488-Fuunji-Yoyogi_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html).
-- **Fuunji:** a May 21, 2025 review praised rich dipping soup and chewy noodles, while noting the line directly behind seated diners. This busy counter setup matters for the preference to avoid crowds. [Review](https://www.tripadvisor.co.uk/ShowUserReviews-g14133713-d1679642-r1008546545-Fuunji-Yoyogi_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html).
-- **Zagin Niboshi:** a November 2025 English-language review praised chewy tsukemen, rich chicken broth and attentive service, recommending early arrival before the queue grows. [Tripadvisor reviews](https://www.tripadvisor.ca/Restaurant_Review-g14127623-d10391274-Reviews-Chicken_Soba_Zagin_Niboshi-Chuo_Osaka_Osaka_Prefecture_Kinki.html).
-- **Zagin Niboshi:** an August 2018 English travel account liked the creamy chicken ramen and reported an English menu. That language evidence is old; current English ordering remains unverified. [Dated account](https://chichicho.blogspot.com/2018/08/day-5-torisoba-zagin-niboshi-osaka-japan.html).
+- **Fuunji:** a July 2026 visitor specifically reported an English-speaking staff member helping customers; an August 2026 visitor reported long evening lines. A May 2025 visitor described queueing directly behind seated diners. It remains an optional dipping-ramen destination. [Current branch reviews](https://www.tripadvisor.co.uk/Restaurant_Review-g14133713-d1679642-Reviews-Fuunji-Yoyogi_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html), [May 2025 report](https://www.tripadvisor.co.uk/ShowUserReviews-g14133713-d1679642-r1008546545-Fuunji-Yoyogi_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html).
+- **Onodera Omotesando:** a November 2025 account describes an English ordering tablet and a 30–45-minute holiday-weekend Sunday wait. Weekday waits may differ. [Firsthand account](https://www.hungryonion.org/t/tokyo-trip-report-october-and-november-2025/45821).
+- **Shizuka:** Nara Prefecture explicitly lists English picture menus and some English-speaking staff, but warns of up to an hour at peak times plus about 20 minutes for cooking. [Official guide](https://www.visitnara.jp/venues/D00206/).
 
-The companion uses at least two distinct restaurant/brand or restaurant-supplied promotional food photographs per restaurant, with source credits and dish labels. Photos illustrate menu choices, not a guaranteed December presentation. All current branches and approximate pins remain in its full places list; a restaurant's inclusion does not add another required meal.
+The companion shows at least two distinct actual food photos per restaurant, with dish labels and restaurant/brand or owner-supplied source credits. Photos illustrate food, not a guaranteed December presentation. Public pins are approximate; use the exact venue’s directions. Favorites remain device-local.
