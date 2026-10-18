@@ -12,15 +12,15 @@ Two adults, one room, two beds requested. Tokyo's Club Twin bookings are verifie
 
 | Date | Booked overnight | Day plan |
 |---|---|---|
-| Tue Dec 8 | Hyatt Regency Tokyo | NRT arrival **17:25**; transfer to hotel and easy dinner. Keep the evening flexible for arrival formalities. |
-| Wed Dec 9 | Hyatt Regency Tokyo | Proposed **Tsukiji sushi brunch → Ginza shopping/cafés/food halls**. Dec 9 is a wholesale-market closure day; individual Outer Market shops may open. Sushidai Honkan normally opens 10:30 Monday–Saturday. Choose among Ginza SIX/Mitsukoshi/Itoya; possible Toriguchi dinner. |
+| Tue Dec 8 | Hyatt Regency Tokyo | NRT arrival **17:25**; check in, then Ippudo ramen or Yayoiken fish set if before **21:30 last order**. Aim for 21:00; 24-hour Matsuya is the late fallback. |
+| Wed Dec 9 | Hyatt Regency Tokyo | Proposed **Tsukiji Sushidai brunch → GINZA SIX → Chuo-dori/Mitsukoshi/Itoya**. Dec 9 is a wholesale-market closure day; individual shops may open. Sushidai normally opens 10:30; possible Toriguchi dinner. |
 | Thu Dec 10 | Hakone Gora Karaku | Check out of Regency; travel to Karaku. Keep afternoon for onsen/ryokan time and dinner, with timing set from the actual meal plan. |
 | Fri Dec 11 | Hakone Gora Karaku | Choose one of the two morning/lunch options below; protect afternoon spa/relaxation and dinner. Spa is not reserved. |
-| Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. Easy Namba food/shopping evening. |
-| Sun Dec 13 | Hiyori Hotel Osaka Namba | Proposed Osaka food/shopping day: Namba Parks, Takashimaya or Shinsaibashi. Choose **Jinen sushi or Ajinoya okonomiyaki** for lunch/dinner, with optional snacks. |
-| Mon Dec 14 | Hiyori Hotel Osaka Namba | Proposed Nara/Kikuichi day trip, Shizuka lunch, optional Todai-ji/deer park, then possible Daruma dinner back in Osaka. Potential bag dispatch after carrier timing is confirmed. |
-| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Proposed **Imabari/Aoyama/Omotesando** afternoon if train timing and shop hours allow. Food choices include Onodera or Maisen, or one of three Shinjuku beef-dinner options. |
-| Wed Dec 16 | — | Check out of Regency; limited morning/lunch time and NRT transfer for **18:15 departure**, with airport buffer. |
+| Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. **Imai kitsune udon** after check-in, with Daiki sushi as the closer backup; optional Hozenji walk if arrival is early. |
+| Sun Dec 13 | Hiyori Hotel Osaka Namba | **Namba Parks/Takashimaya → Shinsaibashi/Daimaru/PARCO → Ebisubashi/Hozenji**. Choose Ajinoya okonomiyaki, Jinen sushi or Zagin ramen/tsukemen; share Wanaka takoyaki if hungry between stops. |
+| Mon Dec 14 | Hiyori Hotel Osaka Namba | Proposed Nara/Kikuichi day trip, Shizuka lunch, optional Todai-ji/deer park, then Daruma kushikatsu or Kamukura ramen back in Osaka. Potential bag dispatch after carrier timing is confirmed. |
+| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Proposed **Imabari/Aoyama/Omotesando** afternoon if train timing and shop hours allow. Proposed dinner: **Funabashiya tempura or Fuunji dipping ramen**. Onodera/Maisen are Aoyama alternatives; Motoyama beef is optional, with the other beef choices unscheduled. |
+| Wed Dec 16 | — | Check out of Regency; optional **Watanabe soba from 11:00**, collect bags and transfer to NRT for **18:15 departure**. Airport buffer takes priority. |
 
 Nights: **Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = 8**, with no gaps or overlaps. Hiroshima/Miyajima and Kinosaki are outside this booked route. Kyoto/Kobe/Himeji remain optional interests; preserve some Osaka time rather than filling both full days with excursions.
 
@@ -28,12 +28,12 @@ Dec 9 Tsukiji/Ginza, Dec 15 Aoyama, and the Sunday Osaka/Monday Nara arrangement
 
 ## Friday Dec 11 — Hakone alternatives
 
-**Keep both options for the full day within the booked Dec 10–12 Karaku stay.** Neither outing has been selected or reserved; research below was checked September 26.
+**Keep both options for the full day within the booked Dec 10–12 Karaku stay.** Neither outing has been selected or reserved. Meal/access research below was checked September 26; the named museum/park highlights were checked October 17 against the official attraction pages.
 
 | Option | Relaxed morning + lunch | Access to Karaku / Gora Spa AIOI | Lunch arrangements |
 |---|---|---|---|
-| **A — Open-Air Museum + Gyoza Center** | Museum around 09:15–11:00, then lunch at Gyoza Center's 11:30 opening. Outdoor sculptures plus indoor galleries; not an entirely indoor bad-weather activity. | Museum → restaurant approximately **450 m / 6 min walking**; restaurant → Karaku approximately **600 m / 9 min walking**. | **Walk-in only; no reservations.** Allow for a queue. Classic seven-piece gyoza ¥770 + rice/soup/pickles set ¥550 = **¥1,320**, tax included. Tabelog **3.47/5**. |
-| **B — Gora Park / light Gora outing + Tamura Ginkatsutei Honten** | A short park or neighborhood outing, with tofu-katsu lunch around the restaurant's **11:00 opening**. Adjust the outing around the queue rather than filling the morning. | Restaurant → Karaku approximately **190 m / 3 min walking**. Gora Park adds an uphill outing and has slopes/stairs; it is optional. | **Walk-in only per Tabelog; ticket/queue system.** Budget **¥2,000–3,000 per person**, an allowance rather than a verified exact menu quote. Tabelog **3.49/5**. |
+| **A — Open-Air Museum + Gyoza Center** | Museum around 09:15–11:00, then lunch at Gyoza Center's 11:30 opening. Focus on the sculpture garden, Picasso Pavilion and stained-glass Symphonic Sculpture; part of the visit is outdoors. | Museum → restaurant approximately **450 m / 6 min walking**; restaurant → Karaku approximately **600 m / 9 min walking**. | **Walk-in only; no reservations.** Allow for a queue. Classic seven-piece gyoza ¥770 + rice/soup/pickles set ¥550 = **¥1,320**, tax included. Tabelog **3.47/5**. |
+| **B — Gora Park / light Gora outing + Tamura Ginkatsutei Honten** | A short fountain/greenhouse visit in Gora Park, with tofu-katsu lunch around the restaurant's **11:00 opening**. Adjust the outing around the queue rather than filling the morning. | Restaurant → Karaku approximately **190 m / 3 min walking**. Gora Park adds an uphill outing and has slopes/stairs; it is optional. | **Walk-in only per Tabelog; ticket/queue system.** Budget **¥2,000–3,000 per person**, an allowance rather than a verified exact menu quote. Tabelog **3.49/5**. |
 
 ### Shared afternoon: protect the spa and ryokan time
 
@@ -60,9 +60,17 @@ The [AIOI booking page](https://reservation.thedayspa.jp/en/aioi) listed Couple'
 
 All restaurants below are **possibilities, not reservations**. The working plan places Tsukiji/Ginza on Dec 9, Toriguchi as a possible Dec 9 dinner, and Aoyama plus a Shinjuku dinner choice on Dec 15 if the return train allows. Choose meals that fit the route and appetite rather than adding every option. Keep Dec 8 flexible after the flight.
 
-### Shinjuku beef dinner — choose one
+### Everyday meals and noodle options
 
-The traveler removed Jumbo from the active shortlist in favor of closer choices. These are three distinct researched branches; no date-specific inventory has been secured. Prices are per person and may exclude extras.
+[Current food research](research/FOOD_RESEARCH.md) records the exact branches, Tabelog links, typical orders, hours, budgets and booking/language evidence for the additions below. All remain unbooked.
+
+- **Dec 8 arrival:** Ippudo Shinjuku I-Land Tower for tonkotsu ramen, or Yayoiken Nishi-Shinjuku for grilled mackerel and rice. Both normally stop orders at **21:30**; aim for 21:00 or earlier and allow for queues. **Matsuya Nishi-Shinjuku 8-chome is open 24 hours**, with about a 7% surcharge from 22:00–05:00. Walking estimates from the Hyatt are about 5–8 / 8–10 / 8–10 minutes respectively.
+- **Dec 15 dinner:** **Funabashiya Shinjuku Honten tempura — 3.49**, or **Fuunji Shinjuku Main Store tsukemen — 3.76**. Fuunji serves separate dipping noodles and a rich chicken/fish broth; walk-in, normally 17:00–21:00 for dinner, with queues/sellout risk. **Menya Sho Honten ramen — 3.77** is another option. Leave time after Aoyama; [English-language visitor evidence](research/FOOD_RESEARCH.md#english-language-visitor-notes) explains Fuunji’s busy counter setting.
+- **Dec 16 early lunch:** **Teuchi Soba Watanabe — 3.49**, west of Shinjuku Station, normally open from 11:00 Monday–Saturday. Walk-in/cash only; skip a long queue if it threatens the airport buffer.
+
+### Shinjuku beef dinner — optional alternatives
+
+The traveler wants more everyday Japanese variety: ramen, soba, udon, tempura, fish sets and takoyaki alongside sushi and local specialties. **Funabashiya tempura or Fuunji tsukemen now leads the Dec 15 dinner choices; Motoyama remains optional. Ushigoro and Rokkasen stay in the full shortlist without a scheduled day.** These are researched branches, not reservations. Prices are per person and may exclude extras.
 
 | Option | Fit, budget and trade-off | Booking and sources |
 |---|---|---|
@@ -91,13 +99,13 @@ New Tokyo shortlist research checked **October 17, 2026**; Toriguchi's detailed 
 A requested Tokyo sushi morning followed by Ginza shopping, cafés and food halls, provisionally on Dec 9. Keep hotel breakfast light if choosing sushi brunch. These are proposed placements, not appointments.
 
 - **[Tsukiji Outer Market](https://www.tsukiji.or.jp/english/):** the [official 2026 calendar](https://www.tsukiji.or.jp/assets/pdf/tsukiji_calendar2026.pdf) identifies **Dec 9 as a wholesale-market closure day**. Its footnote says Outer Market stores keep individual schedules and some may open. Expect a limited market visit and confirm specific shops rather than assuming all stalls operate. Sushidai Honkan's normal Monday–Saturday 10:30 opening supports the brunch idea, subject to exceptional closures. [Calendar information](https://www.tsukiji.or.jp/english/calendar/).
-- **[Ginza shopping and eating](https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html):** choose among **[GINZA SIX](https://ginza6.tokyo/)**, **[Ginza Mitsukoshi](https://www.mistore.jp/store/ginza.html)**, and **[Ginza Itoya Main Store](https://www.ito-ya.co.jp/ext/store/ginza/ginza/index.html)**. A food hall, stationery browse, café and a few streets can make a complete afternoon; visiting every store is not required.
+- **[Ginza shopping and eating](https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html):** choose among **[GINZA SIX](https://ginza6.tokyo/)**, **[Ginza Mitsukoshi](https://www.mistore.jp/store/ginza.html)**, and **[Ginza Itoya Main Store](https://www.ito-ya.co.jp/ext/store/ginza/ginza/index.html)**. Use **GINZA SIX as the main indoor stop**: B2 food hall, 6F Tsutaya Books and the rooftop garden if open. Follow Chuo-dori north to Mitsukoshi, then Itoya for notebooks, pens and paper; choose two or three stops.
 - **Food choices:** Tsukiji Sushidai Honkan is the sushi-brunch option. Ginza afterward is for shopping, cafés and department-store food halls; Midori is excluded from this day's plan. Toriguchi in Gotanda remains a possible dinner, with a separate journey from Ginza.
 
 ## Tuesday Dec 15 — Imabari Towel Minami-Aoyama, proposed
 
 - **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** Provisionally place on **Dec 15 after returning from Osaka**, with time for Aoyama/Omotesando if the train and shop hours allow. The stop is requested; this date/time is an assistant placement, not a fixed appointment. Choose the return journey before relying on the slot, and keep the final Tokyo afternoon manageable.
-- Allow **30–60 minutes** for towel browsing. Onodera conveyor sushi or Maisen tonkatsu are nearby meal alternatives, not compulsory additions before a Shinjuku dinner.
+- Allow **30–60 minutes** for towel browsing, then use **[Omotesando Hills](https://www.gotokyo.org/en/spot/36/index.html)** and the avenue shops as the optional shopping focus. Onodera sushi or Maisen tonkatsu are nearby alternatives to the proposed Funabashiya tempura/Fuunji tsukemen dinner in Shinjuku; choose one main meal.
 - Address: **FROM-1st building, 2F, room 203, 5-3-10 Minami-Aoyama, Minato-ku, Tokyo 107-0062**. Official access: approximately **5 minutes on foot from Omotesando Station exit A5**.
 - Official hours **10:30–19:00**; regular closures include the **second Tuesday of each month**, the second Sunday in August, the third Sunday in February, and New Year. **Dec 15 is the third Tuesday**, outside that regular monthly closure; exceptional December closures still need checking.
 - [Official store information](https://www.imabaritowel.jp/store#aoyama). This is the official Imabari Towel store, not the separate IKEUCHI ORGANIC shop.
@@ -105,9 +113,9 @@ A requested Tokyo sushi morning followed by Ginza shopping, cafés and food hall
 
 ## Sunday Dec 13 — Osaka food and shopping, proposed
 
-Choose a manageable Namba route: **[Namba Parks](https://nambaparks.com/)**, **[Takashimaya Osaka](https://www.takashimaya.co.jp/osaka/)**, Shinsaibashi, Hozenji or Dotonbori. Optional Kyoto/Kobe/Himeji excursions would replace this day rather than be added on top.
+Use named anchors: **[Namba Parks](https://nambaparks.com/)** for Parks Garden and lifestyle shops → **[Takashimaya Osaka](https://www.takashimaya.co.jp/osaka/)** for B1 NAMBA FOOD STATION → **Daimaru/Shinsaibashi PARCO** and the covered arcade → **Ebisubashi/Glico sign → Hozenji courtyard and stone lanes**. Shop one section at a time. Optional Kyoto/Kobe/Himeji excursions would replace this day.
 
-**Jinen Unagidani Minami-dori is the Osaka sushi recommendation**, fitting the Shinsaibashi route on Sunday Dec 13. Choose it for lunch or dinner as an alternative to Ajinoya, without adding another excursion. Both normally close Mondays, so keep these choices on Sunday rather than the Nara return evening.
+**Jinen Unagidani Minami-dori is the Osaka sushi recommendation**, fitting the Shinsaibashi route on Sunday Dec 13. Choose Ajinoya okonomiyaki, Jinen sushi or **Zagin Niboshi chicken ramen/tsukemen — 3.55** as meal alternatives, without adding another excursion. Jinen and Ajinoya normally close Mondays, so keep those choices on Sunday. Zagin is about 300 m north of Shinsaibashi Station, walk-in/cash only, normally 10:00–22:00; [menu and visitor evidence](research/FOOD_RESEARCH.md#osaka).
 
 | Food option | Budget per person and arrangements |
 |---|---|
@@ -116,9 +124,16 @@ Choose a manageable Namba route: **[Namba Parks](https://nambaparks.com/)**, **[
 | **[Daruma Namba Main Shop — 3.40](https://tabelog.com/en/osaka/A2701/A270202/27012813/)** | Kushikatsu; **JPY 2,000–3,000 allowance plus drinks**. A possible Monday dinner after Nara. **Weekday reservations accepted for 2+; weekends walk-in**. Reserved seats require a set menu and 90-minute limit. English/photo menus. [Official branch](https://www.kushikatu-daruma.com/location/nanba_honten). |
 | **[Daiki Suisan Namba CITY](https://tabelog.com/osaka/A2701/A270202/27004264/)** | Convenient conveyor sushi, including for Dec 12 arrival; **JPY 2,000–3,000 allowance**. **Walk-in only**, English menu listed. [LINE advance queuing](https://sushi.daiki-suisan.co.jp/sotomachi) joins a line rather than reserving a table. |
 
-Snack possibilities: **[551 Horai main shop](https://tabelog.com/osaka/A2701/A270202/27001312/)** pork buns and **[Rikuro Namba main shop](https://tabelog.com/osaka/A2701/A270202/27002336/)** cheesecake. Treat these as optional snacks. Rikuro's takeaway counter and upstairs café have different booking arrangements. Nothing is reserved.
+Snack possibilities: **[Wanaka Sennichimae Honten — 3.49](https://tabelog.com/en/osaka/A2701/A270202/27002320/)** takoyaki near Namba Grand Kagetsu (classic sauce or four-flavor Ooiri; allow about JPY 1,000, walk-in, weekends normally 09:30–21:00), **[551 Horai main shop](https://tabelog.com/osaka/A2701/A270202/27001312/)** pork buns and **[Rikuro Namba main shop](https://tabelog.com/osaka/A2701/A270202/27002336/)** cheesecake. Treat these as optional snacks. Rikuro's takeaway counter and upstairs café have different booking arrangements. Nothing is reserved.
 
 Jinen research checked **October 17, 2026**. Its published weekend hours normally support either lunch or dinner; check exceptional December closures before fixing a meal. The allowance is not a fixed-menu quote, and no table is reserved.
+
+### Transfer-day udon and an Osaka ramen fallback
+
+- **Dec 12: [Dotonbori Imai Honten — 3.58](https://tabelog.com/en/osaka/A2701/A270202/27001289/)** for kitsune udon: official price **JPY 930**, or nabeyaki udon **JPY 1,850**, tax included. Ordinary noodles are walk-in; advance phone reservations concern hotpot/course meals. Normally closes Wednesdays. Use the conservative **20:45 food last-order cutoff** because official and venue-managed listings differ. Daiki remains the closer arrival sushi backup.
+- **Dec 14 after Nara: [Kamukura Dotonbori Honten — 3.20](https://tabelog.com/osaka/A2701/A270202/27001562/)** is a walk-in alternative to Daruma: cabbage-and-pork ramen, **JPY 1,000–2,000 allowance**, normally **11:00–07:30 next morning**, last order 07:00. Extra vegetables do not make the broth vegetarian. These are flexible dinner choices, not additional meals.
+
+Exact branches, dish notes and current official sources are in [food research](research/FOOD_RESEARCH.md).
 
 ## Monday Dec 14 — Nara / Kikuichi, proposed
 
@@ -126,10 +141,18 @@ Use Hiyori as the Osaka base and return there the same evening. Monday is the cu
 
 - Main destination: **Kikuichi Monju Shiro Kanenaga / Kikuichi Cutlery main shop**, 488 Zoshicho, Nara, 630-8211, near the foot of Mount Wakakusa in Nara Park.
 - Official shop hours checked Sep 25: **09:30–17:00, no regular closing day**. Reconfirm before visiting; this is not a guarantee against exceptional closures. [Official shop source](https://kikuichi.com/stores/) (use the main shop, not the Naraya restaurant or station souvenir branches).
-- Suggested relaxed sequence, not reservations: Osaka-Namba → Kintetsu-Nara (about 40 minutes by direct train) → local bus/taxi or park walk → Kikuichi late morning, allow 60–90 minutes → lunch → optional Todai-ji and deer-park stroll → Osaka for dinner. [Transit source](https://narashikanko.or.jp/en/access/); train duration excludes hotel/shop access.
+- Suggested relaxed sequence, not reservations: Osaka-Namba → Kintetsu-Nara (about 40 minutes by direct train) → local bus/taxi or park walk → Kikuichi late morning, allow 60–90 minutes → lunch → optional Todai-ji Nandaimon Gate/Great Buddha Hall and nearby park paths → Osaka for dinner. [Transit source](https://narashikanko.or.jp/en/access/); train duration excludes hotel/shop access.
 - **[Shizuka Park Branch — 3.42](https://tabelog.com/en/nara/A2901/A290101/29000714/)** is the main lunch idea: kamameshi rice pots, **JPY 2,000–3,000 allowance**, **walk-in only**. Multilingual menus are listed by [Nara tourism](https://www.visitnara.jp/venues/D00206/). Allow time for queues and cooking. The [official branch](https://kamameshi-shizuka.jp/free/kouen) normally closes Tuesdays plus an irregular day; check December's calendar.
 - **[Hiraso Nara](https://hiraso.jp/shop/shop-nara/)** remains a general alternative, but dining is **closed Mondays**, so it is not part of the active Dec 14 lunch plan. **[Kasuga Ninai Jyaya](https://www.kasugataisha.or.jp/ninaijyaya/)** remains a possibility only after its closure schedule is resolved; official language pages and tourism listings conflict over Monday/Tuesday closure. Both remain in the companion's full places list.
 - Shopping is the priority; outdoor sightseeing is optional for December weather. Knife-sharpening experiences are advertised, but booking requirements, price, language and December slots are unverified. Do not reserve anything without authorization.
+
+## Optional replacement outings — no extra days
+
+These stay unscheduled and would replace Osaka sightseeing time, preserving Nara/Kikuichi and all hotel bookings:
+
+- **Kyoto:** Kiyomizu-dera → Sannenzaka → Ninenzaka, one Higashiyama temple-and-shopping route. [Official Kyoto route](https://kyoto.travel/en/travel-inspiration/how-to-avoid-the-crowds-while-accessing-kiyomizu-temple-and-higashiyama-areas/). The companion pin is at Kiyomizu-dera, not central Kyoto.
+- **Kobe:** JR Kobe Station → Harborland umie shops → Meriken Park waterfront/Port Tower exterior. [Official harbor-area guide](https://www.feel-kobe.jp/area-guide/meriken-harbor/). The pin is at umie.
+- **Himeji:** JR Himeji Station → Otemae-dori → Himeji Castle → neighboring Koko-en Garden. [Official city route map](https://www.city.himeji.lg.jp/kanko/cmsfiles/contents/0000005/5252/HIMEJI_tourist_guide_map_ENG.pdf), [Koko-en](https://www.himeji-machishin.jp/ryokka/kokoen/en/index.php). Transport, admissions and hours need checking if selected.
 
 ## Luggage plan for the booked hotels
 
