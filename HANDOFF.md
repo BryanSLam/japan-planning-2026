@@ -33,7 +33,7 @@ Prioritize hotel-specific forwarding between **Hyatt Regency Tokyo and Hiyori**,
 
 ## Restaurant criteria
 
-**October 17 restaurant direction:** the traveler wants several **English-friendly Japanese food choices each day**, a **Tabelog 3.3 minimum with no ceiling**, dipping ramen and variety beyond beef. The current companion contains **35 eligible food stops**, with sourced language/queue evidence and two actual food photos each. [Food research](research/FOOD_RESEARCH.md) records exact branches, budgets, normal hours, English support and exclusions. All meals are options, not reservations.
+**October 17 restaurant direction:** the traveler wants several **English-friendly Japanese food choices each day**, a **Tabelog 3.3 minimum with no ceiling**, dipping ramen and variety beyond beef. The current companion contains **42 eligible food/drink stops (38 meal/snack venues and four drinks options)**, with sourced language/queue evidence and two actual food photos each. [Food research](research/FOOD_RESEARCH.md) records exact branches, budgets, normal hours, English support and exclusions. All meals are options, not reservations.
 
 Current daily choices:
 
@@ -52,6 +52,12 @@ Below-floor Ippudo/Yayoiken/Matsuya, Rokkasen, Daiki, Kamukura and Hiraso are no
 **Current restaurant requirements:** Tabelog **3.3 minimum, with no upper limit**. English-friendly ordering is required: record whether there is an English menu, multilingual ordering machine, official English dish list usable for ordering, or specific visitor evidence. An English-translated review-site interface alone is not proof. Do not promise fluent English-speaking staff without evidence.
 
 Prefer flexible walk-ins, convenient routes and variety across ramen/tsukemen, soba/udon, tempura, sushi, local dishes and other Japanese food. Retain higher-rated restaurants as options, with known long queues or booking requirements explicit; do not make famous queue destinations the default. Keep multiple meal alternatives on each day, with meal cards visible by default, snacks/sweets counted separately and clear match counts when food filters are active. These are choices, not several required meals. Below-3.3 and unverified-language research must not appear as current recommendations. All restaurants remain unbooked; no provider contact or purchase follows from these notes.
+
+## Drinks and one planned dinner
+
+The traveler and mother enjoy izakayas and bars. Keep English-friendly ordering mandatory, with the same **3.3+ Tabelog** preference. Robata Sho is the Tokyo izakaya; Eau de Vie inside Hyatt and nearby Hilton ZATTA are bar options. Rikimaru Chaya is the Namba izakaya; Bar Masuda is the cocktail option, with ¥1,100 regular-floor cover explicit. Gora Brewery has bilingual menus but unverified drinks-only seating; preserve the ryokan dinner. AWAI is retained as an explicit in-house ryokan-amenity exception, separate from the rated bar list; its paid English menu and prices remain unverified.
+
+Proposed special dinner: **Sushi Zen, Sunday Dec 13 around 18:00**, Tabelog 3.55, English menu/staff listed, alcoholic free-flow course **¥18,900/person including 5% service**, ¥37,800 for two before extras. Reservation required; no booking made. Confirm drinks duration/last order, final course wording and the current 100% cancellation/change fee within 18 hours. It replaces other dinner choices; do not treat an availability search as a reservation. [Plan and sources](ITINERARY.md#sunday-dec-13--one-dinner-to-plan-ahead).
 
 ## Repository workflow
 

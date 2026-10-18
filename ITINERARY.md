@@ -89,6 +89,26 @@ All restaurants below meet the **Tabelog 3.3 minimum and verified English orderi
 
 Rokkasen and arrival chains fall below 3.3; Menya Sho, Watanabe and Toriguchi lack sufficiently verified English ordering. They remain research history only in [the excluded list](research/FOOD_RESEARCH.md#research-excluded-from-current-recommendations). Jumbo Shirokane is an optional Dec 9 dinner. No restaurant has been contacted or reserved.
 
+## Izakaya dinners and drinks near the hotels
+
+All active venues below meet **Tabelog 3.3+ with sourced English ordering**. An English menu or supported ordering does not guarantee fluent conversation on every shift. Bars are separate from meal and snack counts; no seat is reserved.
+
+| Hotel base / dates | Izakaya dinner | Optional drinks afterward |
+|---|---|---|
+| **Hyatt Regency Tokyo · Dec 8, 9, 15** | **[Robata Sho — 3.54](https://tabelog.com/en/tokyo/A1304/A130401/13144675/)**, roughly 15–20 minutes walking: grilled fish/vegetables, small plates and sake; actual English photo menu. Allow ¥6,000–8,000 including some drinks; appetizer charge listed. Weekday food last order 23:00. Arrival night only if timing/seats fit. | **[Eau de Vie — 3.68](https://tabelog.com/en/tokyo/A1304/A130401/13012013/)** inside Hyatt 3F, cocktails ¥2,500 including service/tax; OR **[ZATTA — 3.54](https://tabelog.com/en/tokyo/A1304/A130401/13172873/)** at Hilton about five minutes away, cocktails ¥2,200–3,200 including service/tax. Both have actual bilingual drink menus; normal Tue/Wed drinks last order 22:30. |
+| **Hiyori Osaka Namba · Dec 12–14** | **[Rikimaru Chaya Hozenji — 3.36](https://tabelog.com/en/osaka/A2701/A270202/27001517/)**, roughly 10–12 minutes walking: grilled scallops, vegetables and omelet, English menu. Allow ¥3,000–4,500 with drinks; listed otoshi ¥385/person. Normally 16:00–23:00. | **[Bar Masuda — 3.82](https://tabelog.com/en/osaka/A2701/A270202/27064091/)**, roughly 12–15 minutes from Hiyori / 4–5 from Rikimaru, English menu; regular floors 1–2 cover **¥1,100/person**. Allow ¥3,000–6,000 including cover. Normally 17:00–23:00, last order 22:30. On the Nara day, only after returning to Osaka. |
+| **Karaku · Dec 10–11** | Keep the ryokan dinner; confirm its actual inclusions/time. | **[GORA BREWERY & GRILL — 3.50](https://tabelog.com/en/kanagawa/A1410/A141001/14067843/)** has actual bilingual food/drink menus, about 10–15 minutes walking with slopes. Beer ¥850–950, cocktails around ¥1,000; closes 21:00. **Drinks-only seating and current cover remain unverified**: confirm before leaving, and do not add another dinner. **AWAI inside Karaku** is retained as the in-house option: free-flow until 20:00, paid bar 20:00–22:30 (last order 22:00). It has no separate Tabelog score; paid prices/English menu remain unverified. |
+
+Walking figures are estimates. Walk-in seats are subject to demand; table bookings are optional where offered. Cover/otoshi charges are paid with the bill; Masuda accepts credit cards. [Exact sources and photos](research/FOOD_RESEARCH.md).
+
+## Sunday Dec 13 — one dinner to plan ahead
+
+**Proposed: [Sushi Zen](https://sushi-zen.net/en/) at 18:00**, after Shinsaibashi shopping, for roughly two hours at a ten-seat counter. **[Tabelog 3.55](https://tabelog.com/osaka/A2701/A270201/27152697/)**; the restaurant-managed listing explicitly records English menus and English-speaking staff, supported by specific visitor reports. This is the suggested omakase evening, not a Michelin-star claim.
+
+Choose the **¥18,000 alcoholic free-flow course**, tax included, plus **5% service = ¥18,900/person or ¥37,800 for two before extras**. Seasonal dishes and nigiri are included; beer, sake, wine, highballs and other listed drinks are available. Confirm the free-flow duration and drinks last order, which were not published in the inspected course text. The English booking title has inconsistent alcohol wording; verify the alcoholic course and drink list against the official restaurant description.
+
+**[Official booking](https://www.tablecheck.com/en/sushi-zen/reserve/message): reservation required**, card guarantee, pay at the restaurant. Current merchant terms charge **100% for cancellations/changes within 18 hours**. December 13 seats are not guaranteed and nothing is booked. This replaces the other dinner choices; keep lunch separate. The Dotonbori walk remains optional afterward, and Masuda can be another night rather than a required extra stop after the drinks-included meal.
+
 ## Wednesday Dec 9 — Tsukiji and Ginza, proposed
 
 A requested Tokyo sushi morning followed by Ginza shopping, cafés and food halls, provisionally on Dec 9. Keep hotel breakfast light if choosing sushi brunch. These are proposed placements, not appointments.

@@ -40,9 +40,11 @@ Updated October 17, 2026. **Hotel booking is complete.** All dates below are Jap
 
 ## Food and remaining budget
 
+- [ ] If choosing Sushi Zen on Dec 13, verify two seats at the 18:00 first seating, alcoholic course wording, final ¥18,900/person total, drinks duration/last order and 18-hour cancellation/change terms before booking. No table is reserved.
+- [ ] Choose izakaya/bar nights from the sourced shortlist; keep cover/otoshi and service-inclusive prices clear. Do not count bars or snacks as meal choices. Retain AWAI as an in-house amenity without claiming its paid menu is English-verified. Confirm Gora Brewery’s drinks-only seating before any visit.
 - [ ] Clarify dietary/allergy needs before making dining or meal-plan arrangements.
 - [ ] Keep active food choices at **Tabelog 3.3 or higher, without an upper limit**, with verified English ordering support. Prefer convenient walk-ins and flag known long queues or booking requirements; do not restore lower-rated or language-unverified options as recommendations.
-- [ ] Choose meals from the [current 35-stop food shortlist](research/FOOD_RESEARCH.md), preserving multiple alternatives each day. High queues, extra travel and advance-course bookings stay optional; no restaurant is reserved.
+- [ ] Choose meals from the [current 42-stop food/drink shortlist](research/FOOD_RESEARCH.md), preserving multiple alternatives each day. High queues, extra travel and advance-course bookings stay optional; no restaurant is reserved.
 - [ ] For Dec 8, set dinner from actual arrival: Takahashi ramen normally serves until 03:00 (last order 02:30); Komatsuan/Numazuko require earlier arrival. Recheck December hours and allow the roughly 15–20-minute walk from Hyatt. Old below-3.3 arrival chains are outside the shortlist.
 - [ ] For Dec 9, check Sushidai Honkan’s individual service and choose Ginza Tenkuni tempura or optional Hanayama/Kagari for another meal; Shinjuku alternatives remain available. Midori is unscheduled; Toriguchi is outside the English-verified shortlist.
 - [ ] If choosing the optional Dec 9 Jumbo Shirokane evening, shorten Ginza, choose Teien Art Museum or Nature Study, and check the official one-month reservation window from around Nov 9. Confirm the exact table, 90-minute seating and card/cancellation terms before committing. No table or museum ticket is booked.

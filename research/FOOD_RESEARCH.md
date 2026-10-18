@@ -1,6 +1,6 @@
 # Current food shortlist and ordering evidence
 
-Checked October 17, 2026 against the current trip companion. **All 35 eligible food stops have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
+Checked October 17, 2026 against the current trip companion. **All 42 eligible food/drink stops (38 meal/snack venues and four drinks options) have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
 
 An English menu, English ordering tablet, actual English dish list usable to show staff, or specific visitor evidence supports ordering. It does not promise fluent staff on every shift. Queue labels are planning assessments, not wait guarantees. High-queue places, fixed bookings and farther detours are optional; convenient walk-ins lead the day. Published hours are normal patterns, not confirmed December availability.
 
@@ -9,6 +9,27 @@ An English menu, English ordering tablet, actual English dish list usable to sho
 Tabelog uses weighted reviewer scores, not a simple average. Its [official rating guide](https://tabelog.com/en/help/score) places 3.50–under 4.00 in roughly the top 3% of listed restaurants and 4.00+ in about the top 0.07%. Under 3.50 covers roughly 97%, including new or less-reviewed restaurants; a score near 3.0 is not an official guarantee of quality. The 3.3 floor is this trip’s preference, and scores can change.
 
 ## Tokyo
+
+### [Robata Sho · West Shinjuku — 3.54](https://tabelog.com/en/tokyo/A1304/A130401/13144675/)
+
+- **Style / budget:** Robatayaki izakaya · fish, vegetables and sake. Allow roughly ¥6,000–8,000 per person for dinner and some drinks; ordering a whole premium fish can raise the bill. The official food page lists a ¥500 pre-tax appetizer charge (¥550 with 10% tax). Sample prices including 10% tax: warm potato salad ¥638; beer ¥770; fresh lemon sour ¥605. Menu changes seasonally.
+- **English ordering:** The official food page directly links a photographed English menu with named fish, vegetables, rice dishes and pictures. Its English venue page also explains dishes and links a foreign-visitor reservation form. Seasonal specials may need checking with staff. [Evidence](https://robata-sho-shinjuku.com/wp-content/uploads/2024/02/robatasho_english-menu.jpg).
+- **Practicalities:** Takara Building B1F, 1-4-11 Nishi-Shinjuku, Shinjuku-ku, Tokyo. Normal weekdays 17:00–24:00, food last order 23:00 and drinks 23:30, per the January 6, 2026 official hours update. Weekends/holidays 15:00–24:00. No regular weekly closure; exceptional closures can occur. These are normal hours for Tuesday December 8/15 and Wednesday December 9, not confirmed seat availability. Reservations accepted through the official foreign-visitor link; walk-in seating depends on space. No reservation made. The venue lists same-day cancellation fees; read the chosen booking terms. [Official information](https://robata-sho-shinjuku.com/).
+- **Orders / fit:** Whole grilled fish; Warm potato salad; Lemon sour or sake with grilled vegetables. Planning assessment: popular 42-seat dinner venue; walk-in seats are not assured. The official reservation notice says some dates fill, while the current venue-managed listing says same-day tables may be available. Reserve if the evening is important; a flight-arrival night should stay flexible. [Source](https://robata-sho-shinjuku.com/archives-1184/). Two sourced actual food/drink photos are shown in the companion.
+
+### [Eau de Vie · Hyatt hotel bar — 3.68](https://tabelog.com/en/tokyo/A1304/A130401/13012013/)
+
+- **Style / budget:** Hotel bar · cocktails and Japanese whisky. Cocktails on the current signature list ¥2,500; Tokyo Craft draft beer ¥1,500; bottled Asahi ¥1,300. Prices in the official PDF already include 15% service and consumption tax. Allow ¥2,500–5,000 per person for one or two cocktails. The 17:00–19:00 Twilight Hour has selected lower prices; it is an early-evening offer.
+- **English ordering:** The official current food-and-drink PDF names cocktails, ingredients, spirits and snacks in English and Japanese with prices. English TableCheck also offers a table-only reservation. [Evidence](https://hyattregencytokyo.com/Portals/0/images/restaurant/pdf/Menu/Bar-Eau-de-Vie-Menu.pdf).
+- **Practicalities:** Hyatt Regency Tokyo 3F, 2-7-2 Nishi-Shinjuku, Shinjuku-ku, Tokyo. Official normal Sunday–Thursday 17:00–23:00, last order 22:30. Friday/Saturday/eves of public holidays 17:00–24:00, food LO 22:30 and drinks 23:30. The official July–October Monday closure notice does not affect the proposed Tuesday/Wednesday dates. December seat availability and any special hours are not checked. A table-only reservation is available through the official English TableCheck; à-la-carte drinks are listed separately. Walk-in availability has not been checked. No reservation made. Tabelog lists no shorts or sandals. [Official information](https://hyattregencytokyo.com/eaudevie/).
+- **Orders / fit:** Floral Spritzer; Rum Espresso Martini; Tokyo Craft pale ale. Planning assessment:79-seat hotel bar and no travel needed. Walk-in space is not guaranteed; a table-only booking is offered if you want certainty. [Source](https://tabelog.com/en/tokyo/A1304/A130401/13012013/). Two sourced actual food/drink photos are shown in the companion.
+
+### [ZATTA · Hilton Tokyo bar — 3.54](https://tabelog.com/en/tokyo/A1304/A130401/13172873/)
+
+- **Style / budget:** Hotel lounge bar · Japanese-inspired cocktails. Classic cocktails roughly ¥2,200–2,400; original cocktails ¥2,600–3,200. Kabuki ¥2,600 and Yui ¥3,000 in the official cocktail list. Menu prices include tax and 13% service. Allow ¥3,000–6,500 per person for one or two cocktails; snacks extra. Promotional cocktail-hour offers are not assumed for December.
+- **English ordering:** The Tokyo Government’s merchant listing explicitly says Japanese/English menus and lists real English cocktail names. The currently linked Hilton grand-menu PDF is bilingual and includes ingredients and prices. [Evidence](https://www.menu-tokyo.jp/search/detail.php?shop_id=2500288).
+- **Practicalities:** Hilton Tokyo 2F, 6-6-2 Nishi-Shinjuku, Shinjuku-ku, Tokyo. Official normal Sunday–Thursday 11:00–23:00, food LO 22:00 and drinks 22:30. Friday/Saturday/public-holiday eves 11:00–24:00, food LO 22:00 and drinks 23:30. Original cocktail menu from 17:00. No regular closure listed; check any special-date changes. English official TableCheck offers table/counter/high-table and seat-only reservations. Walk-ins depend on available space. No booking made; do not select an advance-paid promotion unless you want its stated terms. [Official information](https://tokyo.hiltonjapan.co.jp/restaurants/zatta).
+- **Orders / fit:** Kabuki; Yui; Sakaba. Planning assessment:65-seat hotel lounge; seats can be occupied by dining and evening guests. English TableCheck offers seat-only reservations, but current walk-in availability is unverified. [Source](https://tokyo.hiltonjapan.co.jp/restaurants/zatta/menu). Two sourced actual food/drink photos are shown in the companion.
 
 ### [Moyan Curry · Nishi-Shinjuku Dining — 3.39](https://tabelog.com/en/tokyo/A1304/A130401/13001046/)
 
@@ -127,6 +148,13 @@ Tabelog uses weighted reviewer scores, not a simple average. Its [official ratin
 
 ## Hakone
 
+### [GORA BREWERY & GRILL — 3.50](https://tabelog.com/en/kanagawa/A1410/A141001/14067843/)
+
+- **Style / budget:** Craft beer & small plates · restaurant seating. Current official tap examples ¥850–950; cocktails such as Kyoto gin tonic / yuzu vodka tonic ¥1,000; wine by the glass roughly ¥1,000–1,400. Small-plate examples: salted edamame ¥600, burdock chips ¥700. Allow ¥2,000–3,500 per person for a couple of ordinary drinks and a shared small plate; a full meal costs more. Current cover charge is not conclusively established.
+- **English ordering:** The official current menu page links bilingual English/Japanese tap, drink and food PDFs with item names and prices. This is actual ordering material, not translated review-site navigation. [Evidence](https://itoh-dining.co.jp/gorabrewery/menu/gbdrink.pdf).
+- **Practicalities:** 1300-72 Gora, Hakone, Kanagawa. Normally daily 13:00–21:00; last orders food 20:00, drinks 20:30. No regular closing day published; special December service not verified. One drink per person required. Official site recommends reserving at busy times and warns that walk-ins may not be seated. Drinks-only seating and a table/cover charge need confirmation. No reservation made. [Official information](https://itoh-dining.co.jp/gorabrewery/).
+- **Orders / fit:** Current draft beer; Kyoto gin tonic or yuzu vodka tonic; Edamame or burdock chips. The official site recommends reservations and says busy periods may prevent seating walk-ins. No reliable queue estimate was established. [Source](https://itoh-dining.co.jp/gorabrewery/). Two sourced actual food/drink photos are shown in the companion.
+
 ### [Kanazawa Maimon Sushi · Hakone Gora — 3.36](https://tabelog.com/en/kanagawa/A1410/A141001/14097281/)
 
 - **Food / budget:** Nodoguro nigiri; Bluefin tuna trio. Allow ¥3,000–5,000 per person for a plate-by-plate lunch; premium fish and drinks can raise the total. Confirm current prices on the English menu.
@@ -172,6 +200,27 @@ Tabelog uses weighted reviewer scores, not a simple average. Its [official ratin
 - **Queue / fit:** **moderate.** Recent Tabelog diners reported no wait in April 2026 and December 2025, but other reports mention lines. Walk-in access is straightforward; no wait-time guarantee. [Source](https://tabelog.com/en/kanagawa/A1410/A141001/14007738/dtlrvwlst/). Proposed use: Dec 10, Dec 11. Meets the 3.3 floor, has explicit English ordering support and fits the Gora Park/Karaku route without a detour.
 
 ## Osaka
+
+### [Rikimaru Chaya · Hozenji — 3.36](https://tabelog.com/en/osaka/A2701/A270202/27001517/)
+
+- **Style / budget:** Robata izakaya · seafood & vegetables. Allow ¥3,000–4,500 per person for shared food and a few drinks. Many small plates start at ¥385; large prawns are ¥770. An otoshi appetizer charge of ¥385 per person is listed. Actual spending depends on orders.
+- **English ordering:** The venue-managed Tabelog listing explicitly lists a multilingual menu including English. This is an ordering-menu amenity, not merely English review-site navigation. Staff fluency is not guaranteed. [Evidence](https://tabelog.com/en/osaka/A2701/A270202/27001517/).
+- **Practicalities:** 1-5-6 Namba, Chuo-ku, Osaka. Daily 16:00–23:00; last order 22:30. The venue-managed listing gives December 31 and January 1 closures; normal hours fit December 12–14. Recheck temporary notices. Reservations are accepted; no table is booked. For a flexible evening, try an early walk-in only if seats are available. Reserve if you decide this is the dinner you want. Do not assume immediate seating. [Official information](https://www.rikimarugroup.com/brands/rikimaruchaya/shops/namba/).
+- **Orders / fit:** Butter-grilled scallops · ホタテ貝バター焼; Dashi rolled omelet · 出し巻きたまご; Grilled vegetables · 焼き野菜. Reservations are accepted and the venue has counter and table seating. No reliable current wait time was verified; allow for full tables and keep another dinner option. [Source](https://tabelog.com/en/osaka/A2701/A270202/27001517/). Two sourced actual food/drink photos are shown in the companion.
+
+### [Bar Masuda — 3.82](https://tabelog.com/en/osaka/A2701/A270202/27064091/)
+
+- **Style / budget:** Classic cocktails · whisky · non-alcoholic drinks. Allow about ¥3,000–6,000 per person for one or two drinks including the regular ¥1,100 cover. Blue Blazer II is listed at ¥1,980. Floor 3 has a separate ¥2,200 cover. Prices and seasonal specials can change; confirm before ordering.
+- **English ordering:** The current venue-managed Tabelog listing explicitly lists an English menu. This supports ordering by name; fluent English conversation or explanations of every ingredient are not promised. [Evidence](https://tabelog.com/en/osaka/A2701/A270202/27064091/).
+- **Practicalities:** 2-3-11 Shinsaibashisuji, Chuo-ku, Osaka. Daily 17:00–23:00; last order 22:30. Normal hours cover Saturday December 12, Sunday December 13 and Monday December 14; exceptional closures remain possible. Reservations are accepted; no seat is booked. Walk-ins depend on available seats. Aim for a regular bar seat on floors 1–2, and check the cover before sitting down. [Official information](https://tabelog.com/en/osaka/A2701/A270202/27064091/).
+- **Orders / fit:** Blue Blazer II · hot whiskey cocktail; Sixth Sense · gin and plum; Virgin mojito or another non-alcoholic cocktail. The listing offers reservations and has limited regular bar seats. Walk-ins are subject to space; no dependable current wait time was established. [Source](https://tabelog.com/en/osaka/A2701/A270202/27064091/). Two sourced actual food/drink photos are shown in the companion.
+
+### [Sushi Zen — 3.55](https://tabelog.com/osaka/A2701/A270201/27152697/)
+
+- **Style / budget:** Sushi omakase & seasonal dishes. Omakase with alcoholic free-flow: ¥18,000 including consumption tax, plus 5% service = ¥18,900 per person; ¥37,800 for two. VIP alcohol course ¥26,250 per person after service. Confirm the selected booking total and any extras before reserving.
+- **English ordering:** The restaurant-managed Tabelog profile explicitly lists an English menu and English-speaking staff; the official website also explains the courses in English. Recent specific traveler reports describe English dish explanations. [Evidence](https://tabelog.com/osaka/A2701/A270201/27152697/).
+- **Practicalities:** 4F Ars Building, 1-14-15 Higashi-Shinsaibashi, Chuo-ku, Osaka. Normal dinner seatings 18:00–20:00 and 20:30–23:00, including Sundays; irregular closing days. December 13 service and seats require live booking confirmation. Reservation required. Official TableCheck takes card details as a guarantee; pay at the restaurant. Cancellation or change within 18 hours of arrival costs 100% of the reservation fee. No reservation made. [Official information](https://sushi-zen.net/en/).
+- **Orders / fit:** Omakase with alcoholic free-flow; Soft-drink omakase alternative. Reservation-only counter; this avoids a walk-in queue once booked, but only ten seats and two dinner seatings mean advance booking matters. [Source](https://sushi-zen.net/en/). Two sourced actual food/drink photos are shown in the companion.
 
 ### [Hanamaruken · Namba Hozenji — 3.49](https://tabelog.com/en/osaka/A2701/A270202/27002618/)
 
@@ -298,3 +347,7 @@ These dated individual reports support context, not guarantees:
 - **Shizuka:** Nara Prefecture explicitly lists English picture menus and some English-speaking staff, but warns of up to an hour at peak times plus about 20 minutes for cooking. [Official guide](https://www.visitnara.jp/venues/D00206/).
 
 The companion shows at least two distinct actual food photos per restaurant, with dish labels and restaurant/brand or owner-supplied source credits. Photos illustrate food, not a guaranteed December presentation. Public pins are approximate; use the exact venue’s directions. Favorites remain device-local.
+
+## Karaku lounge information outside the shortlist
+
+AWAI guest free-flow is published for **14:00–20:00 / 07:00–11:00**, with beer/wine named in the [official English terrace guide](https://global-gora-karaku.orixhotelsandresorts.com/LUC2ORGORA/cdata/luc2orgora_12_jaen.html). Paid bar service is listed **20:00–22:30**, last order **22:00**, but a current priced English bar menu and a separate Tabelog rating were not verified. Retain this as the requested in-house ryokan amenity, shown separately from rated restaurant/bar recommendations. Do not borrow the hotel rating or promise English-speaking staff. [Guest lounge details](https://gora-karaku.orixhotelsandresorts.com/contents/guest-lounge/).
