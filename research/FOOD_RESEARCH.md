@@ -1,6 +1,6 @@
 # Current food shortlist and ordering evidence
 
-Checked October 17, 2026 against the current trip companion. **All 42 eligible food/drink stops (38 meal/snack venues and four drinks options) have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
+Checked October 17, 2026 against the current trip companion. **All 45 eligible food/drink stops (41 meal/snack venues and four drinks options) have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** AWAI is a separate in-house amenity outside these counts. Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
 
 An English menu, English ordering tablet, actual English dish list usable to show staff, or specific visitor evidence supports ordering. It does not promise fluent staff on every shift. Queue labels are planning assessments, not wait guarantees. High-queue places, fixed bookings and farther detours are optional; convenient walk-ins lead the day. Published hours are normal patterns, not confirmed December availability.
 
@@ -145,6 +145,38 @@ Tabelog uses weighted reviewer scores, not a simple average. Its [official ratin
 - **English ordering:** The restaurant-supervised branch FAQ confirms an English menu. The official menu also provides English dish names and an English allergen table. [Evidence](https://www.gltjp.com/en/directory/item/11158/).
 - **Access / hours:** Walk-ins only; no reservations. Carry cash; the restaurant-supervised FAQ lists cash only. No booking made. Tuesday/Wednesday 11:00–03:00 next day; last order 02:30. Weekend/holiday opening 10:00. · Regular closure: No regular closure except New Year period [Official venue](https://takahashi-ramen.com/).
 - **Queue / fit:** **moderate.** Small 13-seat counter. A July 2026 traveler reported a queue; late opening does not guarantee an immediate seat. [Source](https://www.gltjp.com/en/directory/item/11158/). Proposed use: Dec 8, Dec 9, Dec 15, Dec 16. Above the 3.3 floor, English ordering confirmed and late official hours leave room for the 20:00–21:00 hotel arrival. About 15–20 minutes on foot from Hyatt, estimated.
+
+### [Rokurinsha Ikebukuro — 3.37](https://tabelog.com/tokyo/A1305/A130501/13322694/)
+
+Checked **October 17, 2026** for the optional **Dec 15 Sunshine City** outing, instead of Aoyama/Imabari. Choose one Ikebukuro dinner, not an additional Shinjuku meal.
+
+- **Food / budget:** Thick dipping noodles; allow **¥1,000–1,500/person**. The [branch menu](https://tabelog.com/tokyo/A1305/A130501/13322694/dtlmenu/) lists regular tsukemen **¥950**, fresh-shichimi tsukemen **¥1,050**, and tokusei with egg/extra pork **¥1,250**. Extras and drinks cost more.
+- **English ordering:** The owner-managed **Japanese** menu page contains a separate actual **English dish section** with names, descriptions and prices, usable to show staff. This is not translated site navigation. An [August 14 visitor](https://map.yahoo.co.jp/v3/place/h_a9VC1reVg/review/DdCKkjGRS8-LJm48EWbfag) also reported foreign-language paper menus, without specifying English.
+- **Access / hours:** **Yodobashi HD Building 8F, 1-28-1 Minamiikebukuro**, linked to Ikebukuro Station. About **12–15 minutes from Sunshine City**, plus the lift; walking estimate. [Current operator branch page](https://shop.mtfj.co.jp/stores/128): daily **11:00–22:00**, Tuesday last order **21:30**. Use this rather than the old 23:00 opening announcement/FAQ. No regular closure is listed; exceptional December service is unverified.
+- **Queue / booking:** **Walk-in only; no reservations.** Follow staff guidance for the ticket machine. Moderate queue risk: the August visitor reported five or six people ahead and about **15 minutes**; other visits varied. Tables are available as well as counter seats. Nothing booked.
+- **Official food photos:** [Tokusei tsukemen](https://images.kutikomi.com/uploads/store/kcom_searches/image/content/43634/1f2027f0-7e66-4ca1-ae2e-8501427c8d0f.jpg) and [tokusei nama-shichimi tsukemen](https://images.kutikomi.com/uploads/store/kcom_searches/image/content/43636/73ca6b31-fd07-4b3d-909e-dc6a8212ad8d.jpg), both published on the [operator's branch page](https://shop.mtfj.co.jp/stores/128). Credit **Rokurinsha / Matsufuji Foods**; actual brand dish illustrations, not a guaranteed December presentation.
+
+### [Anpuku Ikebukuro — 3.61](https://tabelog.com/en/tokyo/A1305/A130501/13097934/)
+
+Checked **October 17, 2026**. A creative-udon alternative for the **Dec 15 Ikebukuro** route, with a longer west-side walk.
+
+- **Food / budget:** Carbonara udon or seafood-and-mentaiko cream udon. Allow **¥1,500–2,500/person** for a bowl with a drink or small side. The [official brand menu](https://anpuku.net/food/) lists both bowls at **¥1,530**; branch offerings/prices can vary. One food order per person. Carbonara uses Japanese dashi; do not treat it as vegetarian.
+- **English ordering:** The [owner-managed exact-branch listing](https://tabelog.com/en/tokyo/A1305/A130501/13097934/) explicitly says **English-speaking staff are available**. Ask for ordering help; availability on every shift is not guaranteed. The official site has some English small-plate descriptions, but a fully English physical udon menu was not established.
+- **Access / hours:** **JP Building 1F, 1-37-8 Nishiikebukuro**. Approximately **15–20 minutes from Sunshine City** or **10–15 minutes from Animate** on foot; estimates. [Official Tuesday hours](https://anpuku.net/about/): **11:00–15:00** (last order **14:30**), **17:00–23:00** (last order **22:00**). Sunday dinner closes an hour earlier. Year-end/New Year closures are listed; no Dec 15 closure verified.
+- **Queue / booking:** Walk in if seats are free; dinner reservations are accepted, none made. **Moderate queue risk** is a planning assessment based on **24 seats** and advance bookings, not a measured wait. Try the 17:00 opening if convenient. The listing specifies a one-drink rule for Friday–Sunday/holiday dinner reservations.
+- **Official food photos:** [Carbonara udon](https://anpuku.net/wp-content/uploads/2024/11/0166d113cab7d975b6969355c745a985.jpg) and [seafood-mentaiko cream udon](https://anpuku.net/wp-content/uploads/2024/11/9aa919efc1b360e07b4c8827c51d9513-e1732602909832.jpg), identified on the [official food page](https://anpuku.net/food/). Credit **Anpuku**; current brand examples.
+
+### [Mutekiya Ikebukuro — 3.61](https://tabelog.com/en/tokyo/A1305/A130501/13003927/)
+
+Checked **October 17, 2026**. Optional pork-ramen destination for **Dec 15**, only if its line is manageable.
+
+- **Food / budget:** Rich pork ramen with thick chashu; the signature Mutekiya bowl adds a seasoned soft egg. Honmaru-X adds pork back fat. Allow **¥1,000–2,000/person**; extras/drinks cost more. **Cash only**; no service or cover charge listed.
+- **English ordering:** The restaurant's [own English dish menu](https://www.mutekiya.com/en/menu/index.html) has dish photos, descriptions and ordering explanations. Keep it open to show your choice. This establishes usable ordering material, not fluent staff on every shift.
+- **Access / hours:** **Sakimoto Building 1F, 1-17-1 Minamiikebukuro**, approximately **10–15 minutes from Sunshine City or Animate** on foot; estimate. [Official normal hours](https://www.mutekiya.com/en/about/index.html): daily **10:30–04:00 next morning**; closed Dec 31–Jan 3 and for announced August maintenance. Tabelog says 03:30; use the official source without promising a last-order time.
+- **Queue / booking:** **Walk-in only; no reservations. High queue risk.** The [official FAQ](https://www.mutekiya.com/en/faq/index.html) illustrates rough waits of **10–15, 45 or 60 minutes**, depending on line length. Only **17 counter seats**; a group may be separated. Leave large bags at the hotel and choose another meal if the line is too long. Nothing booked.
+- **Official food photos:** [Mutekiya pork-and-egg ramen](https://www.mutekiya.com/menu/img/mutekiyaramen_pic.jpg) and [Honmaru-X](https://www.mutekiya.com/menu/img/honmaru-x_pic.jpg), both from the [official Japanese menu](https://www.mutekiya.com/menu/index.html). Credit **Mutekiya**; actual restaurant dish photos.
+
+All six official food photographs were downloaded, visually checked and saved as optimized local assets in the trip companion. No restaurant was contacted or booked.
 
 ## Hakone
 

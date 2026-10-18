@@ -19,12 +19,12 @@ Two adults, one room, two beds requested. Tokyo's Club Twin bookings are verifie
 | Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. Optional **Parks Garden / Takashimaya B1** or **Hozenji → Ebisubashi/Glico sign**, then choose **Imai udon, Hokkyokusei omurice or Daruma kushikatsu**. Jinen sushi, Ajinoya/Fukutaro pancakes and Nedoko eel are additional meal choices if timing fits; Wanaka/551/Rikuro are separate snacks. Skip an outing after a late transfer. |
 | Sun Dec 13 | Hiyori Hotel Osaka Namba | **Namba Parks/Takashimaya → Shinsaibashi/Daimaru/PARCO → Ebisubashi/Hozenji**. Choose **Imai, Hokkyokusei or Daruma**; **Ajinoya/Fukutaro pancakes, Jinen sushi or Nedoko eel** are optional destinations. Wanaka/551/Rikuro are snack choices. |
 | Mon Dec 14 | Hiyori Hotel Osaka Namba | Proposed Nara/Kikuichi day trip: **Tengyokudo lunch/sweets** or optional **Shizuka rice pots**, optional Todai-ji/deer park, then **Imai/Hokkyokusei/Daruma** back in Osaka. Potential bag dispatch after carrier timing is confirmed. |
-| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Proposed **Imabari/Aoyama/Omotesando** afternoon if train timing and shop hours allow. Meal choices: **Komatsuan soba, Funabashiya tempura, Takahashi ramen or Numazuko sushi**; Onodera/Maisen around Aoyama. Optional Fuunji dipping ramen or a chosen beef dinner. |
+| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency, then choose **ONE area: Imabari/Aoyama/Omotesando OR Sunshine City Pokémon + nearby dinner**. Pokémon Center MEGA TOKYO is inside Sunshine City. Gashapon in the complex and the separate Animate store are optional extras; do not stack Imabari and Ikebukuro. |
 | Wed Dec 16 | — | Check out of Regency; optional **Keio tea/gift/tableware shopping from 10:00** or a brief park walk, then **Komatsuan soba from 11:00** or **Funabashiya/Numazuko from 11:30**, with Takahashi ramen also available; collect bags and transfer to NRT for **18:15 departure**. Airport buffer takes priority. |
 
 Nights: **Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = 8**, with no gaps or overlaps. Hiroshima/Miyajima and Kinosaki are outside this booked route. Kyoto/Kobe/Himeji remain optional interests; preserve some Osaka time rather than filling both full days with excursions.
 
-Dec 9 Tsukiji/Ginza, Dec 15 Aoyama, and the Sunday Osaka/Monday Nara arrangement are proposed placements for requested stops. No train, activity or restaurant reservation makes these assignments fixed.
+Dec 9 Tsukiji/Ginza, the Dec 15 Aoyama OR Sunshine City choice, and the Sunday Osaka/Monday Nara arrangement are proposed placements for requested stops. No train, activity or restaurant reservation makes these assignments fixed.
 
 ## Short outings on travel days
 
@@ -128,14 +128,32 @@ Keep Tsukiji brunch and a shorter GINZA SIX/Chuo-dori visit. **Choose this inste
 
 No Jumbo table, museum ticket or transport is booked. Do not add the museum route to Dec 15 by default: Osaka → Tokyo, Imabari and Omotesando already make that day dependent on train/shop timing.
 
-## Tuesday Dec 15 — Imabari Towel Minami-Aoyama, proposed
+## Tuesday Dec 15 — one Tokyo outing after the hotel transfer
 
-- **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** Provisionally place on **Dec 15 after returning from Osaka**, with time for Aoyama/Omotesando if the train and shop hours allow. The stop is requested; this date/time is an assistant placement, not a fixed appointment. Choose the return journey before relying on the slot, and keep the final Tokyo afternoon manageable.
+Return from Hiyori to Hyatt, drop bags, then choose **Aoyama/Imabari OR Sunshine City Pokémon and nearby dinner**. The intercity transfer is the main travel block; one neighborhood afterward is enough. A late arrival can mean a shorter outing or dinner near Hyatt.
+
+### Option A — Imabari Towel Minami-Aoyama
+
+- **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** This is the **Aoyama choice on Dec 15 after returning from Osaka**, instead of Sunshine City, with a short Omotesando browse if time allows. The stop is requested; this date/time is an assistant placement, not a fixed appointment. Choose the return journey before relying on the slot, and keep the final Tokyo afternoon manageable.
 - Allow **30–60 minutes** for towel browsing, then use **[Omotesando Hills](https://www.gotokyo.org/en/spot/36/index.html)** and the avenue shops as the optional shopping focus. Onodera sushi or Maisen tonkatsu are nearby alternatives to Komatsuan/Funabashiya/Takahashi/Numazuko in Shinjuku. Fuunji is an optional queue destination; choose one main meal.
 - Address: **FROM-1st building, 2F, room 203, 5-3-10 Minami-Aoyama, Minato-ku, Tokyo 107-0062**. Official access: approximately **5 minutes on foot from Omotesando Station exit A5**.
 - Official hours **10:30–19:00**; regular closures include the **second Tuesday of each month**, the second Sunday in August, the third Sunday in February, and New Year. **Dec 15 is the third Tuesday**, outside that regular monthly closure; exceptional December closures still need checking.
 - [Official store information](https://www.imabaritowel.jp/store#aoyama). This is the official Imabari Towel store, not the separate IKEUCHI ORGANIC shop.
 - With towel shopping now planned after the Osaka stay, purchases would stay with the travelers for the journey home rather than go in the earlier Tokyo-to-Osaka shipment.
+
+### Option B — Sunshine City Pokémon and dinner
+
+**Hyatt → Sunshine City → Pokémon Center MEGA TOKYO → one nearby Ikebukuro dinner → Hyatt.** This replaces the Aoyama/Imabari outing that day. **Pokémon Center is inside Sunshine City**, not a second destination; Sunshine City alone is enough for a relaxed evening.
+
+- **[Pokémon Center MEGA TOKYO](https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/)**, **Sunshine City alpa 2F, 3-1-2 Higashi-Ikebukuro**: plush, game/card merchandise and the Pokémon GO Lab. Allow **45–60 minutes**, or longer if browsing slowly. Normally **10:00–20:00**; product/card stock and any timed-entry controls vary.
+- **Optional anime browsing inside Sunshine City:** **[ONE PIECE Mugiwara Store](https://sunshinecity.jp/shop/shop_list/entry-11485.html)** on **alpa 2F**, or **[Donguri Republic](https://sunshinecity.jp/shop/shop_list/entry-518.html)** on **alpa B1** for Studio Ghibli goods such as Totoro and Kiki. Both normally **10:00–20:00**. Pick whichever interests you; these are examples, not extra required stops.
+- **Optional in the same complex:** **[Gashapon Department Store Ikebukuro](https://bandainamco-am.co.jp/others/capsule-toy-store/store/ikebukuro/)**, **World Import Mart 3F**. A **20–30-minute** capsule-toy browse, normally **10:00–21:00**. It is a different building/floor within Sunshine City; skip it if tired or dinner would become late.
+- **Dinner option:** **[Rokurinsha Ikebukuro — 3.37](https://tabelog.com/tokyo/A1305/A130501/13322694/)**, by the station in **Yodobashi HD Ikebukuro 8F**, offers dipping ramen. Its restaurant-published [English dish menu](https://tabelog.com/tokyo/A1305/A130501/13322694/dtlmenu/) lists regular tsukemen **¥950** and tokusei **¥1,250**. Walk-in/no reservations; a queue is possible. [Current official branch hours](https://shop.mtfj.co.jp/stores/128): Tuesday **11:00–22:00**, food last order **21:30**. Choose one meal in Ikebukuro, with no second Shinjuku dinner.
+- **Creative-udon alternative:** **[Anpuku Ikebukuro — 3.61](https://tabelog.com/en/tokyo/A1305/A130501/13097934/)** has carbonara-style or seafood-cream udon, about **¥1,500–2,500/person**. Its owner lists English-speaking staff; walk-in seats depend on space, with dinner reservations also available. This is a **west-side detour**, roughly **15–20 minutes from Sunshine City** on foot. [Normal Tuesday dinner](https://anpuku.net/about/) **17:00–23:00**, last order **22:00**.
+- **Optional queue choice:** **[Mutekiya Ikebukuro — 3.61](https://tabelog.com/en/tokyo/A1305/A130501/13003927/)**, rich pork ramen with an [official English dish menu](https://www.mutekiya.com/en/menu/index.html), about **¥1,000–2,000/person**, **cash only**. No reservations; its [own guide](https://www.mutekiya.com/en/faq/index.html) illustrates roughly **10–60-minute lines**. Check the line and choose another meal if it would take over the evening. About **10–15 minutes from Sunshine City** on foot; walking estimate.
+- **Separate optional extra, only with spare time:** **[Animate Ikebukuro Flagship](https://www.animate.co.jp/shop/ikebukuro/)**, **1-20-7 Higashi-Ikebukuro**. Focus on **4F–5F character goods** and **6F games/music**, not every floor. Normally **10:00–21:00**. It is roughly **10–15 minutes on foot from the Sunshine area**, plus shop time; it is not required for the Sunshine City outing. [Floor guide](https://www.animate.co.jp/shop/ikebukuro/floor/).
+
+**No Imabari + Ikebukuro stack.** Keep December-specific shop closures, entry rules and the selected dinner flexible until the return train is chosen. No entry, event, restaurant or train is booked. Nintendo's dedicated **[Nintendo TOKYO](https://www.nintendo.com/jp/officialstore/index.html)** shop is in **Shibuya PARCO**, not Ikebukuro. Dec 9's Tsukiji/Ginza/Jumbo choices and Dec 16's airport buffer stay intact.
 
 ## Osaka meal choices on Dec 12–14
 
@@ -202,7 +220,7 @@ Build door-to-door routes and a sourced cost table for these actual endpoints:
 3. **Dec 11:** only the local Hakone transport required for the chosen outing/spa plan.
 4. **Dec 12:** Karaku → Odawara → Shin-Osaka → Hiyori Hotel Osaka Namba.
 5. **Proposed Dec 14:** Hiyori → Osaka-Namba → Nara/Kikuichi → Hiyori.
-6. **Dec 15:** Hiyori → Tokyo → Hyatt Regency Tokyo.
+6. **Dec 15:** Hiyori → **Osaka Metro Namba, Midosuji Line → Shin-Osaka → Shinkansen to Shinagawa or Tokyo → Shinjuku → Hyatt Regency Tokyo**. Choose services and station access later. [Osaka Metro route information](https://subway.osakametro.co.jp/en/station_guide/), [JR East route maps](https://www.jreast.co.jp/en/map/). **Nankai Namba is only a nearby wayfinding landmark; the transfer does not take a Nankai train to Shin-Osaka.**
 7. **Dec 16:** Regency → NRT for the 18:15 departure.
 8. Two luggage-forwarding shipments priced for the actual bags and delivery dates.
 
