@@ -2,7 +2,7 @@
 
 Updated October 17, 2026. **All eight hotel nights are booked.** Activities, trains, luggage forwarding, spa and restaurants remain plans unless explicitly marked confirmed. All dates and times are Japan local time, 2026.
 
-[Little Japan Days trip companion](https://little-japan-days-2026.bryan-s-lam.chatgpt.site) provides a mobile itinerary, interactive map and food/place links for sharing. Optional stops are choices, not a checklist; favorites are device-local.
+[Little Japan Days trip companion](https://little-japan-days-2026.bryan-s-lam.chatgpt.site) provides a mobile itinerary, interactive map and food/place links for sharing. The [Prep view](https://little-japan-days-2026.bryan-s-lam.chatgpt.site/?view=prep) has booking/packing steps. Optional stops are choices, not a checklist; favorites and Prep ticks are device-local and do not synchronize or confirm reservations.
 
 ## Booked route
 
@@ -14,12 +14,12 @@ Two adults, one room, two beds requested. Tokyo's Club Twin bookings are verifie
 |---|---|---|
 | Tue Dec 8 | Hyatt Regency Tokyo | NRT arrival **17:25**; check in, then choose **Takahashi ramen**, **Komatsuan soba** or **Numazuko sushi** according to arrival time. Optional **10–15-minute Shinjuku Central Park edge walk** beside the Hyatt if still awake. Takahashi normally serves latest; no fixed dinner booking. |
 | Wed Dec 9 | Hyatt Regency Tokyo | Proposed **Tsukiji Sushidai brunch → GINZA SIX → Chuo-dori/Mitsukoshi/Itoya**. Dec 9 is a wholesale-market closure day; individual shops may open. Sushidai normally opens 10:30; **Tenkuni tempura**, **Torigin skewers/rice pots** or optional **Hanayama udon/Kagari ramen** are later meal alternatives; choose one dinner. Optional shorter Ginza visit → **Teien Art Museum → Jumbo Shirokane dinner**, subject to reserving Jumbo. |
-| Thu Dec 10 | Hakone Gora Karaku | Check out of Regency; travel to Gora. If in Gora by about 14:00, optional **Gora Park fountain → Tropical Plant Pavilion** for 30–45 minutes, with **Yamaji** lunch if timing fits. Otherwise go straight to Karaku; preserve onsen/ryokan time and dinner. **Tamura** queue/**Kihinkan** detour remain lunch alternatives. |
+| Thu Dec 10 | Hakone Gora Karaku | Proposed **Romancecar to Odawara → reserved 12:15 Karaku shuttle**, with a generous station buffer; rail fallback via Hakone-Yumoto/Gora. If settled in Gora by about 14:00, optional **Gora Park fountain → Tropical Plant Pavilion** for 30–45 minutes, with **Yamaji** lunch if timing fits. Otherwise go straight to Karaku; preserve onsen/ryokan time and dinner. **Tamura** queue/**Kihinkan** detour remain lunch alternatives. No shuttle/train is booked. |
 | Fri Dec 11 | Hakone Gora Karaku | Choose one of the two morning/lunch options below; protect afternoon spa/relaxation and dinner. Spa is not reserved. |
-| Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. Optional **Parks Garden / Takashimaya B1** or **Hozenji → Ebisubashi/Glico sign**, then choose **Imai udon, Hokkyokusei omurice or Daruma kushikatsu**. Rikimaru/Sakanabiiki izakaya dinners, Jinen sushi, Ajinoya/Fukutaro pancakes and Nedoko eel are alternatives if timing fits; Wanaka/551/Rikuro are separate snacks. Skip an outing after a late transfer. |
+| Sat Dec 12 | Hiyori Hotel Osaka Namba | Proposed breakfast/checkout → **Karaku shuttle 10:45 → Odawara → Hikari around 14:00 or later → Shin-Osaka → Metro Namba → Hiyori**, allowing for 90–120-minute shuttle congestion. Shuttle/meal timing and train remain unconfirmed. Optional **Parks Garden / Takashimaya B1** or **Hozenji → Ebisubashi/Glico sign**, then choose **Imai udon, Hokkyokusei omurice or Daruma kushikatsu**. Rikimaru/Sakanabiiki izakaya dinners, Jinen sushi, Ajinoya/Fukutaro pancakes and Nedoko eel are alternatives if timing fits; Wanaka/551/Rikuro are separate snacks. Skip an outing after a late transfer. |
 | Sun Dec 13 | Hiyori Hotel Osaka Namba | **Namba Parks/Takashimaya → Shinsaibashi/Daimaru/PARCO → Ebisubashi/Hozenji**. Choose **Imai, Hokkyokusei or Daruma**; **Rikimaru/Sakanabiiki izakaya dinners**, **Ajinoya/Fukutaro pancakes, Jinen sushi or Nedoko eel** are alternatives. Wanaka/551/Rikuro are snack choices. |
 | Mon Dec 14 | Hiyori Hotel Osaka Namba | Proposed Nara/Kikuichi day trip: **Tengyokudo lunch/sweets** or optional **Shizuka rice pots**, optional Todai-ji/deer park, then **Imai/Hokkyokusei/Daruma** or **Rikimaru/Sakanabiiki izakaya dinner** back in Osaka. Potential bag dispatch after carrier timing is confirmed. |
-| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency, then choose **ONE area: Imabari/Aoyama/Omotesando OR Sunshine City Pokémon + nearby dinner**. Pokémon Center MEGA TOKYO is inside Sunshine City. Gashapon in the complex and the separate Animate store are optional extras; do not stack Imabari and Ikebukuro. |
+| Tue Dec 15 | Hyatt Regency Tokyo | After breakfast, target a **Nozomi departing around 09:30–10:30** via **Metro Namba → Shin-Osaka → Shinagawa/Tokyo → Shinjuku → Regency**; exact train unselected. Then choose **ONE area: Imabari/Aoyama/Omotesando OR Sunshine City Pokémon + nearby dinner**. Pokémon Center MEGA TOKYO is inside Sunshine City. Gashapon in the complex and the separate Animate store are optional extras; do not stack Imabari and Ikebukuro. |
 | Wed Dec 16 | — | Check out of Regency; optional **Keio tea/gift/tableware shopping from 10:00** or a brief park walk, then **Komatsuan soba from 11:00** or **Funabashiya/Numazuko from 11:30**, with Takahashi ramen also available; collect bags and transfer to NRT for **18:15 departure**. Airport buffer takes priority. |
 
 Nights: **Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = 8**, with no gaps or overlaps. Hiroshima/Miyajima and Kinosaki are outside this booked route. Kyoto/Kobe/Himeji remain optional interests; preserve some Osaka time rather than filling both full days with excursions.
@@ -218,15 +218,12 @@ Prior research supports Hiyori's receiving/storage/outgoing service, but the act
 
 ## Transport still to arrange
 
-Build door-to-door routes and a sourced cost table for these actual endpoints:
+The [transport and booking guide](research/TRANSPORT.md) contains the current routes, official action links, fare calculations, baggage rules and rail fallback. **Individual tickets are recommended; no nationwide JR Pass or Hakone Freepass for this plan.** The two Shinkansen legs are about **¥53,940 for two**. Adding the proposed Romancecar, N'EX round trip and regular Kintetsu Nara return brings those components to about **¥70,780 for two**, excluding local rides, taxis and forwarding; this is not a full budget or live checkout.
 
-1. **Dec 8:** NRT → Hyatt Regency Tokyo, after 17:25 arrival.
-2. **Dec 10:** Hyatt Regency Tokyo → Hakone Gora Karaku, allowing time before the actual dinner seating.
-3. **Dec 11:** only the local Hakone transport required for the chosen outing/spa plan.
-4. **Dec 12:** Karaku → Odawara → Shin-Osaka → Hiyori Hotel Osaka Namba.
-5. **Proposed Dec 14:** Hiyori → Osaka-Namba → Nara/Kikuichi → Hiyori.
-6. **Dec 15:** Hiyori → **Osaka Metro Namba, Midosuji Line → Shin-Osaka → Shinkansen to Shinagawa or Tokyo → Shinjuku → Hyatt Regency Tokyo**. Choose services and station access later. [Osaka Metro route information](https://subway.osakametro.co.jp/en/station_guide/), [JR East route maps](https://www.jreast.co.jp/en/map/). **Nankai Namba is only a nearby wayfinding landmark; the transfer does not take a Nankai train to Shin-Osaka.**
-7. **Dec 16:** Regency → NRT for the 18:15 departure.
-8. Two luggage-forwarding shipments priced for the actual bags and delivery dates.
+- Reserve Karaku's proposed **Dec 10 12:15 Odawara departure** and **Dec 12 10:45 hotel departure**, checking actual seats, December operation and cancellation terms. Preserve the mountain-rail fallback; road congestion can take 90–120 minutes.
+- Select a compatible Dec 10 Romancecar when seats open **Nov 10 at 10:00 JST / Nov 9 at 17:00 PST**. Its surcharge is separate from the basic fare.
+- Select Dec 12 direct Hikari **around 14:00 or later** at **Nov 12 10:00 JST / Nov 11 17:00 PST**; choose Dec 15 **Nozomi around 09:30–10:30 after breakfast** at **Nov 15 10:00 JST / Nov 14 17:00 PST**. Exact trains are not chosen. Measure bags before selecting adjacent seats/oversized-baggage space.
+- For Hiyori connections use **Osaka Metro Namba, Midosuji Line ↔ Shin-Osaka**. **Nankai Namba is a wayfinding landmark, not this train.** For the proposed Dec 14 Nara day use **Kintetsu Osaka-Namba ↔ Kintetsu-Nara**, regular Rapid Express/Express with no seat booking.
+- Choose N'EX or an actual Hyatt-stopping airport bus for Dec 8/16; aim for the correct NRT terminal around **15:00–15:15** on departure day, subject to airline guidance. Price and arrange the two forwarding shipments separately.
 
-No train numbers or transport bookings are confirmed. Verify timetables, fares, advance-booking windows, station transfers and airport buffers before choosing services. The older JPY 136,000–142,000 transport/forwarding estimate lacked supporting calculations and should not be used as the trip budget.
+No transport booking is confirmed. Account setup or a Prep tick is not a ticket. Recheck final fares, December schedules and selected terms before purchasing; the older JPY 136,000–142,000 placeholder is not the trip budget.

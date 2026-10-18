@@ -20,13 +20,19 @@ Updated October 17, 2026. **Hotel booking is complete.** All dates below are Jap
 
 ## Transport and luggage
 
-- [ ] Plan NRT → Hyatt Regency Tokyo on Dec 8 around the 17:25 arrival, including immigration and hotel access.
-- [ ] Plan Regency → Karaku Dec 10, Karaku → Hiyori Dec 12 via Odawara/Shin-Osaka, and Hiyori → Regency Dec 15. For the Osaka departure use Osaka Metro Namba/Midosuji → Shin-Osaka, not a Nankai train; choose Shinagawa or Tokyo for the onward Shinjuku connection. Verify door-to-door times, fares, booking windows and station transfers.
-- [ ] Plan Regency → NRT Dec 16 for the 18:15 departure, with airport buffer and hotel luggage storage.
+Use the sourced [transport guide](research/TRANSPORT.md) and [companion Prep checklist](https://little-japan-days-2026.bryan-s-lam.chatgpt.site/?view=prep). Prep ticks are device-local; none of these steps is booked merely because a box is checked.
+
+- [ ] Prepare SmartEX account/payment access and each traveler's own local IC card/device; measure all suitcases before deciding normal vs oversized-baggage seats. Keep credentials/card details out of the repo/app.
+- [ ] Reserve Karaku shuttles **Dec 10 Odawara 12:15** and **Dec 12 hotel 10:45** if still available (both two-person options were shown October 17; no seats held). Confirm booking cutoff/selected cancellation terms, bag handling and actual breakfast/checkout details. Retain the rail fallback; the hotel warns of 90–120 minutes in congestion.
+- [ ] Select/book the Dec 10 Romancecar to Odawara at the **Nov 10 10:00 JST / Nov 9 17:00 PST** release, leaving a generous buffer for 12:15. Recheck the illustrative 10:00 → 11:13 service; pay the basic fare plus reserved-seat surcharge. No Hakone Freepass needed for the current short outings.
+- [ ] Select/book Dec 12 **direct Hikari around 14:00 or later**, after the 10:45 shuttle, at **Nov 12 10:00 JST / Nov 11 17:00 PST**. Select/book Dec 15 **Nozomi around 09:30–10:30 after breakfast** at **Nov 15 10:00 JST / Nov 14 17:00 PST**. Exact trains remain unselected. Prefer adjacent D/E, or the required baggage seats; review the final total/change/refund rules before payment. No nationwide JR Pass recommended.
+- [ ] Confirm the local station walks: **Osaka Metro Namba/Midosuji ↔ Shin-Osaka**, not Nankai. For Dec 15 choose Shinagawa/Yamanote or Tokyo/Chuo for Shinjuku; keep the subsequent outing to one area.
+- [ ] Choose N'EX round trip or an actual Hyatt-stopping airport bus for Dec 8/16. Allow immigration after the Dec 8 17:25 landing; confirm departure terminal/airline guidance and target NRT around **15:00–15:15** before the Dec 16 18:15 flight. Confirm hotel last mile and daytime bag storage.
+- [ ] For the proposed Dec 14 Nara trip, use regular Kintetsu Rapid Express/Express **Osaka-Namba ↔ Kintetsu-Nara**, with each traveler's IC card; no seat booking required. Choose the park bus/taxi/walk for Kikuichi's main shop when the day's route is settled.
 - [ ] Confirm Regency outgoing forwarding, incoming acceptance/storage for the return stay, and Dec 16 daytime storage.
 - [ ] Confirm Hiyori incoming/storage/outgoing arrangements for our dates: Dec 12 delivery and possible Dec 14 dispatch for Dec 15 Tokyo delivery. Verify carrier cutoff, transit time, suitcase size/weight, charges and labeling.
 - [ ] Choose first-Tokyo dispatch Dec 9 or Dec 10 only after confirming delivery timing; pack a small bag for the two Hakone nights plus delay buffer. Imabari is now proposed Dec 15, so those purchases would remain with the travelers for the journey home.
-- [ ] Build a sourced transport/forwarding cost table for the actual route, including Nara and selected Hakone outings. The old JPY 136,000–142,000 placeholder is not a budget to rely on. Evaluate rail-pass value only if relevant to the priced route.
+- [ ] Add actual ticket purchases, city/Hakone rides, airport last miles, taxis and forwarding to the budget. The guide's **about ¥70,780 for two** covers only the proposed Romancecar, two Shinkansen legs, N'EX round trip and Nara regular rail return. The old JPY 136,000–142,000 placeholder is not a budget to rely on.
 
 ## Spa and outings
 

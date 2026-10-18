@@ -19,3 +19,5 @@
 - Keep daily bars separate from meal/snack counts. Record cover/otoshi charges, English ordering evidence and reservation terms; unverified paid bar menus stay outside the rated shortlist. AWAI is an explicit in-house ryokan amenity exception, labeled separately with its verification limits.
 
 - Public place cards use short descriptions, named highlights/orders and important visiting details. Keep rating-threshold feedback, eligibility explanations and research-process narration out of traveler-facing copy; retain evidence in research/data fields.
+
+- Current intercity routes, fare estimates, official booking links and release dates are in `research/TRANSPORT.md`. Recheck actual services and selected ticket terms before purchases; public Prep ticks are device-local reminders, not booking evidence.
