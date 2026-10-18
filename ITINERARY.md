@@ -1,6 +1,8 @@
 # Japan itinerary and luggage plan
 
-Updated October 2, 2026. **All eight hotel nights are booked.** Activities, trains, luggage forwarding, spa and restaurants remain plans unless explicitly marked confirmed. All dates and times are Japan local time, 2026.
+Updated October 17, 2026. **All eight hotel nights are booked.** Activities, trains, luggage forwarding, spa and restaurants remain plans unless explicitly marked confirmed. All dates and times are Japan local time, 2026.
+
+[Little Japan Days trip companion](https://little-japan-days-2026.bryan-s-lam.chatgpt.site) provides a mobile itinerary, interactive map and food/place links for sharing. Optional stops are choices, not a checklist; favorites are device-local.
 
 ## Booked route
 
@@ -11,16 +13,18 @@ Two adults, one room, two beds requested. Tokyo's Club Twin bookings are verifie
 | Date | Booked overnight | Day plan |
 |---|---|---|
 | Tue Dec 8 | Hyatt Regency Tokyo | NRT arrival **17:25**; transfer to hotel and easy dinner. Keep the evening flexible for arrival formalities. |
-| Wed Dec 9 | Hyatt Regency Tokyo | Relaxed Aoyama/Omotesando food and shopping, including requested Imabari Towel Minami-Aoyama. Coordinate bag dispatch if Dec 9 is chosen. |
+| Wed Dec 9 | Hyatt Regency Tokyo | Proposed **Tsukiji sushi brunch → Ginza shopping/eating**. Dec 9 is a wholesale-market closure day; individual Outer Market shops may open. Sushidai Honkan normally opens 10:30 Monday–Saturday. Choose among Ginza SIX/Mitsukoshi/Itoya; possible Toriguchi dinner. |
 | Thu Dec 10 | Hakone Gora Karaku | Check out of Regency; travel to Karaku. Keep afternoon for onsen/ryokan time and dinner, with timing set from the actual meal plan. |
 | Fri Dec 11 | Hakone Gora Karaku | Choose one of the two morning/lunch options below; protect afternoon spa/relaxation and dinner. Spa is not reserved. |
 | Sat Dec 12 | Hiyori Hotel Osaka Namba | Check out of Karaku after breakfast as arranged; travel via Odawara/Shin-Osaka to Hiyori. Easy Namba food/shopping evening. |
-| Sun Dec 13 | Hiyori Hotel Osaka Namba | One of Dec 13/14 for requested Nara/Kikuichi; exact assignment pending. |
-| Mon Dec 14 | Hiyori Hotel Osaka Namba | Other day for Osaka food/shopping or one optional excursion. Potential bag dispatch to Tokyo after carrier timing is confirmed. |
-| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Final Tokyo food/shopping evening. |
+| Sun Dec 13 | Hiyori Hotel Osaka Namba | Proposed Osaka food/shopping day: Namba Parks, Takashimaya or Shinsaibashi, with Ajinoya and snack options. These are choices, not all required stops. |
+| Mon Dec 14 | Hiyori Hotel Osaka Namba | Proposed Nara/Kikuichi day trip, Shizuka lunch, optional Todai-ji/deer park, then possible Daruma dinner back in Osaka. Potential bag dispatch after carrier timing is confirmed. |
+| Tue Dec 15 | Hyatt Regency Tokyo | Check out of Hiyori; return to Regency. Proposed **Imabari/Aoyama/Omotesando** afternoon if train timing and shop hours allow. Food choices include Onodera or Maisen, or one of three Shinjuku beef-dinner options. |
 | Wed Dec 16 | — | Check out of Regency; limited morning/lunch time and NRT transfer for **18:15 departure**, with airport buffer. |
 
 Nights: **Tokyo 2 + Hakone 2 + Osaka 3 + Tokyo 1 = 8**, with no gaps or overlaps. Hiroshima/Miyajima and Kinosaki are outside this booked route. Kyoto/Kobe/Himeji remain optional interests; preserve some Osaka time rather than filling both full days with excursions.
+
+Dec 9 Tsukiji/Ginza, Dec 15 Aoyama, and the Sunday Osaka/Monday Nara arrangement are proposed placements for requested stops. No train, activity or restaurant reservation makes these assignments fixed.
 
 ## Friday Dec 11 — Hakone alternatives
 
@@ -52,46 +56,75 @@ Activity and route references: [Open-Air Museum visitor information](https://www
 
 The [AIOI booking page](https://reservation.thedayspa.jp/en/aioi) listed Couple's Relaxation: 60-minute treatment / 90-minute appointment, JPY 24,000 per person; Couple's Journey: 90-minute treatment / 120-minute appointment, JPY 35,500 per person; and Mindful Bathing: 120-minute program / 150-minute appointment, JPY 41,000 per person. Two-person base totals: JPY 48,000 / 71,000 / 82,000. Tax/service treatment and December availability are unverified. The page then requested cancellation by 20:00 the prior day, with 100% same-day charge; recheck the chosen appointment's actual terms. No treatment is booked.
 
-## Tokyo restaurant options — added October 2
+## Tokyo food options — updated October 17
 
-The traveler requested **Toriguchi in Gotanda** and **Yakiniku Jumbo in Tokyo** as options. Neither is reserved or assigned to a day. Dec 9 and Dec 15 are possible dinner evenings, subject to availability and the Dec 15 train timing; keep Dec 8 flexible after the flight. These are additions to the shortlist, not mandatory stops or changes to the booked route.
+All restaurants below are **possibilities, not reservations**. The working plan places Tsukiji/Ginza on Dec 9, Toriguchi as a possible Dec 9 dinner, and Aoyama plus a Shinjuku dinner choice on Dec 15 if the return train allows. Choose meals that fit the route and appetite rather than adding every option. Keep Dec 8 flexible after the flight.
 
-### Toriguchi / とり口 — Gotanda
+### Shinjuku beef dinner — choose one
 
-- Yakitori courses and natural wine at **2-28-10 Nishi-Gotanda, Shinagawa-ku**, approximately five minutes from JR Gotanda's west exit. Official dinner hours: **17:00–23:00**, last entry 21:30. [Official restaurant information](https://www.toriguchi.jp/).
-- **Tabelog 3.51/5**, checked October 2. Published courses are **JPY 5,060 / 7,150 / 9,900 per person including tax**; these are menu prices, not an all-in bill or a December availability quote. Drinks/extras need a separate allowance. [Tabelog listing and courses](https://tabelog.com/tokyo/A1316/A131603/13219515/).
-- **Reservations accepted:** the restaurant links to [Toreta booking](https://yoyaku.toreta.in/toriguchi). Its instructions include English and an explicit language switch, supporting an accessible booking process; English-speaking staff/menu and acceptance of overseas contact details have not been independently confirmed. The venue specifies courses only, two-hour seating and cashless payment. Booking window, cancellation charges and two-person December availability still need checking; do not rely on walk-in seating.
-- Fit: a seated yakitori dinner with a lower published course price than the Hanare example below. Trade-offs: a separate trip to Gotanda from the Shinjuku hotel and a fixed-course format. Published courses include chicken tataki; check preferences and whether a fully cooked substitution is possible before committing.
+The traveler removed Jumbo from the active shortlist in favor of closer choices. These are three distinct researched branches; no date-specific inventory has been secured. Prices are per person and may exclude extras.
 
-### Yakiniku Jumbo / 焼肉ジャンボ — branch to choose
+| Option | Fit, budget and trade-off | Booking and sources |
+|---|---|---|
+| **Ushigoro Shinjuku 3-chome — 3.67** | Polished A5 Wagyu dinner. Tabelog dinner range **JPY 10,000–14,999**, with reviews often JPY 15,000–19,999. East of Shinjuku Station, so farther from Hyatt than the west-side choices. Address: **3-17-10 Shinjuku, HULIC & New SHINJUKU 12F**. This is regular Ushigoro, not the separate 11F Ushigoro S. | **Reservations accepted** through the [official selector](https://sangue.co.jp/reservation?brand=YU) or [English Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13258565/). Exact-date availability and chosen-course cancellation terms unverified. [Official branch](https://ushigoro.com/shop/shinjuku-3chome/). |
+| **Rokkasen Nishiguchi Main Branch — 3.23** | West-side all-you-can-eat yakiniku, with shabu-shabu/sukiyaki combinations on some plans. December Kaede dinner example **JPY 15,950**, tax included, 120 minutes with drinks. A fixed-meal variety option; lower rating than the other two. Address: **1-10-2 Nishi-Shinjuku, 110 Building 10F**, in front of Keio Department Store. | **Reservations accepted for 2+** through [English TableCheck](https://www.tablecheck.com/en/shops/rokkasen-shinhonten/reserve). Published cancellation: free until 12 hours before, then 50% of plan cost; more than 15 minutes late may count as cancellation. Recheck the selected plan. [Official branch](https://rokkasen.co.jp/en/shop_honten/), [Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13297712/). |
+| **Yakiniku Motoyama Shinjuku — 3.43** | More moderate west-side Wagyu choice. Tabelog **JPY 6,000–7,999**, reviews often JPY 8,000–9,999, plus listed JPY 330 charge. Address: **7-10-12 Nishi-Shinjuku, Daihan Building 2F**; use the elevator. This is not the separate Kabukicho branch. | **Reservations accepted** via [English Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13107765/). Busy periods may have a two-hour limit; venue listing says changes/cancellations require a phone call. Exact-date terms and English-speaking service unverified. [Official site](https://www.yakiniku-motoyama.com/). |
 
-- Keep this as the requested **Tokyo yakiniku option without silently selecting a branch**. The [official restaurant network](https://yakiniku-jambo.com/) distinguishes Shinozaki Honten, Hongo and Hanare, plus the Shirokane partnership restaurant. Compare location and availability before choosing.
-- **Hanare is a researched example, not the selected branch:** Hongo-Sanchome area, **3-27-9 Hongo, Bunkyo-ku**. [Tabelog](https://tabelog.com/en/tokyo/A1310/A131004/13160962/) shows **4.33/5** and a 2026 Bronze award, checked October 2. Its [English TableCheck page](https://www.tablecheck.com/en/shops/yakiniku-jambo-hanare/reserve) offers seat-only reservations and a **JPY 20,000 tax-included course per person**, with drinks/extras additional. This is a menu quote, not confirmed December inventory.
-- **Reservations accepted at Hanare:** the official site links directly to that English booking channel; international telephone reservations are not accepted. A credit card is required, with holds and cancellation terms depending on the selection. Verify the selected December plan's exact terms before submission. English booking access is evidenced; fluent English service is not guaranteed. Walk-in availability is unverified.
-- The [Hanare official page](https://yakiniku-jambo.com/hanare.html) says reservations extend through the following month, with the subsequent month opening on the first. That implies **November 1 for December bookings** under the published policy; confirm the live booking window/release time rather than treating this as guaranteed availability.
-- Fit: a highly rated yakiniku splurge. Trade-offs: higher spend, advance-planning requirements and a trip to Hongo from the hotel. Do not apply Hanare's prices, score or policies to another Jumbo branch.
+### Sushi possibilities
 
-Restaurant research checked **October 2, 2026**. Scores, menus and policies may change. No date/time inventory was checked, no restaurant was contacted and no reservation was made.
+| Option | Proposed use and budget | Booking and sources |
+|---|---|---|
+| **Tsukiji Sushidai Honkan — 3.53** | Proposed **Dec 9 sushi brunch**. Normal Monday–Saturday lunch opening **10:30**; exceptional Dec 9 service unverified. Plan **JPY 3,000–6,000** plus extras; confirm set prices. **6-21-2 Tsukiji**. This is separate from Sushi Dai at Toyosu. | **Lunch walk-in**; dinner reservations for table seats only, excluding Sundays, per venue listing. English menu/service unverified. [Tabelog](https://tabelog.com/tokyo/A1313/A131301/13002314/), [official Outer Market merchant listing](https://www.tsukiji.or.jp/shoplist/cat-d/cat-12/601/). |
+| **Sushi no Midori Ginza — 3.52** | A Ginza alternative to the Tsukiji sushi meal. Plan **JPY 3,000–5,000**, depending on set/extras. Multilingual/photo menus; substantial queues possible. Near the Ginza/Shimbashi side. | **Selected plans accept reservations** on the [official site](https://www.sushinomidori.co.jp/shops/ginza/); otherwise use an on-site queue ticket. Smartphone queue entry currently unavailable. [Tabelog](https://tabelog.com/tokyo/A1301/A130101/13004995/). |
+| **Kaiten Sushi Ginza Onodera Honten, Omotesando — 3.49** | The conveyor-sushi option for the Aoyama outing. Despite its Ginza brand name, this branch is **5-1-6 Jingumae, Omotesando**. Tabelog JPY 4,000–4,999; reviews often **JPY 6,000–7,999**. Separate from the expensive Ginza omakase Souhonten. | **Walk-in only**, with on-site waiting list; busy periods may have a 60-minute seating limit and tickets may stop early. [Official branch](https://onodera-group.com/kaitensushi-ginza/), [Tabelog](https://tabelog.com/en/tokyo/A1306/A130602/13264172/). |
+| **Numazuko Shinjuku Main Store — 3.46** | Flexible conveyor-sushi fallback during a Tokyo stay. **3-34-16 Shinjuku**, near the east/southeast station side. Tabelog JPY 2,000–2,999; reviews often **JPY 3,000–3,999**. English menu listed. | **Walk-in only**; allow for a queue. [Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13004192/). |
 
-## Wednesday Dec 9 — Imabari Towel Minami-Aoyama
+### Other Tokyo meals
 
-- **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** Provisionally place on **Wednesday Dec 9**, during the first Tokyo stay; the stop is requested, while this particular date/time is an assistant placement rather than a fixed appointment.
-- Suggested timing: late morning, allowing **30–60 minutes** for browsing, then lunch and optional Aoyama/Omotesando shopping. Keep this a manageable neighborhood outing; the traveler is visiting with their mother, who dislikes Tokyo's crowds. Do not turn the day into a kitchenware-focused route.
+- **[Maisen Aoyama Main Store — 3.44](https://tabelog.com/en/tokyo/A1306/A130602/13001850/):** optional tonkatsu around the Aoyama outing, **JPY 2,000–4,000 per person** as an allowance. **Reservations accepted**; overseas bookings may require an email response. Walk-ins may queue. Choose this or sushi as appetite and timing allow, rather than scheduling both lunches. [Official restaurant information](https://mai-sen.com/restaurant/).
+- **[Toriguchi / とり口, Gotanda — 3.51](https://tabelog.com/tokyo/A1316/A131603/13219515/):** possible Dec 9 yakitori dinner. Official address **2-28-10 Nishi-Gotanda**, about five minutes from JR Gotanda west exit; dinner **17:00–23:00**, last entry 21:30. October 2 menu research listed tax-included courses **JPY 5,060 / 7,150 / 9,900**, with drinks/extras additional. **Reservations accepted** via [Toreta](https://yoyaku.toreta.in/toriguchi), with English booking instructions; staff/menu language and overseas contact support remain unverified. Courses only, two-hour seating, cashless. Check cancellation terms, availability, and chicken-tataki/fully-cooked preferences before choosing a course. [Official information](https://www.toriguchi.jp/).
+
+New Tokyo shortlist research checked **October 17, 2026**; Toriguchi's detailed course research remains dated October 2. Ratings, menus, hours and policies may change. Booking access does not establish availability for our dates or fluent English service. No restaurant has been contacted or reserved.
+
+## Wednesday Dec 9 — Tsukiji and Ginza, proposed
+
+A requested Tokyo sushi morning followed by Ginza shopping/eating, provisionally on Dec 9. Keep hotel breakfast light if choosing sushi brunch. These are proposed placements, not appointments.
+
+- **[Tsukiji Outer Market](https://www.tsukiji.or.jp/english/):** the [official 2026 calendar](https://www.tsukiji.or.jp/assets/pdf/tsukiji_calendar2026.pdf) identifies **Dec 9 as a wholesale-market closure day**. Its footnote says Outer Market stores keep individual schedules and some may open. Expect a limited market visit and confirm specific shops rather than assuming all stalls operate. Sushidai Honkan's normal Monday–Saturday 10:30 opening supports the brunch idea, subject to exceptional closures. [Calendar information](https://www.tsukiji.or.jp/english/calendar/).
+- **[Ginza shopping and eating](https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html):** choose among **[GINZA SIX](https://ginza6.tokyo/)**, **[Ginza Mitsukoshi](https://www.mistore.jp/store/ginza.html)**, and **[Ginza Itoya Main Store](https://www.ito-ya.co.jp/ext/store/ginza/ginza/index.html)**. A food hall, stationery browse, café and a few streets can make a complete afternoon; visiting every store is not required.
+- **Food choices:** Tsukiji Sushidai Honkan for brunch, or Sushi no Midori Ginza as another sushi meal. Toriguchi in Gotanda remains a possible dinner, with a separate journey from Ginza. No need to have multiple sushi meals just because both are listed.
+
+## Tuesday Dec 15 — Imabari Towel Minami-Aoyama, proposed
+
+- **User-requested stop: Imabari Towel Minami-Aoyama store (今治タオル 南青山店).** Provisionally place on **Dec 15 after returning from Osaka**, with time for Aoyama/Omotesando if the train and shop hours allow. The stop is requested; this date/time is an assistant placement, not a fixed appointment. Choose the return journey before relying on the slot, and keep the final Tokyo afternoon manageable.
+- Allow **30–60 minutes** for towel browsing. Onodera conveyor sushi or Maisen tonkatsu are nearby meal alternatives, not compulsory additions before a Shinjuku dinner.
 - Address: **FROM-1st building, 2F, room 203, 5-3-10 Minami-Aoyama, Minato-ku, Tokyo 107-0062**. Official access: approximately **5 minutes on foot from Omotesando Station exit A5**.
-- Official hours checked Sep 26: **10:30–19:00**; closed the **second Tuesday of each month**, the second Sunday in August, the third Sunday in February, and over New Year. Dec 8 is the second Tuesday, so do not schedule it on arrival day. Exceptional December closures remain to be rechecked.
-- Source: https://www.imabaritowel.jp/store#aoyama . Phone: 03-6427-2941. This is the official Imabari Towel store, not the separate IKEUCHI ORGANIC shop.
-- If buying bulky towels before Tokyo-to-Osaka luggage dispatch, include them in the forwarded suitcase when practical; confirm the hotel's dispatch cutoff first.
+- Official hours **10:30–19:00**; regular closures include the **second Tuesday of each month**, the second Sunday in August, the third Sunday in February, and New Year. **Dec 15 is the third Tuesday**, outside that regular monthly closure; exceptional December closures still need checking.
+- [Official store information](https://www.imabaritowel.jp/store#aoyama). This is the official Imabari Towel store, not the separate IKEUCHI ORGANIC shop.
+- With towel shopping now planned after the Osaka stay, purchases would stay with the travelers for the journey home rather than go in the earlier Tokyo-to-Osaka shipment.
 
-## Dec 13 or 14 — Nara / Kikuichi
+## Sunday Dec 13 — Osaka food and shopping, proposed
 
-Use Hiyori as the Osaka base and return there the same evening. The exact day remains open; neither day is a hotel-transfer day.
+Choose a manageable Namba route: **[Namba Parks](https://nambaparks.com/)**, **[Takashimaya Osaka](https://www.takashimaya.co.jp/osaka/)**, Shinsaibashi, Hozenji or Dotonbori. Optional Kyoto/Kobe/Himeji excursions would replace this day rather than be added on top.
+
+| Food option | Budget per person and arrangements |
+|---|---|
+| **[Ajinoya Main Store — 3.59](https://tabelog.com/en/osaka/A2701/A270202/27001439/)** | Okonomiyaki/yakisoba; **JPY 2,000–4,000 allowance**. Sunday is a good candidate because the main store normally closes Mondays. **Walk-in queue or [English TableCheck FastPass](https://www.tablecheck.com/en/shops/ajinoya-okonomiyaki/reserve)**: JPY 660/person nonrefundable for priority queuing, not a guaranteed table. |
+| **[Daruma Namba Main Shop — 3.40](https://tabelog.com/en/osaka/A2701/A270202/27012813/)** | Kushikatsu; **JPY 2,000–3,000 allowance plus drinks**. A possible Monday dinner after Nara. **Weekday reservations accepted for 2+; weekends walk-in**. Reserved seats require a set menu and 90-minute limit. English/photo menus. [Official branch](https://www.kushikatu-daruma.com/location/nanba_honten). |
+| **[Daiki Suisan Namba CITY](https://tabelog.com/osaka/A2701/A270202/27004264/)** | Convenient conveyor sushi, including for Dec 12 arrival; **JPY 2,000–3,000 allowance**. **Walk-in only**, English menu listed. [LINE advance queuing](https://sushi.daiki-suisan.co.jp/sotomachi) joins a line rather than reserving a table. |
+
+Snack possibilities: **[551 Horai main shop](https://tabelog.com/osaka/A2701/A270202/27001312/)** pork buns and **[Rikuro Namba main shop](https://tabelog.com/osaka/A2701/A270202/27002336/)** cheesecake. Treat these as optional snacks. Rikuro's takeaway counter and upstairs café have different booking arrangements. Nothing is reserved.
+
+## Monday Dec 14 — Nara / Kikuichi, proposed
+
+Use Hiyori as the Osaka base and return there the same evening. Monday is the current proposal; Sunday remains possible if plans change. Neither is a hotel-transfer day.
 
 - Main destination: **Kikuichi Monju Shiro Kanenaga / Kikuichi Cutlery main shop**, 488 Zoshicho, Nara, 630-8211, near the foot of Mount Wakakusa in Nara Park.
-- Official shop hours checked Sep 25: **09:30–17:00, no regular closing day**. Reconfirm before visiting; this is not a guarantee against exceptional closures.
-- Official source: https://kikuichi.com/stores/ (use the main shop, not the Naraya restaurant or station souvenir branches).
-- Suggested relaxed sequence, not reservations: Osaka-Namba → Kintetsu-Nara (about 40 minutes by direct train) → local bus/taxi or park walk → Kikuichi late morning, allow 60–90 minutes → lunch → optional Todai-ji and deer-park stroll → Osaka for dinner.
-- Transit source: https://narashikanko.or.jp/en/access/ . Train duration excludes hotel access and the onward journey to the shop.
-- Shopping is the priority; keep outdoor sightseeing optional for December weather. Knife-sharpening experiences are advertised, but reservation requirements, price, language support and December slots have not been verified. Do not reserve anything without authorization.
+- Official shop hours checked Sep 25: **09:30–17:00, no regular closing day**. Reconfirm before visiting; this is not a guarantee against exceptional closures. [Official shop source](https://kikuichi.com/stores/) (use the main shop, not the Naraya restaurant or station souvenir branches).
+- Suggested relaxed sequence, not reservations: Osaka-Namba → Kintetsu-Nara (about 40 minutes by direct train) → local bus/taxi or park walk → Kikuichi late morning, allow 60–90 minutes → lunch → optional Todai-ji and deer-park stroll → Osaka for dinner. [Transit source](https://narashikanko.or.jp/en/access/); train duration excludes hotel/shop access.
+- **[Shizuka Park Branch — 3.42](https://tabelog.com/en/nara/A2901/A290101/29000714/)** is the main lunch idea: kamameshi rice pots, **JPY 2,000–3,000 allowance**, **walk-in only**. Multilingual menus are listed by [Nara tourism](https://www.visitnara.jp/venues/D00206/). Allow time for queues and cooking. The [official branch](https://kamameshi-shizuka.jp/free/kouen) normally closes Tuesdays plus an irregular day; check December's calendar.
+- **[Hiraso Nara](https://hiraso.jp/shop/shop-nara/)** remains a general alternative, but dining is **closed Mondays**, so it is not part of the active Dec 14 lunch plan. **[Kasuga Ninai Jyaya](https://www.kasugataisha.or.jp/ninaijyaya/)** remains a possibility only after its closure schedule is resolved; official language pages and tourism listings conflict over Monday/Tuesday closure. Both remain in the companion's full places list.
+- Shopping is the priority; outdoor sightseeing is optional for December weather. Knife-sharpening experiences are advertised, but booking requirements, price, language and December slots are unverified. Do not reserve anything without authorization.
 
 ## Luggage plan for the booked hotels
 
@@ -100,7 +133,7 @@ Use Hiyori as the Osaka base and return there the same evening. The exact day re
 | Hyatt Regency Tokyo → Hiyori Hotel Osaka Namba | Dec 12 | Dec 9 or Dec 10 | Regency outgoing service/cutoff; Hiyori receiving/storage window; carrier timing, price and labels |
 | Hiyori Hotel Osaka Namba → Hyatt Regency Tokyo | Dec 15 | Dec 14 | Hiyori dispatch cutoff and carrier timing; Regency acceptance for the return stay |
 
-Large bags bypass the two Hakone nights. Carry a small bag with essentials and a delivery-delay buffer; if shipping on Dec 14, keep essentials for the final Osaka night. Include bulky Imabari purchases in the first shipment if timing allows. Do not assume same-day or guaranteed next-day delivery.
+Large bags bypass the two Hakone nights. Carry a small bag with essentials and a delivery-delay buffer; if shipping on Dec 14, keep essentials for the final Osaka night. Imabari shopping is now provisionally after the return to Tokyo, so those purchases would stay with the travelers for the journey home. Do not assume same-day or guaranteed next-day delivery.
 
 Prior research supports Hiyori's receiving/storage/outgoing service, but the actual shipments and dates are not arranged. Regency requires prior acceptance for incoming bags; its outgoing service and Dec 16 daytime storage remain to be confirmed. Use the specific hotel sources in [HOTELS.md](HOTELS.md), not policies for unbooked alternatives. Confirm prepaid/collect rules, dimensions/weight, cost and reservation-name matching. Keep passports, medication, valuables and essential electronics with the travelers.
 
@@ -112,7 +145,7 @@ Build door-to-door routes and a sourced cost table for these actual endpoints:
 2. **Dec 10:** Hyatt Regency Tokyo → Hakone Gora Karaku, allowing time before the actual dinner seating.
 3. **Dec 11:** only the local Hakone transport required for the chosen outing/spa plan.
 4. **Dec 12:** Karaku → Odawara → Shin-Osaka → Hiyori Hotel Osaka Namba.
-5. **Dec 13 or 14:** Hiyori → Osaka-Namba → Nara/Kikuichi → Hiyori.
+5. **Proposed Dec 14:** Hiyori → Osaka-Namba → Nara/Kikuichi → Hiyori.
 6. **Dec 15:** Hiyori → Tokyo → Hyatt Regency Tokyo.
 7. **Dec 16:** Regency → NRT for the 18:15 departure.
 8. Two luggage-forwarding shipments priced for the actual bags and delivery dates.

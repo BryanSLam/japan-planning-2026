@@ -1,6 +1,6 @@
 # Japan trip — December 8–16, 2026
 
-Updated October 2, 2026. **All eight hotel nights are booked**, with no gaps or overlaps. Dates and times are Japan local time. Traveling party: two adults, one room, two beds requested.
+Updated October 17, 2026. **All eight hotel nights are booked**, with no gaps or overlaps. Dates and times are Japan local time. Traveling party: two adults, one room, two beds requested.
 
 | Hotel | Check-in | Check-out | Nights |
 |---|---|---|---:|
@@ -15,11 +15,12 @@ The Tokyo stays are Club Twin free-night awards totaling **81,000 Hyatt points**
 
 ## Current plans
 
-- [Day-by-day itinerary and luggage plan](ITINERARY.md): Imabari Towel Minami-Aoyama, two Hakone nights with spa time, and Nara/Kikuichi from Osaka.
+- [Little Japan Days trip companion](https://little-japan-days-2026.bryan-s-lam.chatgpt.site): public, mobile-friendly itinerary, interactive map, food links and all possible stops for sharing with family. Hotel stays are booked; other placements remain ideas. Favorites are saved on each device and do not synchronize between travelers.
+- [Day-by-day itinerary and luggage plan](ITINERARY.md): proposed Dec 9 Tsukiji/Ginza, Dec 15 Imabari/Aoyama, two Hakone nights with spa time, and Nara/Kikuichi from Osaka.
 - [Confirmed hotels](HOTELS.md): the four stays, verified costs and details still to capture.
 - [Remaining tasks](TODO.md): transport, forwarding, spa, meals and reservation details.
 - [Handoff](HANDOFF.md): traveler preferences and how to continue without reopening completed booking work.
 - [Redacted receipt](receipts/README.md): Karaku payment evidence; private identifiers removed.
 - [Historical hotel research](research/HOTEL_RESEARCH.md): dated comparisons and sources, not current booking tasks.
 
-Hotel booking is complete. Trains, luggage shipments, spa treatments and restaurant reservations are not yet confirmed. Nara is requested for one of Dec 13/14; the exact day is still open. Hiroshima/Miyajima and Kinosaki are outside the booked route; Kyoto remains optional.
+Hotel booking is complete. Trains, luggage shipments, spa treatments and restaurant reservations are not yet confirmed. The working plan places Osaka on Sunday Dec 13 and Nara/Kikuichi on Monday Dec 14; these are proposals, not reservations. Hiroshima/Miyajima and Kinosaki are outside the booked route; Kyoto/Kobe/Himeji remain optional alternatives.

@@ -1,6 +1,6 @@
 # Remaining trip planning
 
-Updated October 2, 2026. **Hotel booking is complete.** All dates below are Japan local time, 2026. These tasks do not authorize purchases, booking changes or provider contact.
+Updated October 17, 2026. **Hotel booking is complete.** All dates below are Japan local time, 2026. These tasks do not authorize purchases, booking changes or provider contact.
 
 ## Completed
 
@@ -25,23 +25,25 @@ Updated October 2, 2026. **Hotel booking is complete.** All dates below are Japa
 - [ ] Plan Regency → NRT Dec 16 for the 18:15 departure, with airport buffer and hotel luggage storage.
 - [ ] Confirm Regency outgoing forwarding, incoming acceptance/storage for the return stay, and Dec 16 daytime storage.
 - [ ] Confirm Hiyori incoming/storage/outgoing arrangements for our dates: Dec 12 delivery and possible Dec 14 dispatch for Dec 15 Tokyo delivery. Verify carrier cutoff, transit time, suitcase size/weight, charges and labeling.
-- [ ] Choose first-Tokyo dispatch Dec 9 or Dec 10 only after confirming delivery timing; pack a small bag for the two Hakone nights plus delay buffer. Confirm whether towel purchases can go into that shipment.
+- [ ] Choose first-Tokyo dispatch Dec 9 or Dec 10 only after confirming delivery timing; pack a small bag for the two Hakone nights plus delay buffer. Imabari is now proposed Dec 15, so those purchases would remain with the travelers for the journey home.
 - [ ] Build a sourced transport/forwarding cost table for the actual route, including Nara and selected Hakone outings. The old JPY 136,000–142,000 placeholder is not a budget to rely on. Evaluate rail-pass value only if relevant to the priced route.
 
 ## Spa and outings
 
 - [ ] Select Gora Spa AIOI treatment, whether both travelers want it, pair-room availability and a Dec 11 slot. Verify full appointment duration, price, payment and cancellation before booking; preserve ryokan relaxation and dinner time.
 - [ ] Choose Dec 11 museum + Gyoza Center or Gora Park/light outing + Tamura. Recheck closures, December park hours, walk-in queues and weather. Neither lunch option has a reservation.
-- [ ] Recheck Imabari Minami-Aoyama exceptional closures and plan a relaxed Dec 9 Aoyama/Omotesando outing. Regular second-Tuesday closure falls on arrival day Dec 8.
-- [ ] Assign Nara/Kikuichi to Dec 13 or Dec 14, preserving the other day for Osaka or one optional excursion. Recheck Kikuichi hours, holiday closures and local access.
+- [ ] Check specific Tsukiji shops and Sushidai Honkan's exceptional Dec 9 service before fixing the proposed morning. The official calendar marks a wholesale closure that day; individual Outer Market shops may open. Normal Sushidai lunch starts 10:30 Monday–Saturday. Keep Ginza shopping/eating afterward flexible.
+- [ ] Recheck Imabari Minami-Aoyama exceptional closures and fit the proposed Dec 15 Aoyama/Omotesando outing around the return train and shop hours. Dec 15 is the third Tuesday, outside the regular second-Tuesday closure.
+- [ ] Confirm the proposed Osaka Sunday Dec 13 / Nara Monday Dec 14 arrangement. Recheck Kikuichi hours, Shizuka Park Branch's December closure calendar, queues and local access. Hiraso dining is closed Mondays; Kasuga tea house's closure schedule remains unresolved.
 - [ ] If desired, investigate Kikuichi sharpening experience price, language, booking requirements and availability. If buying knives, verify transport/airline packing rules and coordinate with bag forwarding.
 
 ## Food and remaining budget
 
 - [ ] Clarify dietary/allergy needs before making dining or meal-plan arrangements.
-- [ ] Follow up the requested [Tokyo options](ITINERARY.md#tokyo-restaurant-options--added-october-2): **Toriguchi (Gotanda)** and **Yakiniku Jumbo**. Choose Jumbo's branch with the traveler; Hanare is only a researched example. Neither restaurant is scheduled or reserved.
-- [ ] For those two options, choose an evening (Dec 9 or Dec 15 are candidates), verify two-person availability, booking windows, overseas booking access and selected-plan cancellation/card-hold terms. Hanare's published monthly policy implies December opens November 1; confirm the actual release time/window. For Toriguchi, check course preferences including chicken tataki/fully cooked alternatives.
-- [ ] Research restaurants near Hyatt Regency Tokyo, Karaku and Hiyori, applying the criteria in [HANDOFF.md](HANDOFF.md): three options, Tabelog, spend, review themes, foreigner accessibility and explicit reservation/walk-in status.
+- [ ] Choose among the three [Shinjuku beef-dinner options](ITINERARY.md#shinjuku-beef-dinner--choose-one): **Ushigoro Shinjuku 3-chome, Rokkasen Nishiguchi Main Branch, or Yakiniku Motoyama Shinjuku**. Dec 15 is proposed; verify two-person availability, selected-course total, cancellation/card-hold terms and time after the return train. Jumbo is removed from the active shortlist.
+- [ ] If choosing **Toriguchi**, confirm a possible Dec 9 evening, exact availability, booking window, overseas access and selected-plan cancellation terms. Check chicken-tataki/fully-cooked preferences.
+- [ ] Pick sushi meals from **Sushidai Honkan (Tsukiji), Sushi no Midori Ginza, Onodera Honten (Omotesando), or Numazuko Shinjuku** as the route and appetite allow. Recheck opening, queues and any chosen booking terms; these are alternatives, not four mandatory meals. Maisen remains an Aoyama tonkatsu option.
+- [ ] Finalize remaining meals near the booked hotels using the sourced [food shortlist](ITINERARY.md#tokyo-food-options--updated-october-17) and criteria in [HANDOFF.md](HANDOFF.md), while preserving arrival/transfer-day flexibility.
 - [ ] Distinguish reservation availability from booking policy, and protect travel-day flexibility. No restaurant is confirmed reserved.
 - [ ] Record Hiyori's actual cost, remaining hotel taxes/extras, transport, forwarding and chosen spa costs before totaling the cash budget. Tokyo awards total 81,000 points; Karaku receipt confirms JPY 239,814 paid.
 
