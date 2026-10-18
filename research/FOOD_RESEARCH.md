@@ -1,6 +1,6 @@
 # Current food shortlist and ordering evidence
 
-Checked October 17, 2026 against the current trip companion. **All 45 eligible food/drink stops (41 meal/snack venues and four drinks options) have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** AWAI is a separate in-house amenity outside these counts. Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
+Checked October 17, 2026 against the current trip companion. **All 48 eligible food/drink stops (44 meal/snack venues and four drinks options) have exact-branch Tabelog scores of at least 3.3 and sourced English ordering support. There is no upper rating limit. Nothing is reserved.** AWAI is a separate in-house amenity outside these counts. Proposed placements are in [ITINERARY.md](../ITINERARY.md); several options mean choice, not several required meals.
 
 An English menu, English ordering tablet, actual English dish list usable to show staff, or specific visitor evidence supports ordering. It does not promise fluent staff on every shift. Queue labels are planning assessments, not wait guarantees. High-queue places, fixed bookings and farther detours are optional; convenient walk-ins lead the day. Published hours are normal patterns, not confirmed December availability.
 
@@ -9,6 +9,22 @@ An English menu, English ordering tablet, actual English dish list usable to sho
 Tabelog uses weighted reviewer scores, not a simple average. Its [official rating guide](https://tabelog.com/en/help/score) places 3.50–under 4.00 in roughly the top 3% of listed restaurants and 4.00+ in about the top 0.07%. Under 3.50 covers roughly 97%, including new or less-reviewed restaurants; a score near 3.0 is not an official guarantee of quality. The 3.3 floor is this trip’s preference, and scores can change.
 
 ## Tokyo
+
+### [Torigin · Ginza Honten — 3.41](https://tabelog.com/en/tokyo/A1301/A130101/13002571/)
+
+- **Food / budget:** Charcoal chicken skewers, small plates and individual kamameshi rice pots. Allow **¥3,000–5,000/person** with some drinks. The [current owner menu](https://tabelog.com/en/tokyo/A1301/A130101/13002571/dtlmenu/) lists mixed kamameshi **¥1,600**, chicken **¥1,400**, five skewers **¥1,240**; tax included. Vegetable-topped rice still uses fish dashi. A current table/appetizer charge was not established; ask when seated.
+- **English ordering:** The [official English menu page](https://torigin-ginza.jp/eng/) links actual photographed **KAMAMESHI, YAKITORI and SAKE menus**, not just translated navigation. The linked menu images carry a 2023 revision filename; use the newer owner menu/current in-store prices. Spoken-English fluency is not promised.
+- **Access / hours:** **New Ginza Building No.6 B1F, 5-5-7 Ginza, Chuo-ku**, near Ginza Station B3 and the shopping route. [Official information](https://torigin-ginza.jp/): normally daily **11:30–22:00, last order 21:00**, year-end/New Year closure; Wednesday Dec 9 fits normal service, exceptional dates unverified. **Cash only; walk-in only, no reservations; basement stairs.** Order rice first and allow about **15 minutes** cooking.
+- **Queue / fit:** Moderate queue risk; a [firsthand August 2024 account](https://foodsaketokyo.com/2024/08/24/ginza-torigin/) describes a line down the stairs. **Dec 9 Ginza dinner alternative**, replacing tempura/noodles/Jumbo rather than adding a meal. The neighboring **New Torigin is a separate shop, 3.23**, outside this shortlist.
+- **Food photos:** Two distinct [restaurant-owner photographs](https://tabelog.com/tokyo/A1301/A130101/13002571/dtlphotolst/1/smp2/) caption mixed kamameshi and yakitori. Photo URLs/provenance are supplied for companion import and visual QA.
+
+### [Uotoku · Ikebukuro — 3.41](https://tabelog.com/en/tokyo/A1305/A130501/13234011/)
+
+- **Food / budget:** Seafood izakaya with fish skewers, sashimi, sushi rolls and rice bowls. Allow **¥5,000–6,500/person** for dinner and drinks. [Official menu](https://non-uotoku.com/menu/): plain fish skewers **¥250–300**, three atemaki rolls **¥1,850**, two-person sashimi **¥1,770**, three-color seafood rice bowl with broth **¥2,300** for roughly two to three portions; examples include tax. A table/appetizer charge was not established—ask before ordering.
+- **English ordering:** The [venue-supplied Gurunavi profile](https://gurunavi.com/en/ggfh200/rst/) explicitly lists an **English menu and English-speaking staff**, with an [actual English dish list](https://gurunavi.com/en/ggfh200/mn/menu1/rst/). The business Tabelog profile corroborates English ordering support. This is more than English website navigation, but does not guarantee every shift. Use newer official prices where older merchant menus differ.
+- **Access / hours:** **1-13-12 Higashi-Ikebukuro**, a side lane off Sunshine-dori between Sunshine City and Ikebukuro Station, about four minutes from the station east side. [Official information](https://non-uotoku.com/): weekdays **17:00–24:00**, weekends/holidays **12:00–24:00**; **food last order 23:00, drinks 23:30**; open year-round subject to temporary changes. Normal Tuesday service fits Dec 15. Cards and PayPay listed; ask for **non-smoking seating**.
+- **Booking / fees:** Reservations accepted; flexible walk-ins depend on space, with no reliable typical wait established. Same-day **course cancellations 100%**. Same-day **seat-only cancellation ¥4,000/person with notice or ¥5,000 without**; previous day listed free. Check the selected terms before any reservation. Nothing booked. [Merchant terms](https://tabelog.com/en/tokyo/A1305/A130501/13234011/).
+- **Placement / photos:** **Dec 15 dinner only if choosing Sunshine City**, instead of Aoyama and instead of the other Ikebukuro dinners. Two distinct actual fish-skewer/atemaki images come from the [official menu page](https://non-uotoku.com/menu/); import/visual QA is separate.
 
 ### [Robata Sho · West Shinjuku — 3.54](https://tabelog.com/en/tokyo/A1304/A130401/13144675/)
 
@@ -233,6 +249,14 @@ All six official food photographs were downloaded, visually checked and saved as
 
 ## Osaka
 
+### [Sakanabiiki · Namba CITY — 3.43](https://tabelog.com/osaka/A2701/A270202/27133532/)
+
+- **Food / budget:** Seafood izakaya: bluefin tuna sashimi, grilled fish, omelet and vegetable small plates, with rice/sushi if hungry. Allow **¥3,000–4,500/person** with a few drinks. [Restaurant-managed menu](https://tabelog.com/osaka/A2701/A270202/27133532/dtlmenu/): tuna sashimi platter **¥1,859**, grilled tuna collar **¥759** subject to stock, dashi omelet **¥539**, corn tempura **¥539**.
+- **English ordering / charges:** The exact branch’s [restaurant-managed Japanese Tabelog profile](https://tabelog.com/osaka/A2701/A270202/27133532/) explicitly lists an **English ordering menu**, and **no service or cover charge**. English-speaking staff are not established. The autogenerated English charge paragraph conflicts with Japanese; use the Japanese entry and reconfirm on arrival. Cards accepted.
+- **Access / hours:** **Namba CITY Main Building 1F, 5-1-60 Namba, Chuo-ku**, a short walk from Hiyori and convenient for Takashimaya/Namba CITY. [Official operator page](https://shop.daiki-suisan.co.jp/detail/sakana-3/): daily **11:00–22:30, last order 22:00**, following mall closures. Normal Saturday/Sunday/Monday service fits **Dec 12–14**; exceptional December closures unverified. This is not the nearby Daiki conveyor-sushi branch.
+- **Booking / fit:** The current operator accepts optional seat reservations and links an [online seat-booking plan](https://r.gnavi.co.jp/plan/enjs9cj50000/plan-reserve/plan/plan_list). An older official LINE page saying no reservations is superseded. Try an earlier walk-in if flexible; no dependable wait estimate. Check the selected seat cancellation terms if reserving; none booked. A **full dinner alternative** to Rikimaru or the noodle/sushi/pancake choices on Dec 12–14, including the Nara-return evening; not a second dinner.
+- **Food photos:** Two distinct restaurant-supplied [Gurunavi menu images](https://r.gnavi.co.jp/enjs9cj50000/menu1/) show the tuna sashimi platter and grilled tuna collar, with source credits supplied for companion import.
+
 ### [Rikimaru Chaya · Hozenji — 3.36](https://tabelog.com/en/osaka/A2701/A270202/27001517/)
 
 - **Style / budget:** Robata izakaya · seafood & vegetables. Allow ¥3,000–4,500 per person for shared food and a few drinks. Many small plates start at ¥385; large prawns are ¥770. An otoshi appetizer charge of ¥385 per person is listed. Actual spending depends on orders.
@@ -247,8 +271,9 @@ All six official food photographs were downloaded, visually checked and saved as
 - **Practicalities:** 2-3-11 Shinsaibashisuji, Chuo-ku, Osaka. Daily 17:00–23:00; last order 22:30. Normal hours cover Saturday December 12, Sunday December 13 and Monday December 14; exceptional closures remain possible. Reservations are accepted; no seat is booked. Walk-ins depend on available seats. Aim for a regular bar seat on floors 1–2, and check the cover before sitting down. [Official information](https://tabelog.com/en/osaka/A2701/A270202/27064091/).
 - **Orders / fit:** Blue Blazer II · hot whiskey cocktail; Sixth Sense · gin and plum; Virgin mojito or another non-alcoholic cocktail. The listing offers reservations and has limited regular bar seats. Walk-ins are subject to space; no dependable current wait time was established. [Source](https://tabelog.com/en/osaka/A2701/A270202/27064091/). Two sourced actual food/drink photos are shown in the companion.
 
-### [Sushi Zen — 3.55](https://tabelog.com/osaka/A2701/A270201/27152697/)
+### Prior dinner option: [Sushi Zen — 3.55](https://tabelog.com/osaka/A2701/A270201/27152697/)
 
+- **Selection status:** Retain the prior proposed **Dec 13** option while the traveler compares **Japanese-food restaurants with Tabelog 4.0+ at ¥30,000/person or less before drinks**, with no lower budget bound. No new premium restaurant is selected; options must be presented before the traveler picks. Do not interpret this research or its prior date as a booking.
 - **Style / budget:** Sushi omakase & seasonal dishes. Omakase with alcoholic free-flow: ¥18,000 including consumption tax, plus 5% service = ¥18,900 per person; ¥37,800 for two. VIP alcohol course ¥26,250 per person after service. Confirm the selected booking total and any extras before reserving.
 - **English ordering:** The restaurant-managed Tabelog profile explicitly lists an English menu and English-speaking staff; the official website also explains the courses in English. Recent specific traveler reports describe English dish explanations. [Evidence](https://tabelog.com/osaka/A2701/A270201/27152697/).
 - **Practicalities:** 4F Ars Building, 1-14-15 Higashi-Shinsaibashi, Chuo-ku, Osaka. Normal dinner seatings 18:00–20:00 and 20:30–23:00, including Sundays; irregular closing days. December 13 service and seats require live booking confirmation. Reservation required. Official TableCheck takes card details as a guarantee; pay at the restaurant. Cancellation or change within 18 hours of arrival costs 100% of the reservation fee. No reservation made. [Official information](https://sushi-zen.net/en/).
